@@ -1,0 +1,74 @@
+{
+  "count": 926,
+  "byTopic": {
+    "1": {
+      "total": 163,
+      "levels": [
+        19,
+        23,
+        61,
+        60
+      ],
+      "images": 20
+    },
+    "2": {
+      "total": 163,
+      "levels": [
+        20,
+        23,
+        60,
+        60
+      ],
+      "images": 0
+    },
+    "3": {
+      "total": 150,
+      "levels": [
+        15,
+        15,
+        60,
+        60
+      ],
+      "images": 16
+    },
+    "4": {
+      "total": 150,
+      "levels": [
+        15,
+        15,
+        60,
+        60
+      ],
+      "images": 33
+    },
+    "5": {
+      "total": 150,
+      "levels": [
+        15,
+        15,
+        60,
+        60
+      ],
+      "images": 0
+    },
+    "6": {
+      "total": 150,
+      "levels": [
+        15,
+        15,
+        60,
+        60
+      ],
+      "images": 0
+    }
+  },
+  "imageQuestions": 69,
+  "uniqueImageAssets": 27,
+  "uniqueImageGroups": 27,
+  "errors": [],
+  "nearDuplicateCandidates": [],
+  "warnings": [],
+  "sha256": "deeb45322c520a12c515f058f27ca572d12ee02d86bbf5d6dcb964560cffe1ec",
+  "checkedAt": "2026-10-10T20:10:02.221Z",
+  "note": "Kiểm tra cấu trúc và tài sản; nội dung và nguồn cần đối chiếu theo các audit riêng. Các cặp gần giống cần rà soát thủ công."
+}

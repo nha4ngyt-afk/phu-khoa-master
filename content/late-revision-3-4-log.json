@@ -1,0 +1,12 @@
+{
+  "ids": [
+    "T3-042",
+    "T4-099"
+  ],
+  "changes": [
+    "T3-042: symptom treatment plus diagnostic assessment, distinct reasons for each distractor.",
+    "T4-099: integration of mucinous sampling uncertainty, temporary frozen classification, CA125 limits and fertility consequences."
+  ],
+  "sourcesChanged": false,
+  "difficultyMatrixChanged": false
+}
