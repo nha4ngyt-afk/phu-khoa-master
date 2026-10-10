@@ -26,7 +26,9 @@ Ngày kiểm tra: 11/10/2026. Cấu hình chuẩn: 90 câu, 90 phút, sáu topic
 
 Không ghi nhận cảnh báo/lỗi console trong tab Chromium sau các thao tác làm bài, tải lại, biên tập, xuất CSV và luyện lại đã nêu.
 
-Các luồng lưu/hết giờ/ngoại tuyến được kiểm tra trên bản production trước lượt chốt nội dung cuối. Sau khi khóa ngân hàng và build lại, đã kiểm tra thêm chia sẻ, ảnh MRI, cấu hình Topic 3 và bảo vệ bài luyện tập trên đúng bản cuối. Địa chỉ GitHub Pages và bản ngân hàng công khai sẽ được xác nhận sau workflow phát hành.
+Các luồng lưu/hết giờ/ngoại tuyến được kiểm tra trên bản production trước lượt chốt nội dung cuối. Sau khi khóa ngân hàng và build lại, đã kiểm tra thêm chia sẻ, ảnh MRI, cấu hình Topic 3 và bảo vệ bài luyện tập trên đúng bản cuối.
+
+**GitHub Pages đã phát hành thành công:** [mở website](https://nha4ngyt-afk.github.io/phu-khoa-master/). [Workflow bản phát hành](https://github.com/nha4ngyt-afk/phu-khoa-master/actions/runs/38082846688) có cả job build và deploy thành công, gồm install, assemble, validate, test và build. Đã mở trang công khai bằng Chromium: hiển thị phiên bản `2026.10-deeb45322c52`, 926 câu và cấu hình chuẩn 90 câu/90 phút; bộ lọc có hình hiển thị 69 câu. Mở T1-144 xác nhận bệnh cảnh/nhiệm vụ, Figure 4 tải được, nguồn tác giả và CC BY-NC 4.0 hiển thị đầy đủ. Các hình của trang ngân hàng đầu cũng tải được, bao gồm Figure 15 đã được người dùng chấp thuận phát hành. Không thấy lỗi/cảnh báo console trong tab này. Ảnh trang chủ công khai được lưu trong tệp bàn giao `phu-khoa-master-live.png`.
 
 ## Kiểm tra tự động
 
