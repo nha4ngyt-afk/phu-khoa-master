@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-11",
+  "status": "passed",
+  "bankVersion": "2026.10-cbb5eadfe4e0",
+  "bankSha256": "cbb5eadfe4e070a5914094f7f0f0b512aacc6d213da668a820882214f7cf4aff",
+  "scope": "Technical integrity of final reviewer ledgers and consolidated index. Review hashes and full-read assertions are supplied by the human review process; this script does not perform clinical or psychometric review.",
+  "checks": {
+    "exactCoverage": true,
+    "topicJsonMatchesCompiledBank": true,
+    "ownerBoundFinalNodeHash": true,
+    "fullRecordReadAndClosed": true,
+    "sourceKeysAndVerifiedConditions": true,
+    "strictImageFlagsAndReviewedAssets": true,
+    "indexMatchesRawRecordAndLedger": true,
+    "allowlistedSourceLedgerPaths": true,
+    "closedCrossPeerStates": true,
+    "finalCrossBankAndCandidateHashes": true,
+    "crossPeerLedgerBinding": true,
+    "historicalPeerHashesPreserved": true
+  },
+  "validation": {
+    "records": 926,
+    "individualReviews": 926,
+    "imagingReviews": 69,
+    "bankSha256": "cbb5eadfe4e070a5914094f7f0f0b512aacc6d213da668a820882214f7cf4aff",
+    "errors": [],
+    "note": "Coverage, owner-bound final hashes and raw audit integrity only; no automatic clinical or psychometric grading."
+  },
+  "sourceReferences": 1338,
+  "summary": {
+    "records": 926,
+    "substantiveTextOrLevelChanged": 720,
+    "caseOrTaskChanged": 511,
+    "optionsChanged": 699,
+    "answerKeyChanged": 318,
+    "explanationChanged": 706,
+    "difficultyChanged": 11,
+    "sourceChanged": 461,
+    "imageQuestions": 69,
+    "imageAssets": 27,
+    "imageCaseGroups": 27,
+    "levels": [
+      110,
+      95,
+      361,
+      360
+    ],
+    "byTopic": [
+      {
+        "topic": 1,
+        "total": 163,
+        "levels": [
+          25,
+          17,
+          61,
+          60
+        ],
+        "images": 20
+      },
+      {
+        "topic": 2,
+        "total": 163,
+        "levels": [
+          25,
+          18,
+          60,
+          60
+        ],
+        "images": 0
+      },
+      {
+        "topic": 3,
+        "total": 150,
+        "levels": [
+          15,
+          15,
+          60,
+          60
+        ],
+        "images": 16
+      },
+      {
+        "topic": 4,
+        "total": 150,
+        "levels": [
+          15,
+          15,
+          60,
+          60
+        ],
+        "images": 33
+      },
+      {
+        "topic": 5,
+        "total": 150,
+        "levels": [
+          15,
+          15,
+          60,
+          60
+        ],
+        "images": 0
+      },
+      {
+        "topic": 6,
+        "total": 150,
+        "levels": [
+          15,
+          15,
+          60,
+          60
+        ],
+        "images": 0
+      }
+    ]
+  },
+  "negativeTests": {
+    "fixture": "/private/tmp/reaudit-integrity-fixture-tJOsTE",
+    "records": 926,
+    "images": 69,
+    "count": 21,
+    "cases": [
+      {
+        "name": "changed current question / stale owner hash",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "missing owner hash (Python hash alone not accepted)",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "missing full record read",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "whitespace source condition",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "source verified truthy string",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "extra raw ID",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "duplicate bank ID",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "image truthy false flag",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "image unfinished status",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "image empty visible finding",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "image reviewed asset mismatch",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "image group mismatch",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "image published byte hash mismatch",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "unknown cross review status",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "unknown peer review status",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "cross final bank hash stale",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "cross final candidate hash stale",
+        "validator": "rejected",
+        "finalizer": "rejected before write"
+      },
+      {
+        "name": "index forged question hash",
+        "validator": "rejected",
+        "finalizer": "not applicable (index tamper)"
+      },
+      {
+        "name": "index unapproved raw ledger path",
+        "validator": "rejected",
+        "finalizer": "not applicable (index tamper)"
+      },
+      {
+        "name": "raw changed after consolidation",
+        "validator": "rejected",
+        "finalizer": "not applicable (index tamper)"
+      },
+      {
+        "name": "peer history changed after consolidation",
+        "validator": "rejected",
+        "finalizer": "not applicable (index tamper)"
+      }
+    ],
+    "artifactWritesDuringFailure": "No failed raw validation altered the existing fixture index."
+  },
+  "artifacts": {
+    "scripts/validate-audit.mjs": "a547f80a7e58cf2087771e6094fcfe94da13147eddef33e3565a25770f2e9108",
+    "content/reaudit-index.json": "9b46a8975f6d16d5fdd76bf40de6cb80cc43afd9f524b2515ece7bad34d7eaba",
+    "content/reaudit-diff.json": "0f7686c1de0eb1dacb9795e287d650d88e9f249cbc455616c9a30119560bdfa6",
+    "content/reaudit-1-2.json": "8c9d1ff6a0e8bef0692c95f59b7678c730bb731e726bf1ce1b01504fedd32982",
+    "content/reaudit-3-4.json": "44b4e6827e17569cf12892598e6d8e16195bf141f7441c4ddbcfa212723f8e05",
+    "content/reaudit-5-6.json": "d82327b042e40a668d04f6ae6ace6dac4b66afc092bde31fcacff524257afac8",
+    "content/reaudit-cross-topic.json": "d1deb52c53dd87a60068345f4b2e0de04af158d12afb7c129800b1c7a84f1123",
+    "content/reaudit-peer.json": "b7ff6a97d11aa98eae0a7939186d72d22a902ae565cbcaaea989a4ba1f1e6c40"
+  },
+  "finalizer": {
+    "path": "/private/tmp/finalize-reaudit.mjs",
+    "sha256": "2e10b426ea03060f60a6388c5ffc3837bb689e47cfd4211925ebbc9bd60073ea"
+  },
+  "limitations": [
+    "Technical checks cannot establish medical correctness or whether a declared manual review actually occurred.",
+    "Peer questionSha256AtPeerRead remains a historical snapshot; final content is bound by owner raw hashes and the final cross-topic hashes.",
+    "Image-byte hashes are checked where the raw reviewer ledger supplies them; every imaging record requires reviewed asset identity, group, clinical vignette, explicit task, provenance and visible findings."
+  ]
+}

@@ -9,6 +9,7 @@
     "build": "tsc --noEmit && vite build && node scripts/offline.mjs",
     "test": "vitest run",
     "validate": "node scripts/validate-bank.mjs",
+    "validate:audit": "node scripts/validate-audit.mjs",
     "assemble": "node scripts/assemble.mjs",
     "preview": "vite preview --host 127.0.0.1"
   },

@@ -4,8 +4,8 @@
     "1": {
       "total": 163,
       "levels": [
-        19,
-        23,
+        25,
+        17,
         61,
         60
       ],
@@ -14,8 +14,8 @@
     "2": {
       "total": 163,
       "levels": [
-        20,
-        23,
+        25,
+        18,
         60,
         60
       ],
@@ -68,7 +68,7 @@
   "errors": [],
   "nearDuplicateCandidates": [],
   "warnings": [],
-  "sha256": "deeb45322c520a12c515f058f27ca572d12ee02d86bbf5d6dcb964560cffe1ec",
-  "checkedAt": "2026-10-10T20:10:02.221Z",
+  "sha256": "cbb5eadfe4e070a5914094f7f0f0b512aacc6d213da668a820882214f7cf4aff",
+  "checkedAt": "2026-10-11T09:04:10.971Z",
   "note": "Kiểm tra cấu trúc và tài sản; nội dung và nguồn cần đối chiếu theo các audit riêng. Các cặp gần giống cần rà soát thủ công."
 }

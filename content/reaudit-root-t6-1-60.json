@@ -1,0 +1,2309 @@
+{
+  "status": "complete",
+  "reviewer": "root",
+  "range": "T6-001..060",
+  "count": 60,
+  "items": [
+    {
+      "id": "T6-001",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Nhớ mẫu số 100 năm phụ nữ của PI.",
+      "levelBefore": 1,
+      "levelAfter": 1,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Các đặc tính của một phương pháp tránh thai.pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "Định nghĩa PI trang1, không đồng nhất tỷ lệ ngừng sử dụng hoặc số giao hợp.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [],
+      "issueResolved": "Đọc lại đủ câu/bốn phương án/bốn lời giải và điều kiện nguồn; giữ hoặc sửa văn phong theo bản cuối.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "3e9f431ebeb22c3a98e629cce5bfb3cd1f23a9e928447cdcd6a6867fd1925e83",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-002",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Giải thích ý nghĩa của mẫu số thời gian khi so PI trong điều kiện tương đương.",
+      "levelBefore": 2,
+      "levelAfter": 2,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Các đặc tính của một phương pháp tránh thai.pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "Định nghĩa PI và điều kiện so sánh tương đương; không suy nhân quả từ hai đoàn hệ khác nhau.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "optionExplanations"
+      ],
+      "issueResolved": "",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "4e5d0e9662c8c380e97a99d76378b1c9d0c8e61b486c213f9d2e0adc303cc6cf",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-003",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Nhớ ý nghĩa MEC1 cho tình trạng/phương pháp được đánh giá.",
+      "levelBefore": 1,
+      "levelAfter": 1,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Các đặc tính của một phương pháp tránh thai.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "WHO2015 trong bài local trang2: không hạn chế với tình trạng xét.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [],
+      "issueResolved": "Đọc lại đủ câu/bốn phương án/bốn lời giải và điều kiện nguồn; giữ hoặc sửa văn phong theo bản cuối.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "3b306db22d0d17354fd383ce69f4f5eb56a527fd28076411ae58dacf55c011c6",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-004",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Nhớ quan hệ lợi ích thường vượt nguy cơ của MEC2.",
+      "levelBefore": 1,
+      "levelAfter": 1,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Các đặc tính của một phương pháp tránh thai.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "WHO2015 trong bài local trang2, không nói không có bất kỳ nguy cơ.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [],
+      "issueResolved": "Đọc lại đủ câu/bốn phương án/bốn lời giải và điều kiện nguồn; giữ hoặc sửa văn phong theo bản cuối.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "e339e3a1fcd058962a33ed7193c4987c81e76835e1bf40caf11b562226f06b8d",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-005",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Nhớ quan hệ nguy cơ thường vượt lợi ích của MEC3.",
+      "levelBefore": 1,
+      "levelAfter": 1,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Các đặc tính của một phương pháp tránh thai.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "WHO2015 trong bài local trang2: phân loại nguy cơ/lợi ích, không chắc chắn có biến chứng.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [],
+      "issueResolved": "Đọc lại đủ câu/bốn phương án/bốn lời giải và điều kiện nguồn; giữ hoặc sửa văn phong theo bản cuối.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "419321cde1cf6f4dafafc77758587782e1fea23a94c2f645b9c1753ff2a1095b",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-006",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Nhớ nguy cơ không chấp nhận ở MEC4.",
+      "levelBefore": 1,
+      "levelAfter": 1,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Các đặc tính của một phương pháp tránh thai.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "WHO2015 trong bài local trang2: tình trạng cụ thể gây giới hạn sử dụng, không được khắc phục chỉ bằng theo dõi.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [],
+      "issueResolved": "Đọc lại đủ câu/bốn phương án/bốn lời giải và điều kiện nguồn; giữ hoặc sửa văn phong theo bản cuối.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "880412b20f8db92c39d3350f8f1ef23a9983162b24d53fb6a267e45df47ffbc5",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-007",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Tính tổng chi phí cá nhân từ giá ban đầu và số lượt theo dõi.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Các đặc tính của một phương pháp tránh thai.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "Chi phí cá nhân gồm giá phương tiện và theo dõi; số liệu đủ cho bài toán, không so chi phí cộng đồng hoặc hiệu quả khác nhau.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "Thay câu “chưa đủ thông tin” bằng phép tính áp dụng; tách khỏi103 phân tích vốn đầu và khả năng tiếp cận.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "2daf4f5c6fe43eeee50a355af60f5dc14fece3d63d9acbceb381feaaea863d03",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-008",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Giải thích quan hệ sàng lọc an toàn và xếp hiệu quả trong quy trình.",
+      "levelBefore": 2,
+      "levelAfter": 2,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Các đặc tính của một phương pháp tránh thai.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "Quy trình trong bài giảng: an toàn→hiệu quả→phù hợp; không dùng như quy tắc cấm mọi MEC 2.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "L2 cũ hỏi thứ tự thuộc lòng; đổi sang giải thích chức năng của thứ tự.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "37f8dd6f91920f05f82045e2fb662c0d7e03ae539b17917d440b9a72c5980be9",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-009",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Vận dụng vai trò người dùng chọn phương pháp và người cung cấp chọn phương tiện cụ thể.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Các đặc tính của một phương pháp tránh thai.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "Người dùng chọn phương pháp; cung cấp dịch vụ chọn phương tiện cụ thể phù hợp, không ký thay triệt sản.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "optionExplanations"
+      ],
+      "issueResolved": "Nhiễu cũ chỉ hành vi cưỡng ép xa; đổi thành phân định hai bước trong quy trình.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "3d9ac9511f368feebd267b593b0e7fbb39085479abde67b93b9e0b9393e7a22e",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-010",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Giải thích vì sao phù hợp y khoa không đồng nghĩa phù hợp cách dùng và tác dụng ngoại ý.",
+      "levelBefore": 2,
+      "levelAfter": 2,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Các đặc tính của một phương pháp tránh thai.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "Tư vấn menu phương pháp gồm nguyên lý/cách dùng/tác dụng ngoại ý và phù hợp người dùng.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "optionExplanations"
+      ],
+      "issueResolved": "Đổi câu danh sách thuộc lòng sang giải thích.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "b8be06d9ed665efc51ae3f501cbc6905fb130277a3f0fb1ed2babc7267e4f7dc",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-011",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Nhớ chiều chuyển PIP3 thành PIP2 của PTEN, khác phân biệt tín hiệu nội tại/ngoại vi và khác ưu thế FSH theo GnRH.",
+      "levelBefore": 1,
+      "levelAfter": 1,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Nhắc lại kiến thức Y3 về chu kì buồng trứng.pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "Local Y3 trang1 Figure1 caption mô tả PTEN chuyển PIP3 về PIP2, ngược PI3K; chỉ hỏi cơ chế được trình bày, không áp để kê thuốc hay diễn giải khả năng sinh sản.",
+          "verification": "Đọc mới nguyên trang1–2 bằng pypdf ngày2026-10-11; đối chiếu chiều phản ứng cùng chuỗi PIP3/Akt/FOXO3, không yêu cầu đọc ảnh trong câu."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "Phát hiện bản recast GnRH xung thưa còn trùng T1-011 trong đọc xuyên topic; thay bằng tác động phân tử PTEN, không chỉ đổi xung thưa thành dày.",
+      "duplicateCheck": "T1-009 hỏi nội tại/ngoại vi; T1-011 hỏi ưu thế FSH theo xung; T6-012 hỏi phản hồi AMH; bản cuối T6-011 hỏi chiều chuyển lipid tín hiệu của PTEN, nhiệm vụ riêng.",
+      "status": "closed",
+      "finalQuestionSha256": "e1c8b3df43b4d20788acb6138a1079e13e21c6272b0220f4f86cadcd5f8b7ce0",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-012",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Giải thích phản hồi cận tiết từ nang đang phát triển tới nang chưa chiêu mộ.",
+      "levelBefore": 2,
+      "levelAfter": 2,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Nhắc lại kiến thức Y3 về chu kì buồng trứng.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "Mô hình AMH trong bài local trang2; không dùng như xét nghiệm bảo đảm chất lượng noãn/sinh sản.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "optionExplanations"
+      ],
+      "issueResolved": "L2 cũ chỉ hỏi tên chức năng; thêm quan hệ nguồn–đích và phản hồi.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "ffb3d7a1b1b381184694a35d296bf8528cb197dd6b383c6a1e5255fd0df28c7b",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-013",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Nhớ cặp gonadotropin tuyến yên đáp ứng GnRH.",
+      "levelBefore": 1,
+      "levelAfter": 1,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Nhắc lại kiến thức Y3 về chu kì buồng trứng.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "Local ôn chu kỳ buồng trứng trang2: GnRH kích thích FSH/LH, không hormone nhau/steroid.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [],
+      "issueResolved": "Đọc lại đủ câu/bốn phương án/bốn lời giải và điều kiện nguồn; giữ hoặc sửa văn phong theo bản cuối.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "4c93a7b649ac5ffc7807bcb782aad473e1e11c0b765276746b50a95b9a88d5fe",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-014",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Nhớ hiện tượng phôi thoát zona pellucida trước tiếp cận nội mạc.",
+      "levelBefore": 1,
+      "levelAfter": 1,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Sự lam to cua phoi.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "Local làm tổ trang2: thuật ngữ hatching/thoát zona; không dùng mốc ngày cố định như tiêu chuẩn chẩn đoán lâm sàng.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "Thay câu progesterone trên nội mạc trùngT1-028.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "02f55111051c696a70c4d91c82c6463dd436e4f709c6a9c36bdb37859e0bffc3",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-015",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Giải thích đồng bộ thời điểm tiếp cận của phôi với tính tiếp nhận hữu hạn của nội mạc.",
+      "levelBefore": 2,
+      "levelAfter": 2,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Sự lam to cua phoi.pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "Mô hình cửa sổ/thoát màng; không khẳng định mọi thất bại IVF có một nguyên nhân hoặc chỉ định xét nghiệm.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "b7b682977dacd6d81fff1adccd30075a70a3f4b4ed3db6a5aee79f9c95aac6a2",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-016",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Giải thích hCG nâng đỡ hoàng thể khi LH tuyến yên giảm.",
+      "levelBefore": 2,
+      "levelAfter": 2,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Sự lam to cua phoi.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "Sinh lý hCG–hoàng thể trong local trang2; không suy phôi sống/vị trí thai chỉ từ hCG.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "Thay hỏi hoạt tính giống hormone nào bằng giải thích hai tiến trình.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "c01de48441415b984278accb0d35efc16f7f047d64f898e6755e08934c388694",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-017",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Nhớ thành phần COC được mô tả trong bài giảng.",
+      "levelBefore": 1,
+      "levelAfter": 1,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/COCs.pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "Local COC trang1 mô tả EE+progestogen; câu không khái quát mọi sản phẩm COC hiện hành có cùng estrogen.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [],
+      "issueResolved": "Đọc lại đủ câu/bốn phương án/bốn lời giải và điều kiện nguồn; giữ hoặc sửa văn phong theo bản cuối.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "64be762ce433fdec403379a1f36d5f839f818fff1d7617d60c7c89beb0347bae",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-018",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Giải thích phân biệt chiêu mộ sớm và phát triển nang phụ thuộc FSH dưới COC.",
+      "levelBefore": 2,
+      "levelAfter": 2,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/COCs.pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "Mô hình COC local trang1; không suy COC bảo tồn toàn bộ dự trữ hoặc bảo đảm tương lai sinh sản.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "L2 cũ chỉ nêu FSH; nay giải thích giai đoạn và cơ chế.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "93f1929c63714753f3c8c714c16a7ecafadf267e68c2302eccbfe475ff67392e",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-019",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Giải thích vai trò bổ sung progestogen khi có nang đã phát triển.",
+      "levelBefore": 2,
+      "levelAfter": 2,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/COCs.pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "Cơ chế mô hình COC, không dùng để hứa tuân thủ sai vẫn hoàn toàn bảo vệ.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "optionExplanations"
+      ],
+      "issueResolved": "L2 cũ chỉ hỏi giữ LH thấp; nay giải thích tầng cơ chế.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "af29cc837c64d4bd1dcb71e1fe7ba7381d13fdc36eb16fc4d8ac21434f15efc5",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-020",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Nhớ tiêu chí hoạt chất đơn pha.",
+      "levelBefore": 1,
+      "levelAfter": 1,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/COCs.pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "Local COC trang1: các viên hoạt chất cùng thành phần/hàm lượng; không yêu cầu viên giả dược giống hoạt chất.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [],
+      "issueResolved": "Đọc lại đủ câu/bốn phương án/bốn lời giải và điều kiện nguồn; giữ hoặc sửa văn phong theo bản cuối.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "29449d7166642efa8f43caa438c52877c540533e090a22651aabcc0d6e3138db",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-021",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Giải thích lịch hành vi hằng ngày khác khoảng không hormone.",
+      "levelBefore": 2,
+      "levelAfter": 2,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/COCs.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "Định dạng21+7 cụ thể, không khái quát mọi vỉ28 hoặc chế độ không nghỉ.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "optionExplanations"
+      ],
+      "issueResolved": "",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "0d0cf0be7ca9c1b367ca55726367a0af1e9155a3ec8289dcc35aa6f6130e70cc",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-022",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Nhớ HFI là khoảng không nội tiết ngoại sinh.",
+      "levelBefore": 1,
+      "levelAfter": 1,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/COCs.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "Local COC trang2: HFI là định nghĩa khoảng không nội tiết; không khuyên phải có HFI để thải thuốc.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [],
+      "issueResolved": "Đọc lại đủ câu/bốn phương án/bốn lời giải và điều kiện nguồn; giữ hoặc sửa văn phong theo bản cuối.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "215f4e7da329a2193bf9b213edc8c9affdb769069b81d9a784a1d55c986fbeba",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-023",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng nhánh DVT liên quan estrogen không kháng đông cho chế phẩm EE thấp.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": null,
+          "page": null,
+          "url": "https://www.cdc.gov/contraception/hcp/usmec/combined-hormonal-contraceptives.html",
+          "verified": true,
+          "condition": "CHC bao gồm pill/patch/ring. History estrogen-associated DVT, not anticoagulated → higher recurrent risk/CHC4.",
+          "verification": "Mở toàn trang CDC chính thức ngày2026-10-11, đọc Box/table/clarification liên quan; U.S.MEC2024, không áp nguồn local cũ thay hàng đặc hiệu."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "Tách khỏi141 đổi đường dùng; chỉ quyết định nhánh tiền sử/nguy cơ tái phát. Nhiễu cùng là bốn mứcMEC.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "7d0d15a39acb7ca5242f3e38f7381bcfa689daa305f01b6e85da4f319615adb1",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-024",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng nhánh khởi vỉ muộn theo số ngày thiếu nội tiết và UPSI.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Xử lí các sự cố khi dùng tránh thai nội tiết (2020).pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "EE20–35µg đơn pha21/7, không áp E2valerate/dienogest nhiều pha.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        },
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Xử lí các sự cố khi dùng tránh thai nội tiết (2020).pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "FSRH2020monophasicEE20–35µg21/7; late restart≥9completed days; ECconsiderduring/afterHFI;7consecutiveactivepills, methodrestartdependsEC.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "Thay nhắc lại “không kéoHFI” bằng chọn nhánh thật từ số ngày vàUPSI; bỏnhiễu vô lý đổi tên hành kinh.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "5969f75e94522e32fab45d596f6276e4d4fea3c99bad29d78f7bf49726b500ca",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-025",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Kết hợp chọn hành động HFI cho sự cố hợp lệ với kiểm tra phạm vi áp dụng ở chế phẩm khác; bốn kế hoạch2×2.",
+      "levelBefore": 4,
+      "levelAfter": 4,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Xử lí các sự cố khi dùng tránh thai nội tiết (2020).pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "EE20–35µg đơn pha21/7, không áp E2valerate/dienogest nhiều pha.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        },
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Xử lí các sự cố khi dùng tránh thai nội tiết (2020).pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "FSRH2020EE20–35µg đơn pha21/7; quên≥2trong7ngàycuối bỏHFI, E2valerate/dienogest ngoài phạm vi.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        },
+        {
+          "file": "Topic 6/COCs.pdf",
+          "page": 3,
+          "url": null,
+          "verified": true,
+          "condition": "Local COC trang3: kéo dài khoảng không thuốc tăng khả năng phát triển/phóng noãn; không dùng mô hình washout như bắt buộc phải có HFI.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "Thêm điều kiện bảy ngày dùng đúng/khôngUPSI, nhiễu tổ hợp giải quyết một hoặc hai nhánh.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "5b789e1503f8e130413c5a0b44bd8f79af8fe0a0b9558dd3bca8d19d97ddc84e",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-026",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Phối hợp nguy cơ thai hồi tố do quên COC với giới hạn CHC khi mới xác nhận aura.",
+      "levelBefore": 4,
+      "levelAfter": 4,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Xử lí các sự cố khi dùng tránh thai nội tiết (2020).pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "EE20–35µg đơn pha21/7, không áp E2valerate/dienogest nhiều pha.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        },
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Xử lí các sự cố khi dùng tránh thai nội tiết (2020).pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "FSRH2020quên2–7viêntuần1 sauviênđầusauHFIđúng:considerECifUPSIduringHFI/week1; CDCmigrainewithauraCHC4.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        },
+        {
+          "file": null,
+          "page": null,
+          "url": "https://www.cdc.gov/contraception/hcp/usmec/combined-hormonal-contraceptives.html",
+          "verified": true,
+          "condition": "CHC bao gồm pill/patch/ring. Migraine có aura đã xác nhận → CHC4; không suy từ đau đầu không đặc hiệu.",
+          "verification": "Mở toàn trang CDC chính thức ngày2026-10-11, đọc Box/table/clarification liên quan; U.S.MEC2024, không áp nguồn local cũ thay hàng đặc hiệu."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "Thêm điều kiện phạmvi/sự cố đầyđủ và phương án tổhợp; bớt nguồn trùng/ngữcảnh đoạn cuối vỉ sai.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "39870feb37671d7c8e63d7c4ad6d8247fe91f720f4b1d960a81d2984a7c5af5e",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-027",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Nhớ thành phần viên POP.",
+      "levelBefore": 1,
+      "levelAfter": 1,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tránh thai bằng POPs.pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "Local POP trang1: chỉ có progestogen/khôngEE, không đồng nhất với selective progesterone receptor modulator.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "optionExplanations"
+      ],
+      "issueResolved": "Đọc lại đủ câu/bốn phương án/bốn lời giải và điều kiện nguồn; giữ hoặc sửa văn phong theo bản cuối.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "5b8ced6bf5d2635877309ab111036926df9648ce8fa1f5a0ce2a5b9020a53c78",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-028",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Giải thích hiệu quả POP cổ điển khi phóng noãn không bị chặn hoàn toàn.",
+      "levelBefore": 2,
+      "levelAfter": 2,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tránh thai bằng POPs.pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "POP cổ điển, không áp sang mọi chế phẩm hoặc dùng để bỏ hướng dẫn quên viên.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "L2 cũ hỏi lại tên cơ chế; nay giải thích dữ kiện có vẻ nghịch.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "c6eea040068c1522f12f5c1fddf81d93debea86323272bda7bb4cd35544de188",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-029",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Giải thích khác biệt cửa sổ uống qua ưu thế ức chế phóng noãn theo chế phẩm.",
+      "levelBefore": 2,
+      "levelAfter": 2,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tránh thai bằng POPs.pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "Local POP trang1: cổ điển ưu thế chất nhầy/DSG ưu thế ức chế phóng noãn; timing dựa guideline được dẫn.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        },
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai với Progestin đơn thuần đường uống (2019).pdf",
+          "page": 9,
+          "url": null,
+          "verified": true,
+          "condition": "Hai loại trong phiên bản FSRH được dẫn; không áp sang drospirenone hoặc chế phẩm khác.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "L2 cũ thuộc lòng cơ chế; chuyển sang giải thích không ngoại suy quy tắc. L3-031 vẫn áp giờ cụ thể.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "f192e8b35686c4a274044315be094121ccb69a0d7465fd313b0c69f13341084f",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-030",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Tính thời gian từ viên trước và xác định cửa sổ chế phẩm.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai với Progestin đơn thuần đường uống (2019).pdf",
+          "page": 9,
+          "url": null,
+          "verified": true,
+          "condition": "TraditionalPOP>3hlate/>27hbetween;khôngápDSG12h.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "Thay3nhiễuxa bằng lỗi tính và nhầm cửa sổ thực.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "3a589b439ed09f8dd199835b6d2901bbd25db25a32cbe6a8a2ea82d7c35fe4cc",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-031",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng cửa sổ DSG từ thời điểm viên cũ và giờ mới, khác nhánh cổ điển.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai với Progestin đơn thuần đường uống (2019).pdf",
+          "page": 9,
+          "url": null,
+          "verified": true,
+          "condition": "DSG75µg theo bảnFSRH này;khôngápdrospirenone/chếphẩmkhác.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "755bbf49c966c4bca7e57ad04772af242855fb328dddd40422f36de0e4879adc",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-032",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Tính mốc hoàn tất bảo vệ bổ sung sau bắt đầu lại POP.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai với Progestin đơn thuần đường uống (2019).pdf",
+          "page": 9,
+          "url": null,
+          "verified": true,
+          "condition": "48hsau restartingPOP;ECnguycơđượcxửtríriêng;khôngcóUPSIthêm.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "Nhiễu cùngđơnvị/mốc thời gian; tách khỏi147 so hai loại viên và145sẽđổi.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "25349818b87e8969f7d1908792ce0b053af98a19c96b1bcdbfe7c72bf2835037",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-033",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng thời điểm nôn vào yêu cầu viên thay và lịch uống.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai với Progestin đơn thuần đường uống (2019).pdf",
+          "page": 5,
+          "url": null,
+          "verified": true,
+          "condition": "FSRHbản2015/2019 vomitingwithin2h→replacement ASAP; subsequentmissedrequires48hprecautions.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "optionExplanations"
+      ],
+      "issueResolved": "Xác định POP cổ điển cho cửa sổ rõ; nhiễu quanh hấpthu/lịch thay.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "eabf9f6cd54d26d24e25b4dad0ee05445efe36ee992acb2f0f87a2498d101a4f",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-034",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng đặc điểm không chậm hồi phục sau ngừng POP để chọn thời điểm bảo vệ bằng phương pháp khác.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai với Progestin đơn thuần đường uống (2019).pdf",
+          "page": 6,
+          "url": null,
+          "verified": true,
+          "condition": "FSRH POP2015 sửa2019 trang6: no evidence suggesting delay in return of fertility; another method immediately if pregnancy not desired. Không khái quát kết luận này cho DMPA hoặc mọi phương pháp.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "Thay tư vấn mẫu ra huyết gần cùng thao tác với T6-047 bằng thời điểm chuyển bảo vệ sau ngừng POP.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "651967e17ca4616a218b74da981a83c2960e8a97f7d2e28350b7cfe1717e96aa",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-035",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Giải thích đường vào máu kéo dài từ kho thuốc tại mô.",
+      "levelBefore": 2,
+      "levelAfter": 2,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tránh thai bằng LASDS.pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "Mô hình depot, không hỏi thời hạn nhãn sản phẩm/khẳng định mọi đường tiêm tương đương.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "L2 cũ chỉ định nghĩa kho; nay giải thích thời gian tác dụng.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "c2ac3687d3c929d42fca29c881a908ff99cf4124192d0848259a27abc48fd733",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-036",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Giải thích quan hệ thao tác sau tiêm với mô hình kho tại chỗ.",
+      "levelBefore": 2,
+      "levelAfter": 2,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tránh thai bằng LASDS.pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "Giải thích thao tác trong bài local; không dùng để chẩn đoán đã mất hiệu quả ở người từng vô ý xoa.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "1ba8557aacebd80eb469948799aaf1054fb375e986850fd6a588fe8627617e18",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-037",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Giải thích lớp màng điều tiết dòng ra thay cho việc phóng thích toàn bộ trữ lượng.",
+      "levelBefore": 2,
+      "levelAfter": 2,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tránh thai bằng LASDS.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "Mô hình cấu tạo trong local trang2, không hỏi tốc độ hoặc thời hạn nhãn Implanon/Nexplanon hiện hành.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "L2 cũ nhắc lại chức năng màng; nay giải thích quan hệ lượng–tốc độ.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "30fa575fdf88a54730e9e11077c74fe03d6c8329d8412e1ebc080d8b6720249c",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-038",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Nhớ etonogestrel trong que Implanon theo cấu tạo local.",
+      "levelBefore": 1,
+      "levelAfter": 1,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tránh thai bằng LASDS.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "Local LASDS trang2: chỉ thành phần, không dùng thời hạn nhãn cũ.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [],
+      "issueResolved": "Đọc lại đủ câu/bốn phương án/bốn lời giải và điều kiện nguồn; giữ hoặc sửa văn phong theo bản cuối.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "a0c778c0a4482c21b252f77346f6d3823bd6b752a41361bf25240049ec9734dd",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-039",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng đa cơ chế LNG-IUD vào quan sát hoạt động buồng trứng.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tránh thai bằng LASDS.pdf",
+          "page": 3,
+          "url": null,
+          "verified": true,
+          "condition": "LocalLASDSp3:ovulationmaypersist/localmechanisms;caseposition/validity/pregnancyotherissuesassessed.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "Giữ mục tiêu riêng39; agentthay118. Bỏnhiễu phóngnoãnchứngminhthủng.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "269b111fb113e8eac5ad4512bd7b2dbed5109171bacd8f7681bd7bd90ecadc36",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-040",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng phạm viCHC cho vòng âm đạo và giới hạnaura đã xác nhận.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tránh thai bằng LASDS.pdf",
+          "page": 3,
+          "url": null,
+          "verified": true,
+          "condition": "Local LASDS trang3 mô tả vòng âm đạo EE/etonogestrel; chỉ xác minh cấu tạo/đường dùng, chống chỉ định dựa CDC.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        },
+        {
+          "file": null,
+          "page": null,
+          "url": "https://www.cdc.gov/contraception/hcp/usmec/combined-hormonal-contraceptives.html",
+          "verified": true,
+          "condition": "CHC bao gồm pill/patch/ring. Migraine có aura đã xác nhận → CHC4; không suy từ đau đầu không đặc hiệu.",
+          "verification": "Mở toàn trang CDC chính thức ngày2026-10-11, đọc Box/table/clarification liên quan; U.S.MEC2024, không áp nguồn local cũ thay hàng đặc hiệu."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "Nhiễu là mứcMEC thay3hànhvi xa; tácđộngđườngdùng khác23 bệnhsửDVT.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "8e28dd0aa3541597354cbdf360499cf3479b9c36285195d25e090e244b5dd0e3",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-041",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng sựkhácbiệt trữlượng còn và tốcđộ đủ hiệu quả vào lịchthay.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tránh thai bằng LASDS.pdf",
+          "page": 4,
+          "url": null,
+          "verified": true,
+          "condition": "Known productvalidatedduration reached/nodataextension;not outdatedspecificMirena/Implanonduration.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "optionExplanations"
+      ],
+      "issueResolved": "Loạinhiễu màu/vĩnhviễn; không đưa thời hạn nhãn cũ thành hiện hành.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "e85185255d6ed3a4b1e075192ea79dd59a5c680ff6a44499ea7e0b7e1819ce4d",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-042",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng phânloại buồngtửcungbiếndạng thay dùng riêng tên u xơ.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": null,
+          "page": null,
+          "url": "https://www.cdc.gov/contraception/hcp/usmec/intrauterine-devices.html",
+          "verified": true,
+          "condition": "Distorted cavity incompatible with placement → Cu/LNG IUD4; uterine fibroids otherwise2.",
+          "verification": "Mở toàn trang CDC chính thức ngày2026-10-11, đọc Box/table/clarification liên quan; U.S.MEC2024, không áp nguồn local cũ thay hàng đặc hiệu."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "Thay câu vôkinh/hoạtđộngbuồngtrứng trùng039/118; thay thao tác bằngchọnđiềukiệngiải phẫu.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "19774d7bae44f026753e0d0aedf110a215b15d2b0096c770be7397b8ed4a7d6e",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-043",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Nhớ ba nhóm IUD phân theo cấu tạo/thành phần.",
+      "levelBefore": 1,
+      "levelAfter": 1,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Dụng cụ tử cung tránh thai.pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "Local IUD trang1: trơ/đồng/progestogen; không gọi nhóm estrogen là một trong ba nhóm.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "optionExplanations"
+      ],
+      "issueResolved": "Đọc lại đủ câu/bốn phương án/bốn lời giải và điều kiện nguồn; giữ hoặc sửa văn phong theo bản cuối.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "94e80a876eef37ee71c5c53e9bd7b13d03dfbb737712f2bb3e8b7a2c8b482e0f",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-044",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Giải thích cơ chế giảm khả năng thụ tinh của Cu-IUD trước thai đã làm tổ.",
+      "levelBefore": 2,
+      "levelAfter": 2,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Dụng cụ tử cung tránh thai.pdf",
+          "page": 1,
+          "url": null,
+          "verified": true,
+          "condition": "Cơ chế chủ yếu tại giao tử trong local trang1; không dùng Cu-IUD để chấm dứt thai đã có.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "L2 cũ nhớ giảm tinh trùng; nay giải thích phân biệt giai đoạn.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "750fd1dd34708b59ec2d06c90a5f6b3aaf701debb8d7f5250d982e68c22c0cfc",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-045",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng dữliệu lýtưởng/thựctế vào nhu cầu ít phụ thuộcnhớviên.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Dụng cụ tử cung tránh thai.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "LocalIUDp2sựchênhlệch thấp/khônglệthuộcngườidùng;numericexplicitlyhypotheticalnotcurrentsourcedestimates.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "Dùng bảnggiảđịnh cầnđọc/thêm thao tác, tránh chỉlặp“ítphụthuộcngườidùng”;102/143agent sẽ táchquyếtđịnhkhác.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "d01514965e2356caa4ffac57f1e5c8de0c151ced2eac8ec0ecddf49e2a29b754",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-046",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Suy luận biếncốcơhọctừđau/độsâu bấtthường trongthao tác.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Dụng cụ tử cung tránh thai.pdf",
+          "page": 2,
+          "url": null,
+          "verified": true,
+          "condition": "LocalIUDp2perforation rareinsertioncomplication;dataforclinical suspicion,notdiagnosedfromimage.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "Thay nhiễu vô tinh/mãnkinh bằngnguyênnhân gần và dữkiện cầnápdụng; chưa gọi chắcthủngtừgiảđịnh.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "0df30f6de9dacc352a60e65096ced333350c8aa9fc22d244d34e0e8ae3ef2617",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-047",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng tácdụngra huyết củaCu-IUD vào đồngthuận ưu tiênkhôngnộitiết.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Dụng cụ tử cung tránh thai.pdf",
+          "page": 3,
+          "url": null,
+          "verified": true,
+          "condition": "CuIUDchangesespeciallyinitialcycles,mayincrease/prolongbleeding;notLNGIUDsameeffect.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "Giữ047counselbeforeuse;119agent đổi nhánh khác.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "962c43482aba0703723183a356186d081633ac171330dbcff04dd2fb534bf5b3",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-048",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng điều kiệnloạinhiễmtrùng trướcxửtrí đau bằngNSAID.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Dụng cụ tử cung tránh thai.pdf",
+          "page": 3,
+          "url": null,
+          "verified": true,
+          "condition": "LocalIUDp3NSAIDifinfectionexcluded;caseneedsassessmentnotautomaticallyPIDorremoval.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "Tách khỏiT6-122 mất dây/địnhvị;chuyểnsang điều kiệnNSAID vàbệnhcảnhnhiễm.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "ec879131f82f2abf7f84ac6ef2bd37621ce064a39c0dbf58b04b22d15515f91e",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-049",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Phânbiệt initiation/continuation và giữ yêu cầuchẩnđoán AUB đángngờ.",
+      "levelBefore": 4,
+      "levelAfter": 4,
+      "sourceVerified": [
+        {
+          "file": null,
+          "page": null,
+          "url": "https://www.cdc.gov/contraception/hcp/usmec/intrauterine-devices.html",
+          "verified": true,
+          "condition": "Suspicious unexplained bleeding before evaluation: initiation4/continuation2; no needremoveIUD beforeevaluation; still assesspregnancy/pathology.",
+          "verification": "Mở toàn trang CDC chính thức ngày2026-10-11, đọc Box/table/clarification liên quan; U.S.MEC2024, không áp nguồn local cũ thay hàng đặc hiệu."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "Thay bàiWHOcũbằng nguồnCDCđãmở; dùngđúng suspiciousseriouscondition thaymọiAUB.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "2aa5d16baedbbc74c490733231f56e43c81f66f24b0dddaac1ac3e3bd7784198",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-050",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng ưu tiên định vị thai khi IUD kèm thử thai dương và đau.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Dụng cụ tử cung tránh thai.pdf",
+          "page": 4,
+          "url": null,
+          "verified": true,
+          "condition": "Local IUD trang4: khi có thai, nhiệm vụ quan trọng nhất là xác định/loại trừ thai ngoài tử cung; không gọi dương tính là thai ngoài tử cung chắc chắn.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "optionExplanations"
+      ],
+      "issueResolved": "Giữ nhiệm vụ L3 định vị ban đầu; T6-123 phải khác bước này.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "1d0025d1300c63f9b01a71191971aec1fe6dd61f8e329e307584bf242f90a86a",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-051",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng chỉ định đánh giá EC vào ngày được cho là an toàn khi chu kỳ biến thiên.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 10,
+          "url": null,
+          "verified": true,
+          "condition": "FSRH bản2017 sửa2020 trang10: UPSI any day of natural cycle; không đồng nghĩa mọi phương pháp EC phù hợp ở mọi thời điểm.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "e2f873312ae537a70bacc96baeaf9fdb6d54283c4b68f96efc80180fa9cdabf9",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-052",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng mục tiêu EC hiệu quả nhất đồng thời tránh thai tiếp diễn trong cửa sổ thích hợp.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 10,
+          "url": null,
+          "verified": true,
+          "condition": "Cu-IUD most effective EC; timing/eligibility already stipulated.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        },
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 12,
+          "url": null,
+          "verified": true,
+          "condition": "Oral EC no ongoingcontraception, unlike continuingCu-IUD.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "321a851f2ceccfacb9d725f56fd5e3aab1d3ccad59a67fe546e44a0ad71b8a14",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-053",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Tính thời gian từ UPSI để chọn cửa sổ thuốc uống đã được nguồn hỗ trợ.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 10,
+          "url": null,
+          "verified": true,
+          "condition": "FSRH bản2017/2020 trang10: UPA up to120h; LNG licensed72h, evidence ineffective>96h; không khẳng định LNG tuyệt đối vô hiệu ngay đúng96h.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "optionExplanations"
+      ],
+      "issueResolved": "",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "c04998817468952aa6eb8f0779dec14e58c5c0dc6bc4edf356f7e52e820d4983",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-054",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng giới hạn thuốc uống sau phóng noãn và cửa sổ Cu-IUD khác.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 10,
+          "url": null,
+          "verified": true,
+          "condition": "Oral EC after ovulation ineffective, differs from Cu-IUD timing.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        },
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 11,
+          "url": null,
+          "verified": true,
+          "condition": "Cu-IUD up to5daysfirstUPSI or5daysearliestlikelyovulation whicheverlater.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "698bb2010a0d50bb60a077ea4703688e0ebab0377e8a633848a0dd7e1bab493a",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-055",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng ảnh hưởng cân nặng/BMI khác nhau giữa các lựa chọn EC.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 10,
+          "url": null,
+          "verified": true,
+          "condition": "FSRH bản2017 sửa2020 trang10: Cu-IUD notknownaffected byweight/BMI; oral particularlyLNG couldbeless effective; không trình bày hướng dẫn liều cũ như cập nhật toàn diện hiện hành.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations"
+      ],
+      "issueResolved": "",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "6ede3ad5c7a8979f3c09153164546dd74be0069225675fceda405f6a17d74f9a",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-056",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Phối hợp giới hạn đặt IUD khi có nhiễm lậu hiện tại với tương tác thuốc cảm ứng enzyme của EC uống.",
+      "levelBefore": 4,
+      "levelAfter": 4,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 11,
+          "url": null,
+          "verified": true,
+          "condition": "FSRH EC2017/2020 trang11: enzymeinducers Cu-IUDifappropriate; LNG3mgcanconsider effectivenessunknown; doublingUPAnotrecommended; CDC currentgonorrhea IUDinit4.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        },
+        {
+          "file": null,
+          "page": null,
+          "url": "https://www.cdc.gov/contraception/hcp/usmec/intrauterine-devices.html",
+          "verified": true,
+          "condition": "Current gonorrhea: IUD initiation4; EC use does not exempt routine insertion conditions.",
+          "verification": "Mở toàn trang CDC chính thức ngày2026-10-11, đọc Box/table/clarification liên quan; U.S.MEC2024, không áp nguồn local cũ thay hàng đặc hiệu."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "Thay nguồn sexual-assault/UPA-start không liên quan bằng hai điều kiện đúng; phương án gồm bước lựa chọn và bất định.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "7bf09315c7ac4a6493a25d5d374e74646862e8ee5dfcf8ae28f9e7fc120f2b9e",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-057",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Phối hợp tương tác UPA–progestogen với giới hạn estrogen do aura để chọn phương pháp và thời điểm.",
+      "levelBefore": 4,
+      "levelAfter": 4,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 11,
+          "url": null,
+          "verified": true,
+          "condition": "Progestogen in5days afterUPA couldreduceUPA effectiveness.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        },
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 12,
+          "url": null,
+          "verified": true,
+          "condition": "Wait5days afterUPA before suitablehormonalcontraception; precautions until effective.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        },
+        {
+          "file": null,
+          "page": null,
+          "url": "https://www.cdc.gov/contraception/hcp/usmec/combined-hormonal-contraceptives.html",
+          "verified": true,
+          "condition": "CHC bao gồm pill/patch/ring. Migraine có aura đã xác nhận → CHC4; không suy từ đau đầu không đặc hiệu.",
+          "verification": "Mở toàn trang CDC chính thức ngày2026-10-11, đọc Box/table/clarification liên quan; U.S.MEC2024, không áp nguồn local cũ thay hàng đặc hiệu."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "35c1c3ea8b8dcc41cdb50252eb9e15571af78985919cb8693c0f1ac797a6f57a",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-058",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Phối hợp hai giới hạn Cu-IUD với điều kiện EC uống cho lần UPSI mới dù có lần cũ trong chu kỳ.",
+      "levelBefore": 4,
+      "levelAfter": 4,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 11,
+          "url": null,
+          "verified": true,
+          "condition": "Cu-IUD up to5daysfirstUPSI or5daysearliestlikelyovulation whicheverlater.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        },
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 12,
+          "url": null,
+          "verified": true,
+          "condition": "PriorUPSI earlier samecycle doesnotprecludeoralEC forrecentUPSI; no effectonestablishedpregnancy.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "Từ chỉ tính hai mốc của cùng quy tắc sang phối hợp hai nhánh có điều kiện khác nhau.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "1d83352669a93bf53146eee7a9464bb469934df8485bd23df96f1138a98d06bd",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-059",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng giới hạn bảo vệ tiếp diễn và việc có thể lặp LNG-EC vào lần UPSI mới.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 12,
+          "url": null,
+          "verified": true,
+          "condition": "FSRH EC trang12 oralECnoongoingcontraception; LNG-EC canagainafterfurtherUPSI samecycle; casenoUPA/noinducer.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        },
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 12,
+          "url": null,
+          "verified": true,
+          "condition": "FSRH EC trang12 oralECnoongoingcontraception; LNG-EC canagainafterfurtherUPSI samecycle; casenoUPA/noinducer.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "75fe818e6327b2f65dbd20a5fd14501c091a247a2aba5461f8cbd737ec3a2bcc",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    },
+    {
+      "id": "T6-060",
+      "fullRecordRead": true,
+      "actualCognitiveOperation": "Áp dụng tương tác EC kế tiếp theo thuốc vừa dùng và khoảng thời gian.",
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "sourceVerified": [
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 12,
+          "url": null,
+          "verified": true,
+          "condition": "FSRH EC trang12 afterUPA LNGshouldnotbetakennext5days; UPAcanagainafterfurtherUPSI samecycle; ca3days/noinducer/nootherPG.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        },
+        {
+          "file": "Topic 6/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 6-20260907/FSRH guideline Tránh thai khẩn cấp (2017).pdf",
+          "page": 12,
+          "url": null,
+          "verified": true,
+          "condition": "FSRH EC trang12 afterUPA LNGshouldnotbetakennext5days; UPAcanagainafterfurtherUPSI samecycle; ca3days/noinducer/nootherPG.",
+          "verification": "Đọc nguyên trang PDF local được dẫn bằng pypdf trong lượt rà soát mới, xét điều kiện trước/sau đoạn; ghi phiên bản cụ thể trong câu có quy tắc lâm sàng cũ."
+        }
+      ],
+      "imageCheck": {
+        "required": false
+      },
+      "changes": [
+        "learningObjective",
+        "clinicalVignette",
+        "task",
+        "options",
+        "answer",
+        "optionExplanations",
+        "sources"
+      ],
+      "issueResolved": "Thay lịch UPA→COC trùng112/145 bằng tương tác EC kế tiếp và lần UPSI mới.",
+      "duplicateCheck": "Đối chiếu thao tác với các câu cùng nhóm và các cặp liên topic được nêu; còn cần peer/final cross closure.",
+      "status": "closed",
+      "finalQuestionSha256": "97e0f89c232647aafa0ab2f2e0c050c8658e79ce1ae4eeb9c3b1b76335c20ffd",
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/official_sources",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      }
+    }
+  ],
+  "limitations": "Phân mức là đánh giá thao tác nhận thức, chưa hiệu chuẩn tâm trắc; phạm vi theo phiên bản nguồn được nêu.",
+  "hashNote": "finalQuestionSha256 is SHA256 of UTF8 NodeJSON.stringify of peer-accepted current record; earlier initialHash/hash/questionHash fields preserve historical author snapshots."
+}

@@ -32,13 +32,21 @@ Ngân hàng ban đầu có **926 câu**:
 | 6. Tránh thai và phá thai an toàn | 150 | 0 |
 | **Tổng** | **926** | **69** |
 
-Có 99 câu nhận biết, 106 câu thông hiểu, 361 câu vận dụng và 360 câu vận dụng cao. Các nhãn nhận thức dựa trên nhiệm vụ được biên soạn và đọc chéo; độ khó thực nghiệm cần dữ liệu người học. 69 câu hình sử dụng 27 tệp/nhóm hình nguồn. Đề mặc định chọn 18 nhóm khác nhau.
+Có 110 câu nhận biết, 95 câu thông hiểu, 361 câu vận dụng và 360 câu vận dụng cao. Các nhãn nhận thức dựa trên nhiệm vụ được biên soạn và đọc chéo; độ khó thực nghiệm cần dữ liệu người học. 69 câu hình sử dụng 27 tệp/nhóm hình nguồn. Đề mặc định chọn 18 nhóm khác nhau.
 
 Ngân hàng được biên soạn từ tài liệu trong thư mục được cung cấp và nguồn Phụ khoa/hình ảnh chính thống được ghi ở từng câu. Tài liệu cũ được xác định theo năm; câu hỏi áp dụng nguồn lịch sử phải nêu rõ nguồn đó trong yêu cầu, thay vì diễn đạt như khuyến cáo hiện hành. Bản PDF/Word nguồn riêng tư không được đưa vào repository hoặc thư mục phát hành.
 
-Mỗi câu hình có bệnh cảnh độc lập, yêu cầu cụ thể, hình thật, nguồn ảnh và giấy phép. Bệnh cảnh mô phỏng phục vụ học tập được ghi rõ, không tự nhận là bệnh sử gốc của người bệnh trong ảnh. Nhiều câu có thể học các khía cạnh khác nhau từ cùng một nhóm hình; thuật toán giới hạn **một câu mỗi nhóm hình trong một đề**. Vì vậy số câu hình và số ca/hình độc lập là hai con số khác nhau. Không dùng ảnh do AI tạo để thay ảnh chẩn đoán.
+Mỗi câu hình có bệnh cảnh cụ thể, yêu cầu cụ thể, hình thật, nguồn ảnh và giấy phép. Bệnh cảnh mô phỏng phục vụ học tập được ghi rõ, không tự nhận là bệnh sử gốc của người bệnh trong ảnh. Nhiều câu có thể học các khía cạnh khác nhau từ cùng một nhóm hình; thuật toán giới hạn **một câu mỗi nhóm hình trong một đề**. Vì vậy số câu hình và số ca/hình độc lập là hai con số khác nhau. Không dùng ảnh do AI tạo để thay ảnh chẩn đoán.
 
 Số lượng và phân bố của phiên bản hiện tại được ghi tại [`public/data/metadata.json`](public/data/metadata.json) và [`content/validation-report.json`](content/validation-report.json). Giấy phép từng hình nằm tại [`public/data/image-credits.json`](public/data/image-credits.json). Các báo cáo `content/audit-*.md`, `content/cross-audit-*.md` và nhật ký sửa nội dung lưu lại phạm vi kiểm tra, phát hiện và cách xử lý. Kiểm tra cấu trúc tự động không chứng minh độ khó hay tính đúng chuyên môn; các câu cần được đối chiếu nguồn và đọc rà soát nội dung riêng.
+
+## Rà soát toàn bộ ngày 11/10/2026
+
+Toàn bộ **926 ID** được đọc lại với tình huống, nhiệm vụ, bốn phương án, khóa đáp án, bốn lời giải và điều kiện nguồn. Những câu trùng quyết định được thay mục tiêu; câu chỉ nhớ một quy tắc được hạ mức hoặc viết lại nhiệm vụ để đúng mức nhận thức. Bản tổng hợp [`content/reaudit-summary.md`](content/reaudit-summary.md) giải thích kết quả và các sửa đổi tiêu biểu.
+
+Nhật ký [`content/reaudit-index.json`](content/reaudit-index.json) bao phủ từng ID, chứa nguồn/trang hoặc URL, điều kiện áp dụng, phép suy luận và kiểm tra bệnh cảnh–ảnh–nhiệm vụ. [`content/reaudit-diff.json`](content/reaudit-diff.json) lưu khác biệt so bản trước. Nhật ký nguồn chi tiết ở `reaudit-1-2`, `reaudit-3-4`, `reaudit-5-6`; đọc chéo ở [`reaudit-peer.md`](content/reaudit-peer.md) và [`reaudit-cross-topic.md`](content/reaudit-cross-topic.md).
+
+Lệnh `pnpm validate:audit` kiểm tra đủ từng ID và mã băm của câu/ngân hàng. Sửa câu nhưng chưa cập nhật nhật ký đối chiếu sẽ làm kiểm tra phát hành thất bại. Lệnh này kiểm tra tính toàn vẹn của hồ sơ, không thay việc đọc nguồn hoặc hiệu chỉnh độ khó bằng dữ liệu người học. Khi sửa nội dung, phải hoàn thành lại đọc câu/nguồn, cập nhật mục tương ứng và mã băm sau rà soát, rồi tổng hợp ngân hàng; không chỉ đổi `reviewStatus`.
 
 ## Kiến trúc
 
@@ -56,6 +64,7 @@ Cài Node.js 22 LTS và pnpm 11.25.0 từ nguồn chính thức. Sau đó mở t
 pnpm install --frozen-lockfile
 pnpm assemble
 pnpm validate
+pnpm validate:audit
 pnpm test
 pnpm dev
 ```
@@ -67,6 +76,7 @@ Tạo bản phát hành tĩnh:
 ```sh
 pnpm assemble
 pnpm validate
+pnpm validate:audit
 pnpm test
 pnpm build
 pnpm preview
@@ -89,7 +99,7 @@ Service Worker mới tiếp quản sau khi các trang của phiên bản cũ đ�
 
 ## Phương án Cloudflare Pages miễn phí
 
-Kết nối repository, chọn build command `pnpm assemble && pnpm validate && pnpm test && pnpm build`, output directory `dist`, Node.js 22. Chỉ dùng Pages tĩnh với tên miền `pages.dev`; không tạo Functions, Workers, database hay dịch vụ trả phí. Các gói miễn phí có giới hạn và có thể thay đổi theo nhà cung cấp.
+Kết nối repository, chọn build command `pnpm assemble && pnpm validate && pnpm validate:audit && pnpm test && pnpm build`, output directory `dist`, Node.js 22. Chỉ dùng Pages tĩnh với tên miền `pages.dev`; không tạo Functions, Workers, database hay dịch vụ trả phí. Các gói miễn phí có giới hạn và có thể thay đổi theo nhà cung cấp.
 
 ## Thêm câu hỏi và mở rộng phạm vi
 

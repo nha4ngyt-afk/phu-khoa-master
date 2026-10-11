@@ -1,0 +1,944 @@
+{
+  "status": "complete",
+  "items": [
+    {
+      "id": "T3-135",
+      "topic": 3,
+      "initialHash": "600329df32e4ee283b032bb0d1fa984cd1a7baa4014bba70020c7dcaf2f64a7e",
+      "objectiveReviewed": "Đọc các đặc điểm đánh số trên hình để sửa phân loại dấu trực tiếp MUSA",
+      "actualCognitiveOperation": "Nhận diện ba hình thái thật rồi áp phân loại trực tiếp/gián tiếp để sửa báo cáo.",
+      "duplicateGroup": null,
+      "duplicateReferences": [],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "Harmsen et al. Revised MUSA definitions of adenomyosis",
+          "url": "https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/uog.24786",
+          "year": 2022,
+          "accessed": "2026-10-11",
+          "condition": [
+            "MUSA 2022 Figure 1 và Tables 2/3: trực tiếp 5/6/7, gián tiếp 1/2/3/4/8/9; không có dấu trực tiếp thì dấu gián tiếp chưa kết luận. Nang/mảng không có cỡ tối thiểu; Doppler phân biệt mạch; méo bởi u/đo sai mặt phẳng làm sai dấu gián tiếp; không dùng ngưỡng bề dày JZ siêu âm."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        }
+      ],
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/gyn-musa-1.jpg",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "Nhiễu cũ ít phân biệt các nhầm lẫn hình thái; làm rõ ảnh là hình đối chiếu."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "6dfddec06b4b466b1f23ee1a6e095ecb031a554404c826f40c561109691db943",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "6dfddec06b4b466b1f23ee1a6e095ecb031a554404c826f40c561109691db943"
+    },
+    {
+      "id": "T3-136",
+      "topic": 3,
+      "initialHash": "a16f9c22ea81371fb0f4ac095bb486c39b162e0bb42a38e6f8d5c1ca26f42d58",
+      "objectiveReviewed": "Đọc hướng mạch trên hình và ghi đúng loại dấu MUSA",
+      "actualCognitiveOperation": "Phân tích đường đi của mạch trên ảnh, khác nhiệm vụ nhận diện ba dấu trực tiếp135.",
+      "duplicateGroup": null,
+      "duplicateReferences": [],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "Harmsen et al. Revised MUSA definitions of adenomyosis",
+          "url": "https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/uog.24786",
+          "year": 2022,
+          "accessed": "2026-10-11",
+          "condition": [
+            "MUSA 2022 Figure 1 và Tables 2/3: trực tiếp 5/6/7, gián tiếp 1/2/3/4/8/9; không có dấu trực tiếp thì dấu gián tiếp chưa kết luận. Nang/mảng không có cỡ tối thiểu; Doppler phân biệt mạch; méo bởi u/đo sai mặt phẳng làm sai dấu gián tiếp; không dùng ngưỡng bề dày JZ siêu âm."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        }
+      ],
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/gyn-musa-1.jpg",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "Bỏ hai trích dẫn nguyên lý điều trị không cần cho đọc hướng mạch.",
+        "Thay ba nhiễu kết luận quá mức bằng bốn mô tả cùng bình diện."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "fe67022d123d9c9e095381346725c2b41c45dc24b518152854b836357ca73851",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "fe67022d123d9c9e095381346725c2b41c45dc24b518152854b836357ca73851"
+    },
+    {
+      "id": "T3-137",
+      "topic": 3,
+      "initialHash": "eb942dad98104fc524cc7093d7028fa77939ac0f01f72b754d36f1a0930fa283",
+      "objectiveReviewed": "Phân tích tính hợp lệ của dấu hình cầu/bất đối xứng và chọn khảo sát bổ sung",
+      "actualCognitiveOperation": "Tích hợp sai số mặt phẳng, nguyên nhân gây giả hình cầu và giới hạn dấu gián tiếp để chọn bước khả thi trước can thiệp.",
+      "duplicateGroup": null,
+      "duplicateReferences": [],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "Harmsen et al. Revised MUSA definitions of adenomyosis",
+          "url": "https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/uog.24786",
+          "year": 2022,
+          "accessed": "2026-10-11",
+          "condition": [
+            "MUSA 2022 Figure 1 và Tables 2/3: trực tiếp 5/6/7, gián tiếp 1/2/3/4/8/9; không có dấu trực tiếp thì dấu gián tiếp chưa kết luận. Nang/mảng không có cỡ tối thiểu; Doppler phân biệt mạch; méo bởi u/đo sai mặt phẳng làm sai dấu gián tiếp; không dùng ngưỡng bề dày JZ siêu âm."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        }
+      ],
+      "levelBefore": 4,
+      "levelAfter": 4,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/gyn-musa-1.jpg",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "L4 cũ chỉ phủ định hai kết luận cực đoan; thay bằng ba vấn đề quyết định và các kế hoạch cạnh tranh."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "37c72f238968bcf62f54b26056262be8e975c0a61fe96675f387c1c1193dfb55",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "37c72f238968bcf62f54b26056262be8e975c0a61fe96675f387c1c1193dfb55"
+    },
+    {
+      "id": "T3-138",
+      "topic": 3,
+      "initialHash": "952012a644c624c73900928105fca70d2a95fff197cc037618b6177a8df2b0fa",
+      "objectiveReviewed": "Phân định hai phát hiện nhỏ bằng dòng chảy và liên tục với nội mạc",
+      "actualCognitiveOperation": "Tổng hợp kết quả động mới với liên tục giải phẫu và quy tắc không ngưỡng kích thước; phân loại hai phát hiện khác nhau.",
+      "duplicateGroup": null,
+      "duplicateReferences": [
+        "T4-124"
+      ],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "Harmsen et al. Revised MUSA definitions of adenomyosis",
+          "url": "https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/uog.24786",
+          "year": 2022,
+          "accessed": "2026-10-11",
+          "condition": [
+            "MUSA 2022 Figure 1 và Tables 2/3: trực tiếp 5/6/7, gián tiếp 1/2/3/4/8/9; không có dấu trực tiếp thì dấu gián tiếp chưa kết luận. Nang/mảng không có cỡ tối thiểu; Doppler phân biệt mạch; méo bởi u/đo sai mặt phẳng làm sai dấu gián tiếp; không dùng ngưỡng bề dày JZ siêu âm."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        }
+      ],
+      "levelBefore": 4,
+      "levelAfter": 4,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/gyn-musa-1.jpg",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "Tách khỏi T4-124: không còn cùng kế hoạch tốiưu Doppler cho nốt nội nang.",
+        "Lựa chọn cân hai kết quả độc lập, nhiễu từ nhầm ngưỡng và dòng chảy."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "2cb73aeb264543eb85e610f243dc59bb7807892d7c90b0aaaf61dca8fbff7cd1",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "2cb73aeb264543eb85e610f243dc59bb7807892d7c90b0aaaf61dca8fbff7cd1"
+    },
+    {
+      "id": "T3-139",
+      "topic": 3,
+      "initialHash": "0fa36a93863c6898c8b17cd687433b1ac227f5a6241fafd968746a8d22a60bef",
+      "objectiveReviewed": "Đọc biến dạng đường giữa nội mạc do khối trên hai mặt cắt",
+      "actualCognitiveOperation": "Đọc vị trí và ảnh hưởng lên midline từ ảnh thật; khác câu hỏi nhớ giá trị mặt phẳng3D.",
+      "duplicateGroup": null,
+      "duplicateReferences": [
+        "T1-157"
+      ],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "ISUOG Consensus Statement on sonographic assessment of the endometrium",
+          "url": "https://obgyn.onlinelibrary.wiley.com/doi/10.1002/uog.70163",
+          "year": 2026,
+          "accessed": "2026-10-11",
+          "condition": [
+            "ISUOG 2026 Figure 4: a dọc/b coronal 3D cho thấy khối nhô vào buồng làm biến dạng nội mạc; các số đo, nhân xơ khác và biến chứng của ca giả định không lấy từ hình nguồn."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        }
+      ],
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/gyn-endo-4.jpg",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "Trùng giá trị mặt vành với T1-157; thay bằng sửa báo cáo giải phẫu từ ảnh.",
+        "Thay nhiễu hormone/AMH/grade ngoài bình diện hình."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "6ded168a2809896b7bf74578473991ab330de16a3f0f109ee13c68af6f4bc94a",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "6ded168a2809896b7bf74578473991ab330de16a3f0f109ee13c68af6f4bc94a"
+    },
+    {
+      "id": "T3-140",
+      "topic": 3,
+      "initialHash": "558fec73158b3954c0999547820932176fe80ca6ea76464ec207ad91bf78fc30",
+      "objectiveReviewed": "Kết hợp phía nhô trên ảnh với tỷ lệ trong cơ để phân loại FIGO",
+      "actualCognitiveOperation": "Kết hợp dữ kiện hình phân biệt bên niêm/thanh mạc với tỷ lệ trong cơ, không đọc riêng một con số.",
+      "duplicateGroup": null,
+      "duplicateReferences": [
+        "T1-158",
+        "T3-032"
+      ],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "ISUOG Consensus Statement on sonographic assessment of the endometrium",
+          "url": "https://obgyn.onlinelibrary.wiley.com/doi/10.1002/uog.70163",
+          "year": 2026,
+          "accessed": "2026-10-11",
+          "condition": [
+            "ISUOG 2026 Figure 4: a dọc/b coronal 3D cho thấy khối nhô vào buồng làm biến dạng nội mạc; các số đo, nhân xơ khác và biến chứng của ca giả định không lấy từ hình nguồn."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        },
+        {
+          "title": "Bệnh học của u xơ-cơ tử cung",
+          "file": "Topic 3/Bệnh học của u xơ-cơ tử cung.pdf",
+          "page": 1,
+          "evidence": "1 < 50 % trong cơ\n2 ≥ 50% trong cơ",
+          "accessed": "2026-10-11",
+          "condition": [
+            "Bệnh học u xơ/FIGO trong thư mục: type 1 dưới niêm có <50% phần trong cơ, type 2 ≥50%; phải xác định phía nhô vào buồng từ hình và dùng số đo bổ sung riêng, không suy đo tỷ lệ từ panel."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        }
+      ],
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/gyn-endo-4.jpg",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "Nhiễu cũ không cótype2; imagekhông cần cho nhiệm vụ cũ. Nay cần ảnh để phân biệttype1vstype6."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "f129ec064b7b64deeae3274e1f9505205bfbded36d5e880e003481efc411b272",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "f129ec064b7b64deeae3274e1f9505205bfbded36d5e880e003481efc411b272"
+    },
+    {
+      "id": "T3-141",
+      "topic": 3,
+      "initialHash": "0977c66da2ffba42a8bf407c1155d432f5a2bbc8106389630cbc00bd37f3e6a4",
+      "objectiveReviewed": "Lập kế hoạch cắt nhân dưới niêm có phần trong cơ sâu và thiếu máu",
+      "actualCognitiveOperation": "Tích hợp ba ràng buộc độc lập: thiếu máu trước elective, type2/lớp cơ3mm và năng lực nơi mổ; loại kế hoạch chỉ xử lý một phần.",
+      "duplicateGroup": null,
+      "duplicateReferences": [],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "ISUOG Consensus Statement on sonographic assessment of the endometrium",
+          "url": "https://obgyn.onlinelibrary.wiley.com/doi/10.1002/uog.70163",
+          "year": 2026,
+          "accessed": "2026-10-11",
+          "condition": [
+            "ISUOG 2026 Figure 4: a dọc/b coronal 3D cho thấy khối nhô vào buồng làm biến dạng nội mạc; các số đo, nhân xơ khác và biến chứng của ca giả định không lấy từ hình nguồn."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        },
+        {
+          "title": "SOGC guideline Quản lí u xơ-cơ tử cung (2015)",
+          "file": "Topic 3/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 3-20260907/SOGC guideline Quản lí u xơ-cơ tử cung (2015).pdf",
+          "page": 2,
+          "evidence": "Anemia should be corrected prior to proceeding with elective",
+          "accessed": "2026-10-11",
+          "year": 2015,
+          "condition": [
+            "SOGC 2015 trang 2/10: sửa thiếu máu; type II nhiều phần nội thành dễ cần hai thì, thận trọng lớp cơ tới thanh mạc <5 mm; chọn theo mapping và kinh nghiệm, không khẳng định hình có số đo của ca."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        },
+        {
+          "title": "SOGC guideline Quản lí u xơ-cơ tử cung (2015)",
+          "file": "Topic 3/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 3-20260907/SOGC guideline Quản lí u xơ-cơ tử cung (2015).pdf",
+          "page": 10,
+          "evidence": "Type II myomas",
+          "accessed": "2026-10-11",
+          "year": 2015,
+          "condition": [
+            "SOGC 2015 trang 2/10: sửa thiếu máu; type II nhiều phần nội thành dễ cần hai thì, thận trọng lớp cơ tới thanh mạc <5 mm; chọn theo mapping và kinh nghiệm, không khẳng định hình có số đo của ca."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        }
+      ],
+      "levelBefore": 4,
+      "levelAfter": 4,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/gyn-endo-4.jpg",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "L4 cũ hỏi một danh sách dữ liệu thiếu; thay dữ liệu cụ thể và bốn kế hoạch cùng bình diện.",
+        "Loại hai cặp tham chiếu SOGC bị lặp."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "e3c8df0cd40f1843aa5dd3983bb2e470149f7391c4d250f5fe038d36ad21abd8",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "e3c8df0cd40f1843aa5dd3983bb2e470149f7391c4d250f5fe038d36ad21abd8"
+    },
+    {
+      "id": "T3-142",
+      "topic": 3,
+      "initialHash": "315ea60e0dc6f5ffaa2fc4417e8f9ed0c455c6dbb7fffc392b911dcb2286e1dd",
+      "objectiveReviewed": "Kết hợp xử trí thủng do điện cực với dự kiến can thiệp lại khi còn nhiều u xơ",
+      "actualCognitiveOperation": "Kết hợp phân nhánh xử trí theo cơ chế thủng với phân tích nguy cơ tái can thiệp từ các u xơ còn lại; các phương án sai chỉ giải quyết một nhánh.",
+      "duplicateGroup": null,
+      "duplicateReferences": [
+        "T3-090",
+        "T4-074",
+        "T4-101"
+      ],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "ISUOG Consensus Statement on sonographic assessment of the endometrium",
+          "url": "https://obgyn.onlinelibrary.wiley.com/doi/10.1002/uog.70163",
+          "year": 2026,
+          "accessed": "2026-10-11",
+          "condition": [
+            "ISUOG 2026 Figure 4: a dọc/b coronal 3D cho thấy khối nhô vào buồng làm biến dạng nội mạc; các số đo, nhân xơ khác và biến chứng của ca giả định không lấy từ hình nguồn."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        },
+        {
+          "title": "SOGC guideline Quản lí u xơ-cơ tử cung (2015)",
+          "file": "Topic 3/Tài liệu Y học chứng cứ (gợi ý) liên quan đến chủ đề 3-20260907/SOGC guideline Quản lí u xơ-cơ tử cung (2015).pdf",
+          "page": 10,
+          "evidence": "If perforation occurs with\nan activated electrode",
+          "accessed": "2026-10-11",
+          "year": 2015,
+          "condition": [
+            "SOGC 2015 trang 10: thủng cơ học không nghi tạng có thể theo dõi; thủng bởi điện cực đang hoạt động phải giả định tổn thương tạng/mạch đến khi loại trừ và đánh giá nội soi/mở bụng. Nhiều u xơ/nội thành lớn còn lại tăng nguy cơ tái can thiệp, không hứa buồng sạch nghĩa tử cung hết bệnh."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        }
+      ],
+      "levelBefore": 4,
+      "levelAfter": 4,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/gyn-endo-4.jpg",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "Thay kế hoạch hiếm muộn chung trùng090/074/101 bằng một quyết định biến chứng nguồn xác định.",
+        "Tự kiểm lần hai: ổn huyết động và mong sinh sản không đủ nâng một quy tắc đơn lên L4; thêm quyết định dài hạn độc lập, đổi cả bốn kế hoạch."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "2130f32fb21a63da524218c3c05c345ae2c49e1106744f96dd26fa2d47b70611",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "2130f32fb21a63da524218c3c05c345ae2c49e1106744f96dd26fa2d47b70611"
+    },
+    {
+      "id": "T3-143",
+      "topic": 3,
+      "initialHash": "0c6316dc2bb6473aa588a4b1f1282c44985fb5ba8f80e0de8bd3d4faf48e2f1c",
+      "objectiveReviewed": "Đọc đa chuỗi và bờ vùng cơ để phân biệt adenomyosis khu trú",
+      "actualCognitiveOperation": "Tổng hợp bờ, nền cơ và tín hiệu hai chuỗi để nhận định phân biệt.",
+      "duplicateGroup": null,
+      "duplicateReferences": [],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "Agostinho et al. MRI for adenomyosis: a pictorial review",
+          "url": "https://link.springer.com/article/10.1007/s13244-017-0576-z",
+          "year": 2017,
+          "accessed": "2026-10-11",
+          "condition": [
+            "MRI 2017 Figure 3: a T2/b T1 xóa mỡ, vùng khu trú bờ kém rõ và các ổ sáng T1 hỗ trợ adenomyosis/hemorrhagic foci; hình không quyết định kỹ thuật, Hb, năng lực cơ sở hoặc hiệu quả IVF."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        }
+      ],
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/mri_img03.png",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "Bỏ nhiễu nang noãn/tử cung bình thường ngoài bình diện bệnh cơ tử cung."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "28c539e4da021793a5a261428155be4b78c960bf44afcd9de572265a563d2ae8",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "28c539e4da021793a5a261428155be4b78c960bf44afcd9de572265a563d2ae8"
+    },
+    {
+      "id": "T3-144",
+      "topic": 3,
+      "initialHash": "d5ab380f9b80fcbc487c6dfb41665e7c38416ff791c14a1dfa782e79a15188db",
+      "objectiveReviewed": "Diễn giải thành phần ổ nhỏ bằng tương quan T2 và T1 xóa mỡ",
+      "actualCognitiveOperation": "Đối chiếu vị trí cùng ổ và đặc tính hai chuỗi; khác143tổng hợp chẩn đoán toàn vùng.",
+      "duplicateGroup": null,
+      "duplicateReferences": [],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "Agostinho et al. MRI for adenomyosis: a pictorial review",
+          "url": "https://link.springer.com/article/10.1007/s13244-017-0576-z",
+          "year": 2017,
+          "accessed": "2026-10-11",
+          "condition": [
+            "MRI 2017 Figure 3: a T2/b T1 xóa mỡ, vùng khu trú bờ kém rõ và các ổ sáng T1 hỗ trợ adenomyosis/hemorrhagic foci; hình không quyết định kỹ thuật, Hb, năng lực cơ sở hoặc hiệu quả IVF."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        }
+      ],
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/mri_img03.png",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "Nhiễu cũ gồm ung thư không cùng câu hỏi thành phần; thay bằng bốn cơ chế tín hiệu."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "7e592399fc59e7593f0d48600c5e720dfb23eaecf4b6b535f44de0af3b039563",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "7e592399fc59e7593f0d48600c5e720dfb23eaecf4b6b535f44de0af3b039563"
+    },
+    {
+      "id": "T3-145",
+      "topic": 3,
+      "initialHash": "ef2f13fc14faa5a0c23fe0fa31e32ecbe0f766fafec3d8d856b6750dd32a2aca",
+      "objectiveReviewed": "Đánh giá tính sẵn sàng cho cắt adenomyosis bảo tồn và đồng thuận thai sau mổ",
+      "actualCognitiveOperation": "Từ MRI/bệnh học, Hb và năng lực cơ sở, đánh giá ba kế hoạch chỉ giải quyết hai trong ba ràng buộc; chọn kế hoạch chuẩn bị mổ và đồng thuận phù hợp mục tiêu mang thai.",
+      "duplicateGroup": null,
+      "duplicateReferences": [],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "Agostinho et al. MRI for adenomyosis: a pictorial review",
+          "url": "https://link.springer.com/article/10.1007/s13244-017-0576-z",
+          "year": 2017,
+          "accessed": "2026-10-11",
+          "condition": [
+            "MRI 2017 Figure 3: a T2/b T1 xóa mỡ, vùng khu trú bờ kém rõ và các ổ sáng T1 hỗ trợ adenomyosis/hemorrhagic foci; hình không quyết định kỹ thuật, Hb, năng lực cơ sở hoặc hiệu quả IVF."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        },
+        {
+          "title": "Bệnh học của bệnh tuyến-cơ tử cung",
+          "file": "Topic 3/Bệnh học của bệnh tuyến-cơ tử cung.pdf",
+          "page": 1,
+          "evidence": "Ranh giới với cơ tử cung không được phân định rõ ràng, không có vỏ\nbao.",
+          "accessed": "2026-10-11",
+          "condition": [
+            "Bệnh học adenomyosis trong thư mục trang 1: không phân định rõ ranh giới với cơ, không có vỏ bao; điều này hỗ trợ giải thích khác biệt với bóc nhân xơ, không tự xác lập hiệu quả sinh sản hoặc số lượng mô có thể cắt."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        },
+        {
+          "title": "SOGC Guideline No. 437: Diagnosis and Management of Adenomyosis",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1701216323003079",
+          "year": 2023,
+          "accessed": "2026-10-11",
+          "verification": "Đọc nguyên mục recommendations và quần thể/mục tiêu của nguồn gốc trên nội dung ScienceDirect được web search trả về ngày 2026-10-11; request open trực tiếp 403. Không tuyên bố đọc phần toàn văn trả phí.",
+          "condition": [
+            "SOGC 437/2023 recommendations 9/11/12: người có kinh nghiệm thực hiện adenomyomectomy; sửa thiếu máu Hb <120 g/L trước mổ; tư vấn tác động sinh sản chưa chắc chắn, nguy cơ vỡ tử cung và mổ lấy thai trước chuyển dạ."
+          ],
+          "verified": true
+        }
+      ],
+      "levelBefore": 4,
+      "levelAfter": 4,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/mri_img03.png",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "L4 cũ chỉ nói không hứa mặt phẳng; thêm quyết định đánh đổi thật với thất bại triệu chứng và mục tiêu mang thai.",
+        "Tự kiểm lần hai: thay lời tư vấn đơn bằng đánh giá chuẩn bị mổ, năng lực và đồng thuận theo khuyến cáo 9/11/12 của SOGC 437."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "ad89fe189ddad382e95aa583065926314e292e82a5dcfea2f8841ac5c99081d8",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "76798f4d545b9df0ba9192e193775f465683aee595965665c6d88d621155f5ae"
+    },
+    {
+      "id": "T3-146",
+      "topic": 3,
+      "initialHash": "119ac0a8dfbf887a1a56a8469acdb0ea815295a487894b57c0151c69a02b2a28",
+      "objectiveReviewed": "Phân biệt bằng chứng giảm triệu chứng với bằng chứng sinh sản trong chuẩn bị chuyển phôi",
+      "actualCognitiveOperation": "Đánh giá suy luận từ giảm đau sang sinh sống, diễn giải weak/low thay vì bắt buộc/cấm, và phối hợp thời gian 2–4 tháng với kế hoạch chuyển phôi đã thống nhất.",
+      "duplicateGroup": null,
+      "duplicateReferences": [],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "Agostinho et al. MRI for adenomyosis: a pictorial review",
+          "url": "https://link.springer.com/article/10.1007/s13244-017-0576-z",
+          "year": 2017,
+          "accessed": "2026-10-11",
+          "condition": [
+            "MRI 2017 Figure 3: a T2/b T1 xóa mỡ, vùng khu trú bờ kém rõ và các ổ sáng T1 hỗ trợ adenomyosis/hemorrhagic foci; hình không quyết định kỹ thuật, Hb, năng lực cơ sở hoặc hiệu quả IVF."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        },
+        {
+          "title": "SOGC Guideline No. 437: Diagnosis and Management of Adenomyosis",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1701216323003079",
+          "year": 2023,
+          "accessed": "2026-10-11",
+          "verification": "Đọc nguyên mục recommendations và quần thể/mục tiêu của nguồn gốc trên nội dung ScienceDirect được web search trả về ngày 2026-10-11; request open trực tiếp 403. Không tuyên bố đọc phần toàn văn trả phí.",
+          "condition": [
+            "SOGC 437/2023 recommendations 15/16: bất định kết quả sinh sản, có thể cân nhắc GnRHa 2–4 tháng trước phôi tươi/đông với weak/low; không bắt buộc tám tháng hoặc bảo đảm sinh sống từ cải thiện đau."
+          ],
+          "verified": true
+        }
+      ],
+      "levelBefore": 4,
+      "levelAfter": 4,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/mri_img03.png",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "Bỏ dẫn yếu tố nam từ nguồn u xơ để áp adenomyosis; dùng đúng nguồn điều trị adenomyosis.",
+        "Thay hai phương án cắt tử cung/2năm không cân nhắc thành xung đột chỉ định và thời gian thực.",
+        "Tự kiểm lần hai: bỏ bài tập khẩu quyết lịch sử 2018; thêm phân tích kết quả khác nhau và mức chắc chắn của khuyến cáo 15/16 SOGC 437/2023."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "e9133e5c3644ae001631cea39c52ba0c7a7f126fae34a22c3b38494877075b3e",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "7d09c33919c075f7fb71ab24b3c5205ee629e2d500d685e75fbbfb7deb6c1e10"
+    },
+    {
+      "id": "T3-147",
+      "topic": 3,
+      "initialHash": "820265b5263086b8183457bc63dc9cd701d8ee892ada7bea512b705afe2ae154",
+      "objectiveReviewed": "Đọc biến đổi dải T2 theo thời gian để ưu tiên co cơ",
+      "actualCognitiveOperation": "Đọc hai thời điểm ảnh thật, nhận định cơ chế cho một dấu, khác148thời điểm chu kỳ.",
+      "duplicateGroup": null,
+      "duplicateReferences": [],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "Agostinho et al. MRI for adenomyosis: a pictorial review",
+          "url": "https://link.springer.com/article/10.1007/s13244-017-0576-z",
+          "year": 2017,
+          "accessed": "2026-10-11",
+          "condition": [
+            "MRI 2017 Figure 5: dải giảm T2 thay đổi vài phút phù hợp co cơ thoáng qua; tránh MRI trong kinh, ưu tiên cuối pha tăng sinh. JZ 8–12 mm cần tiêu chí phụ: tỷ lệ >40%, chênh tối đa–tối thiểu >5 mm, các ổ sáng và bờ; các số đo ở vùng khác của ca là giả định, không suy từ panel."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        }
+      ],
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/mri_img04.png",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "Thay nhiễu u biếnmất/sarcoma chắc bằng các tổn thương cấu trúc có thể bị nhầm."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "bf623c0e14bb896af860d45b9d25c95399719d3b0647028707c689b518d2d8b8",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "bf623c0e14bb896af860d45b9d25c95399719d3b0647028707c689b518d2d8b8"
+    },
+    {
+      "id": "T3-148",
+      "topic": 3,
+      "initialHash": "025fa36827496443b58e861bef3d7f79587ff512317b75dec2c248bdb6055317",
+      "objectiveReviewed": "Chọn thời điểm MRI để giảm nhiễu chu kỳ sau đã nhận diện co cơ",
+      "actualCognitiveOperation": "Áp nhiễu chu kỳ vào lịch thu kiểm tra sau khi dấu co cơ đã được giải thích; không lặp147.",
+      "duplicateGroup": null,
+      "duplicateReferences": [
+        "T3-147"
+      ],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "Agostinho et al. MRI for adenomyosis: a pictorial review",
+          "url": "https://link.springer.com/article/10.1007/s13244-017-0576-z",
+          "year": 2017,
+          "accessed": "2026-10-11",
+          "condition": [
+            "MRI 2017 Figure 5: dải giảm T2 thay đổi vài phút phù hợp co cơ thoáng qua; tránh MRI trong kinh, ưu tiên cuối pha tăng sinh. JZ 8–12 mm cần tiêu chí phụ: tỷ lệ >40%, chênh tối đa–tối thiểu >5 mm, các ổ sáng và bờ; các số đo ở vùng khác của ca là giả định, không suy từ panel."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        }
+      ],
+      "levelBefore": 3,
+      "levelAfter": 3,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/mri_img04.png",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "Trùng thao tác thu lại/co cơ147; đổi sang lịch chu kỳ với dữ liệu rõ."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "ec566cb9667de6cc6844adc71a0dfd7132905d983d83d5ce25898baaea3ea815",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "ec566cb9667de6cc6844adc71a0dfd7132905d983d83d5ce25898baaea3ea815"
+    },
+    {
+      "id": "T3-149",
+      "topic": 3,
+      "initialHash": "dbd6e5df5ba52b5d5306585fb55a6f31d6800f1040ec42249e4a9b9742fc1b27",
+      "objectiveReviewed": "Tổng hợp dấu thoáng qua và các tiêu chí phụ ở vùng khác khi JZ8–12mm",
+      "actualCognitiveOperation": "Tính hai chỉ số phụ, phối hợp dấu ổn định đa chuỗi và phân tách một dấu thoáng qua; khác147nhận diện và148lịch.",
+      "duplicateGroup": null,
+      "duplicateReferences": [
+        "T3-147",
+        "T3-148"
+      ],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "Agostinho et al. MRI for adenomyosis: a pictorial review",
+          "url": "https://link.springer.com/article/10.1007/s13244-017-0576-z",
+          "year": 2017,
+          "accessed": "2026-10-11",
+          "condition": [
+            "MRI 2017 Figure 5: dải giảm T2 thay đổi vài phút phù hợp co cơ thoáng qua; tránh MRI trong kinh, ưu tiên cuối pha tăng sinh. JZ 8–12 mm cần tiêu chí phụ: tỷ lệ >40%, chênh tối đa–tối thiểu >5 mm, các ổ sáng và bờ; các số đo ở vùng khác của ca là giả định, không suy từ panel."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        }
+      ],
+      "levelBefore": 4,
+      "levelAfter": 4,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/mri_img04.png",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "L4 cũ chỉ đánh giá hai cực đoan; thêm các dữ kiện tính và dấu độc lập thật."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "86e964db128911073e157f379f6069080c20929064b64a4ae9e5b7eb908d1582",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "86e964db128911073e157f379f6069080c20929064b64a4ae9e5b7eb908d1582"
+    },
+    {
+      "id": "T3-150",
+      "topic": 3,
+      "initialHash": "979cd1e048d82973cd72ee53df462b17989b70e35d60f4a435309970aed0409c",
+      "objectiveReviewed": "Phân tích khả năng loại bệnh nội mạc khi một dấu MRI là co cơ nhưng khảo sát AUB chưa đủ",
+      "actualCognitiveOperation": "Tích hợp ba nguồn chứng cứ ở hai cơ quan đích: dải cơ thoáng qua, số đo nội mạc không hợp lệ và mẫu ít mô với triệu chứng tái diễn.",
+      "duplicateGroup": null,
+      "duplicateReferences": [
+        "T3-149"
+      ],
+      "semanticDecision": "Rewritten to distinguish actual task; related cases require final peer check.",
+      "sourceVerified": [
+        {
+          "title": "Agostinho et al. MRI for adenomyosis: a pictorial review",
+          "url": "https://link.springer.com/article/10.1007/s13244-017-0576-z",
+          "year": 2017,
+          "accessed": "2026-10-11",
+          "condition": [
+            "MRI 2017 Figure 5: dải giảm T2 thay đổi vài phút phù hợp co cơ thoáng qua; tránh MRI trong kinh, ưu tiên cuối pha tăng sinh. JZ 8–12 mm cần tiêu chí phụ: tỷ lệ >40%, chênh tối đa–tối thiểu >5 mm, các ổ sáng và bờ; các số đo ở vùng khác của ca là giả định, không suy từ panel."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        },
+        {
+          "title": "ISUOG Consensus Statement on sonographic assessment of the endometrium",
+          "url": "https://obgyn.onlinelibrary.wiley.com/doi/10.1002/uog.70163",
+          "year": 2026,
+          "accessed": "2026-10-11",
+          "condition": [
+            "ISUOG 2026: nội mạc không thấy toàn bộ phải báo non-measurable; nhánh PMB nội mạc mỏng trấn an cần thấy toàn bộ và điều kiện đi kèm. Ra huyết tái diễn với khảo sát/mẫu chưa giải quyết cần khảo sát buồng/mô học định hướng; không dùng một đoạn 3 mm hay ít mô lành để khép khảo sát."
+          ],
+          "verification": "Đọc nguồn gốc và ngữ cảnh trang/mục liên quan trong lượt này; đối chiếu câu, bốn lựa chọn và bốn lý do. Hình nguồn được xem trực tiếp, dữ kiện dạy học được ghi riêng.",
+          "verified": true
+        }
+      ],
+      "levelBefore": 4,
+      "levelAfter": 4,
+      "imageCheck": {
+        "required": true,
+        "status": "reviewed",
+        "asset": "images/mri_img04.png",
+        "findingChecked": "Viewed original image, checked source figure/caption; teaching-case assumptions separately stated.",
+        "clinicalVignette": true,
+        "explicitTask": true,
+        "actualLocalImage": true,
+        "provenance": true
+      },
+      "issues": [
+        "L4 cũ chỉ hoànthiệnMRIkémchấtlượng gần149; thay xungđột cơ–nội mạc và nguồnspecificPMB."
+      ],
+      "changes": [
+        "Recast vignette/task/options/all reasons and source context; existing image file and caseGroup preserved."
+      ],
+      "status": "closed",
+      "questionHash": "03cd6cd16f453754c5f607688982299bb31a92fa702955d08f2d1ea9d3502b13",
+      "fullRecordRead": true,
+      "peerReview": {
+        "status": "accepted",
+        "reviewer": "/root/existing_bank_audit",
+        "date": "2026-10-11",
+        "scope": "Peer read complete case/task/four options/four reasons and source conditions, with additional final rewrites rechecked."
+      },
+      "finalQuestionSha256": "03cd6cd16f453754c5f607688982299bb31a92fa702955d08f2d1ea9d3502b13"
+    }
+  ],
+  "hashNote": "finalQuestionSha256 is SHA256 of UTF8 NodeJSON.stringify of peer-accepted current record; earlier initialHash/hash/questionHash fields preserve historical author snapshots."
+}

@@ -1,0 +1,2523 @@
+{
+  "date": "2026-10-11",
+  "status": "complete",
+  "method": "140 lexical candidates screened by actual task and correct-answer construct. Lexical score is discovery only, never an acceptance criterion. Focused cases were read with vignette/options/all reasons/source conditions, and reported to their topic reviewers. All 926 records independently receive full-record topic review; this cross-screen is additional.",
+  "focusedFullRecordIds": [
+    "T1-009",
+    "T1-019",
+    "T1-022",
+    "T1-027",
+    "T1-028",
+    "T1-055",
+    "T1-070",
+    "T1-077",
+    "T1-081",
+    "T1-110",
+    "T1-119",
+    "T1-128",
+    "T1-154",
+    "T1-157",
+    "T1-158",
+    "T2-062",
+    "T2-113",
+    "T3-005",
+    "T3-016",
+    "T3-053",
+    "T3-073",
+    "T3-074",
+    "T3-084",
+    "T3-088",
+    "T3-090",
+    "T3-094",
+    "T3-116",
+    "T3-138",
+    "T3-139",
+    "T3-140",
+    "T3-142",
+    "T3-143",
+    "T4-019",
+    "T4-031",
+    "T4-063",
+    "T4-073",
+    "T4-074",
+    "T4-082",
+    "T4-091",
+    "T4-101",
+    "T4-104",
+    "T4-120",
+    "T4-124",
+    "T4-141",
+    "T5-090",
+    "T5-099",
+    "T6-011",
+    "T6-014",
+    "T6-086",
+    "T6-120"
+  ],
+  "candidates": [
+    {
+      "candidate": 1,
+      "a": "T1-009",
+      "b": "T6-011",
+      "lexicalCandidateScore": 0.608,
+      "taskBeforeA": "Giai đoạn chiêu mộ nang noãn nguyên thủy phụ thuộc chủ yếu vào yếu tố nào?",
+      "taskBeforeB": "Giai đoạn chiêu mộ nang noãn nguyên thủy chịu chi phối trực tiếp chủ yếu bởi nhóm yếu tố nào?",
+      "screeningDecision": "duplicate",
+      "reason": "Chiêu mộ nang nguyên thủy bởi yếu tố tại buồng trứng là cùng thao tác nhớ; thay T6-011.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "Đã thay T6-011 bằng chiều chuyển PIP3→PIP2 của PTEN; T1-009 giữ nhận diện tự/cận tiết. Không cùng thao tác nhớ.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T1-009": "509084159302df50c5e6f5a69349f3c0cc53cf720b86048a91141876692563cd",
+        "T6-011": "e1c8b3df43b4d20788acb6138a1079e13e21c6272b0220f4f86cadcd5f8b7ce0"
+      }
+    },
+    {
+      "candidate": 2,
+      "a": "T1-077",
+      "b": "T4-063",
+      "lexicalCandidateScore": 0.328,
+      "taskBeforeA": "Chi tiết nào cần ưu tiên cho tư vấn nguy cơ di truyền, và có thể kết luận đột biến chắc chưa?",
+      "taskBeforeB": "Hướng đánh giá nào phù hợp nguy cơ di truyền?",
+      "screeningDecision": "duplicate_cluster",
+      "reason": "Chỉ kết luận cần phả hệ/tư vấn không xác nhận gene; tách khỏi chùm T1-077/128, T4-063/091.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T1-077 nhận diện dấu phả hệ chưa xét gene; T4-063 cascade cho biến thể gia đình đã xác nhận, không dùng ROMA.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T1-077": "ed4fa58031b8158cb3da5b67289dc07e73d7b5dcec461702aaa6a3d6efdd8c2b",
+        "T4-063": "ec4ef12c91017f1f29489564acb8748e689a2addd3d3ac03c582602b3cc2f61a"
+      }
+    },
+    {
+      "candidate": 3,
+      "a": "T1-028",
+      "b": "T6-014",
+      "lexicalCandidateScore": 0.26,
+      "taskBeforeA": "Tác động đặc trưng của progesterone lên nội mạc đã được estrogen chuẩn bị là gì?",
+      "taskBeforeB": "Hormone nào mở cửa sổ làm tổ trên nội mạc đã được estrogen chuẩn bị thích hợp?",
+      "screeningDecision": "overlapping_basic_objective",
+      "reason": "Progesterone trên nội mạc đã estrogen chuẩn bị lặp gần cùng mục tiêu nền; đổi T6-014.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T6-014 nay hatching trước làm tổ; T1-028 biệt hóa nội mạc do progesterone.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T1-028": "f87d7e56e299a16b6d3be1feefafaa7c83ff5d45ff1bf52bac1e51926e6827a8",
+        "T6-014": "02f55111051c696a70c4d91c82c6463dd436e4f709c6a9c36bdb37859e0bffc3"
+      }
+    },
+    {
+      "candidate": 4,
+      "a": "T2-035",
+      "b": "T3-011",
+      "lexicalCandidateScore": 0.254,
+      "taskBeforeA": "Than phiền nào trong các lựa chọn phù hợp nhất với VVC?",
+      "taskBeforeB": "Than phiền thường thấy nhất của adenomyosis trong bài bệnh học là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Than phiền nào trong các lựa chọn phù hợp nhất với VVC? / Than phiền thường thấy nhất của adenomyosis trong bài bệnh học là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-035": "e2c4ae8ab270b2869fc3fef27e3dda434c490a81c724c28fa1302d387ad2ad27",
+        "T3-011": "b0e9d2406ee09f4144d1338ae8ce960853cd93635df5f472a786f95d2877cbdf"
+      }
+    },
+    {
+      "candidate": 5,
+      "a": "T3-144",
+      "b": "T4-141",
+      "lexicalCandidateScore": 0.247,
+      "taskBeforeA": "Dữ kiện T1 xóa mỡ bổ sung ý nghĩa nào?",
+      "taskBeforeB": "Cách diễn giải phù hợp nhất là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Dữ kiện T1 xóa mỡ bổ sung ý nghĩa nào? / Cách diễn giải phù hợp nhất là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-144": "7e592399fc59e7593f0d48600c5e720dfb23eaecf4b6b535f44de0af3b039563",
+        "T4-141": "d901119336c00ca5ad79081cb0be47efd0c381a7cf80eaaa779bd92ba9ed51ec"
+      }
+    },
+    {
+      "candidate": 6,
+      "a": "T1-011",
+      "b": "T6-013",
+      "lexicalCandidateScore": 0.245,
+      "taskBeforeA": "Khi xung GnRH còn thưa, đáp ứng nào của tuyến yên có xu hướng chiếm ưu thế?",
+      "taskBeforeB": "Xung GnRH từ hạ đồi kích thích tuyến yên chế tiết cặp hormone nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Khi xung GnRH còn thưa, đáp ứng nào của tuyến yên có xu hướng chiếm ưu thế? / Xung GnRH từ hạ đồi kích thích tuyến yên chế tiết cặp hormone nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-011": "0cb48c4c021dde85cf9e6e27cb9e0a5f885628f60ada2dbb7810b52595fc3133",
+        "T6-013": "4c93a7b649ac5ffc7807bcb782aad473e1e11c0b765276746b50a95b9a88d5fe"
+      }
+    },
+    {
+      "candidate": 7,
+      "a": "T1-022",
+      "b": "T4-035",
+      "lexicalCandidateScore": 0.245,
+      "taskBeforeA": "Phối hợp nào đúng với mô hình “hai tế bào, hai hormone” trong sinh tổng hợp estrogen?",
+      "taskBeforeB": "Dự đoán nào về tạo estrogen phù hợp với dữ kiện này?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Phối hợp nào đúng với mô hình “hai tế bào, hai hormone” trong sinh tổng hợp estrogen? / Dự đoán nào về tạo estrogen phù hợp với dữ kiện này?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-022": "4619701a6b85c1cd57cb12e62a2df9e197e87b5acff29ccd90017555f45063af",
+        "T4-035": "24aa58fe1d308054ab1590b8143fdbcc1d9a54dfd8781f4ee54caabd16427ae9"
+      }
+    },
+    {
+      "candidate": 8,
+      "a": "T1-009",
+      "b": "T6-012",
+      "lexicalCandidateScore": 0.243,
+      "taskBeforeA": "Giai đoạn chiêu mộ nang noãn nguyên thủy phụ thuộc chủ yếu vào yếu tố nào?",
+      "taskBeforeB": "Vai trò “người gác cổng” của AMH trong bài ôn chu kỳ buồng trứng là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Giai đoạn chiêu mộ nang noãn nguyên thủy phụ thuộc chủ yếu vào yếu tố nào? / Vai trò “người gác cổng” của AMH trong bài ôn chu kỳ buồng trứng là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-009": "509084159302df50c5e6f5a69349f3c0cc53cf720b86048a91141876692563cd",
+        "T6-012": "ffb3d7a1b1b381184694a35d296bf8528cb197dd6b383c6a1e5255fd0df28c7b"
+      }
+    },
+    {
+      "candidate": 9,
+      "a": "T3-005",
+      "b": "T4-024",
+      "lexicalCandidateScore": 0.224,
+      "taskBeforeA": "Dấu hiệu mô học định nghĩa adenomyosis là gì?",
+      "taskBeforeB": "Theo bài phân loại, khác biệt mô học quan trọng giữa u dạng nội mạc và endometrioma là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Dấu hiệu mô học định nghĩa adenomyosis là gì? / Theo bài phân loại, khác biệt mô học quan trọng giữa u dạng nội mạc và endometrioma là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-005": "cc3c49986f57ac70a875403c247c37ec81b07540a0dbdf3efb9d51b6f1880a6c",
+        "T4-024": "80777be59dbff90a387ad51e2d82d96c13ccf38ab00a3f1a827b959ce6e7ddb9"
+      }
+    },
+    {
+      "candidate": 10,
+      "a": "T1-027",
+      "b": "T6-014",
+      "lexicalCandidateScore": 0.221,
+      "taskBeforeA": "Vai trò chuẩn bị nội mạc của estrogen trước khi progesterone tác động là gì?",
+      "taskBeforeB": "Hormone nào mở cửa sổ làm tổ trên nội mạc đã được estrogen chuẩn bị thích hợp?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Vai trò chuẩn bị nội mạc của estrogen trước khi progesterone tác động là gì? / Hormone nào mở cửa sổ làm tổ trên nội mạc đã được estrogen chuẩn bị thích hợp?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-027": "1db163d3d40730ef1aa1a9928d8fb32a14ccc9dfa733175e7ea5fee5d7d81f3e",
+        "T6-014": "02f55111051c696a70c4d91c82c6463dd436e4f709c6a9c36bdb37859e0bffc3"
+      }
+    },
+    {
+      "candidate": 11,
+      "a": "T3-143",
+      "b": "T4-141",
+      "lexicalCandidateScore": 0.221,
+      "taskBeforeA": "Chẩn đoán hình ảnh ưu tiên là gì?",
+      "taskBeforeB": "Cách diễn giải phù hợp nhất là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Chẩn đoán hình ảnh ưu tiên là gì? / Cách diễn giải phù hợp nhất là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-143": "28c539e4da021793a5a261428155be4b78c960bf44afcd9de572265a563d2ae8",
+        "T4-141": "d901119336c00ca5ad79081cb0be47efd0c381a7cf80eaaa779bd92ba9ed51ec"
+      }
+    },
+    {
+      "candidate": 12,
+      "a": "T1-158",
+      "b": "T3-140",
+      "lexicalCandidateScore": 0.22,
+      "taskBeforeA": "Đọc vị trí khối trên hai ô, nhận diện giới hạn ảnh và chọn dữ kiện phải bổ sung trước khi phân biệt FIGO 1/2.",
+      "taskBeforeB": "Ghi FIGO nào phù hợp với dữ kiện bổ sung?",
+      "screeningDecision": "overlapping_image_objective",
+      "reason": "Cùng ảnh và cùng ngưỡng FIGO 1/2; cần tách tác vụ, dùng hình thật và nâng nhiệm vụ chứ không chỉ khác tuổi.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T3-140 đọc hình +45% trong cơ để phân loại FIGO1; T1-158 tích hợp type2/5,5cm/60% và năng lực can thiệp trước cam kết một thì.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T1-158": "b16f77e2f66b82cde71d8da2d69bd8e2d47c96d80e9d347e9fab49216246d04d",
+        "T3-140": "f129ec064b7b64deeae3274e1f9505205bfbded36d5e880e003481efc411b272"
+      }
+    },
+    {
+      "candidate": 13,
+      "a": "T1-077",
+      "b": "T4-091",
+      "lexicalCandidateScore": 0.215,
+      "taskBeforeA": "Chi tiết nào cần ưu tiên cho tư vấn nguy cơ di truyền, và có thể kết luận đột biến chắc chưa?",
+      "taskBeforeB": "Tư vấn nào tránh suy diễn loại đột biến?",
+      "screeningDecision": "duplicate_cluster",
+      "reason": "Chùm tư vấn di truyền từ bệnh sử, không có thao tác khác thực chất.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T1-077 chưa có kết quả gene; T4-091 BRCA2 đã xác nhận, chưa đủ con/chưa40 và giới hạn salpingectomy-delay ngoài trial.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T1-077": "ed4fa58031b8158cb3da5b67289dc07e73d7b5dcec461702aaa6a3d6efdd8c2b",
+        "T4-091": "52a9869d2a3e08d3b1ce3c9d70a8962a30d8d7cabff369c4b19b07acca28f4c2"
+      }
+    },
+    {
+      "candidate": 14,
+      "a": "T4-012",
+      "b": "T6-017",
+      "lexicalCandidateScore": 0.214,
+      "taskBeforeA": "Tam chứng Meigs bao gồm những thành phần nào?",
+      "taskBeforeB": "Thành phần của COC được mô tả trong bài giảng gồm những gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Tam chứng Meigs bao gồm những thành phần nào? / Thành phần của COC được mô tả trong bài giảng gồm những gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T4-012": "f223341a9cede7a2046671796fdbbf8e0550e56e7b5e99a8a6f1c146cde5d79f",
+        "T6-017": "64be762ce433fdec403379a1f36d5f839f818fff1d7617d60c7c89beb0347bae"
+      }
+    },
+    {
+      "candidate": 15,
+      "a": "T1-022",
+      "b": "T4-019",
+      "lexicalCandidateScore": 0.21,
+      "taskBeforeA": "Phối hợp nào đúng với mô hình “hai tế bào, hai hormone” trong sinh tổng hợp estrogen?",
+      "taskBeforeB": "Cặp tế bào và quá trình nào tạo estrogen trong nang noãn theo tài liệu?",
+      "screeningDecision": "duplicate",
+      "reason": "Cùng mô hình hai tế bào/hai gonadotropin; thay T4-019.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T1-022 hai tế bào/hai hormone; T4-019 giải thích vì sao noãn không đại diện hoạt động steroid của mô tùy hành.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T1-022": "4619701a6b85c1cd57cb12e62a2df9e197e87b5acff29ccd90017555f45063af",
+        "T4-019": "3742d5e4424c9a68c75cc5b0e8c2eacd393decba316d135e6bfce940612934a6"
+      }
+    },
+    {
+      "candidate": 16,
+      "a": "T1-157",
+      "b": "T3-139",
+      "lexicalCandidateScore": 0.21,
+      "taskBeforeA": "Đọc ô a/b, xác định phần thông tin còn thiếu ở mặt cắt dọc và chọn giá trị bổ sung của mặt phẳng vành để lập kế hoạch.",
+      "taskBeforeB": "Panel b bổ sung chính điều gì cho bản đồ tổn thương?",
+      "screeningDecision": "duplicate",
+      "reason": "Cùng ảnh và giá trị mặt phẳng vành 3D; thay cả tác vụ yếu ở T1-157/T3-139.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T3-139 sửa báo cáo bỏ biến dạng khoang; T1-157 giải quyết bất tương hợp US/hysteroscopy do distension ởtype2, hoàn thiện bản đồ.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T1-157": "03c75f91a569eb7a473d0c73b4f09f94f73571437b82c11a644ca4c8db83e1c7",
+        "T3-139": "6ded168a2809896b7bf74578473991ab330de16a3f0f109ee13c68af6f4bc94a"
+      }
+    },
+    {
+      "candidate": 17,
+      "a": "T1-027",
+      "b": "T3-016",
+      "lexicalCandidateScore": 0.206,
+      "taskBeforeA": "Vai trò chuẩn bị nội mạc của estrogen trước khi progesterone tác động là gì?",
+      "taskBeforeB": "Trong cơ chế phát triển u xơ-cơ, estrogen qua ER-α có vai trò nào được nhấn mạnh?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Vai trò chuẩn bị nội mạc của estrogen trước khi progesterone tác động là gì? / Trong cơ chế phát triển u xơ-cơ, estrogen qua ER-α có vai trò nào được nhấn mạnh?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-027": "1db163d3d40730ef1aa1a9928d8fb32a14ccc9dfa733175e7ea5fee5d7d81f3e",
+        "T3-016": "8c3810d74bba16dd6fd1c24d10511bfd8193196aed17be8bf371eb97c5441317"
+      }
+    },
+    {
+      "candidate": 18,
+      "a": "T3-005",
+      "b": "T4-013",
+      "lexicalCandidateScore": 0.203,
+      "taskBeforeA": "Dấu hiệu mô học định nghĩa adenomyosis là gì?",
+      "taskBeforeB": "Dấu hiệu mô học được nêu đặc trưng cho u tế bào hạt là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Dấu hiệu mô học định nghĩa adenomyosis là gì? / Dấu hiệu mô học được nêu đặc trưng cho u tế bào hạt là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-005": "cc3c49986f57ac70a875403c247c37ec81b07540a0dbdf3efb9d51b6f1880a6c",
+        "T4-013": "19687e09c98b44615440a1923cc40078915cd417d8113857976dcb4484aafdf4"
+      }
+    },
+    {
+      "candidate": 19,
+      "a": "T1-104",
+      "b": "T5-022",
+      "lexicalCandidateScore": 0.2,
+      "taskBeforeA": "Lập luận nào tránh đóng chẩn đoán quá sớm?",
+      "taskBeforeB": "Chọn cách tổng hợp thông tin để tránh đóng chẩn đoán quá sớm.",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Lập luận nào tránh đóng chẩn đoán quá sớm? / Chọn cách tổng hợp thông tin để tránh đóng chẩn đoán quá sớm.. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-104": "6ad0ba634151f22e014f16ee6d94a3042feadbe7c091eaba734d8b344f869a74",
+        "T5-022": "0b7322cda080f4d1a3495a3337cdaee36384597c06d40645ed1d999a3b36d40f"
+      }
+    },
+    {
+      "candidate": 20,
+      "a": "T1-006",
+      "b": "T3-001",
+      "lexicalCandidateScore": 0.195,
+      "taskBeforeA": "U xơ cơ tử cung FIGO type 0 có đặc điểm nào?",
+      "taskBeforeB": "Đặc điểm đại thể nào phù hợp nhất với u xơ-cơ tử cung trong bài bệnh học?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: U xơ cơ tử cung FIGO type 0 có đặc điểm nào? / Đặc điểm đại thể nào phù hợp nhất với u xơ-cơ tử cung trong bài bệnh học?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-006": "ab5de67b945bea7c078ffea18f959a4c186d3bf2888712d4e7ebd87cf664f65a",
+        "T3-001": "575d6d2282cd4a0cbfe5ae0246dfe964f27a4ccf8f4d55eb86c0bf5927f5a769"
+      }
+    },
+    {
+      "candidate": 21,
+      "a": "T3-145",
+      "b": "T4-141",
+      "lexicalCandidateScore": 0.192,
+      "taskBeforeA": "Diễn giải nào cần đưa vào kế hoạch kỹ thuật sau đọc cả hai chuỗi?",
+      "taskBeforeB": "Cách diễn giải phù hợp nhất là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Diễn giải nào cần đưa vào kế hoạch kỹ thuật sau đọc cả hai chuỗi? / Cách diễn giải phù hợp nhất là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-145": "76798f4d545b9df0ba9192e193775f465683aee595965665c6d88d621155f5ae",
+        "T4-141": "d901119336c00ca5ad79081cb0be47efd0c381a7cf80eaaa779bd92ba9ed51ec"
+      }
+    },
+    {
+      "candidate": 22,
+      "a": "T1-077",
+      "b": "T4-026",
+      "lexicalCandidateScore": 0.189,
+      "taskBeforeA": "Chi tiết nào cần ưu tiên cho tư vấn nguy cơ di truyền, và có thể kết luận đột biến chắc chưa?",
+      "taskBeforeB": "Theo bài dịch tễ trong folder, tiền sử gia đình nào gợi ý nguy cơ di truyền liên quan ung thư buồng trứng?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Chi tiết nào cần ưu tiên cho tư vấn nguy cơ di truyền, và có thể kết luận đột biến chắc chưa? / Theo bài dịch tễ trong folder, tiền sử gia đình nào gợi ý nguy cơ di truyền liên quan ung thư buồng trứng?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-077": "ed4fa58031b8158cb3da5b67289dc07e73d7b5dcec461702aaa6a3d6efdd8c2b",
+        "T4-026": "93f7a9191dd31b05a2eeae2813aa36d6f38df2ad89cd0e9f3421265e8fbb817d"
+      }
+    },
+    {
+      "candidate": 23,
+      "a": "T2-113",
+      "b": "T6-120",
+      "lexicalCandidateScore": 0.186,
+      "taskBeforeA": "Theo CDC 2021, chọn kế hoạch cân thời điểm đặt, đáp ứng và mong muốn tránh thai.",
+      "taskBeforeB": "Kế hoạch nào kết hợp điều trị, mong muốn và đáp ứng theo thời gian?",
+      "screeningDecision": "duplicate",
+      "reason": "Cùng một nhánh PID và Cu-IUD giữ + kháng sinh + đánh giá 48–72h. Đổi T6-120 sang ngừng phương pháp với thứ tự và EC; kiểm tra lại113.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T2-113 người muốn giữ Cu-IUD đã cải thiện48h/HIV/thời gianđặt45d; T6-120 người muốn ngừng, thứ tự antibiotic trước removal vàEC/phương pháp tiếp.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T2-113": "fd6bd3caf3874baa18ece9e2b18a116c5ce3ada7b015ea5cf579e6c1f5e0110a",
+        "T6-120": "d370b1888ca7f51d5fb16a657f502dbd53a49b5c9110f8dab310c6392a6886a1"
+      }
+    },
+    {
+      "candidate": 24,
+      "a": "T1-151",
+      "b": "T6-050",
+      "lexicalCandidateScore": 0.181,
+      "taskBeforeA": "Đọc phối hợp các ô và chọn chi tiết đủ xác định vị trí thai ngoài tử cung.",
+      "taskBeforeB": "Ưu tiên nào dùng đúng hai thông tin?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Đọc phối hợp các ô và chọn chi tiết đủ xác định vị trí thai ngoài tử cung. / Ưu tiên nào dùng đúng hai thông tin?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-151": "c66c599c0abe90ac2b27ff53e3f2086d51e1ee621048fb4222a9d98e7039ffa9",
+        "T6-050": "1d0025d1300c63f9b01a71191971aec1fe6dd61f8e329e307584bf242f90a86a"
+      }
+    },
+    {
+      "candidate": 25,
+      "a": "T1-023",
+      "b": "T6-013",
+      "lexicalCandidateScore": 0.18,
+      "taskBeforeA": "Vai trò phản hồi đặc trưng của inhibin B trên tuyến yên là gì?",
+      "taskBeforeB": "Xung GnRH từ hạ đồi kích thích tuyến yên chế tiết cặp hormone nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Vai trò phản hồi đặc trưng của inhibin B trên tuyến yên là gì? / Xung GnRH từ hạ đồi kích thích tuyến yên chế tiết cặp hormone nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-023": "67714f6779531eba2b72da0a75fa47e464c345f45a357d2c67e8df2085a4732c",
+        "T6-013": "4c93a7b649ac5ffc7807bcb782aad473e1e11c0b765276746b50a95b9a88d5fe"
+      }
+    },
+    {
+      "candidate": 26,
+      "a": "T3-138",
+      "b": "T4-124",
+      "lexicalCandidateScore": 0.177,
+      "taskBeforeA": "Kế hoạch khảo sát và báo cáo nào phù hợp nhất với bất định này?",
+      "taskBeforeB": "Kế hoạch nào xét đủ chất lượng kỹ thuật và nguy cơ nốt mới?",
+      "screeningDecision": "parallel_operation_needs_refinement",
+      "reason": "Cùng tối ưu Doppler/khảo sát động trước gọi vô mạch; khác cơ quan có thể giữ nếu nhiệm vụ và đặc điểm quyết định riêng thật sự.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T3-138 xác định khoang2mm là mạch và đảo2mm không ngưỡng tối thiểu; T4-124 kiểm định Doppler chưa tối ưu và tính average linear size không đổi.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T3-138": "2cb73aeb264543eb85e610f243dc59bb7807892d7c90b0aaaf61dca8fbff7cd1",
+        "T4-124": "d6ca56dbfdf32b4ca15467061647995e0c8dc490cc612de13a7fab1604898605"
+      }
+    },
+    {
+      "candidate": 27,
+      "a": "T2-011",
+      "b": "T5-015",
+      "lexicalCandidateScore": 0.173,
+      "taskBeforeA": "Đặc tính sống nào của C. trachomatis được bài giảng nhấn mạnh?",
+      "taskBeforeB": "Điểm phân biệt về bản chất giữa chuyển sản sinh lý và dị sản được bài giảng nhấn mạnh là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Đặc tính sống nào của C. trachomatis được bài giảng nhấn mạnh? / Điểm phân biệt về bản chất giữa chuyển sản sinh lý và dị sản được bài giảng nhấn mạnh là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-011": "5bd85dfd6b66dd924a3c2d82e3a73c562019bc7c2eab611c1464b34d87dfa999",
+        "T5-015": "1a72a13337918dcf10e8d399e04c1c7f8a212e3ff270d694e468ea314daba028"
+      }
+    },
+    {
+      "candidate": 28,
+      "a": "T1-097",
+      "b": "T6-008",
+      "lexicalCandidateScore": 0.173,
+      "taskBeforeA": "Theo các nguồn được dẫn, chọn thứ tự ưu tiên có căn cứ.",
+      "taskBeforeB": "Theo tiến trình tư vấn trong bài giảng, thứ tự ưu tiên đánh giá là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo các nguồn được dẫn, chọn thứ tự ưu tiên có căn cứ. / Theo tiến trình tư vấn trong bài giảng, thứ tự ưu tiên đánh giá là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-097": "15a4d36cc0383631794fc65ae62aa2e7646a7d9614781a36ab75bda376426aa0",
+        "T6-008": "37f8dd6f91920f05f82045e2fb662c0d7e03ae539b17917d440b9a72c5980be9"
+      }
+    },
+    {
+      "candidate": 29,
+      "a": "T1-119",
+      "b": "T5-099",
+      "lexicalCandidateScore": 0.171,
+      "taskBeforeA": "Lập luận nào đúng?",
+      "taskBeforeB": "Quyết định nào xét cả tuổi lẫn yếu tố nguy cơ?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Lập luận nào đúng? / Quyết định nào xét cả tuổi lẫn yếu tố nguy cơ?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-119": "3639387ec468b38b027c3bafa0c41a897c9b87b555e7cdf534cd807f7e965d30",
+        "T5-099": "5c772204ac130e7df64deffc67325887cbf1e086304f0b2203557d9ce045c0e3"
+      }
+    },
+    {
+      "candidate": 30,
+      "a": "T3-002",
+      "b": "T4-010",
+      "lexicalCandidateScore": 0.17,
+      "taskBeforeA": "Bản chất tế bào học nào được mô tả cho u xơ-cơ tử cung?",
+      "taskBeforeB": "Nhóm tân sinh buồng trứng nào được bài phân loại mô tả thường gặp nhất?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Bản chất tế bào học nào được mô tả cho u xơ-cơ tử cung? / Nhóm tân sinh buồng trứng nào được bài phân loại mô tả thường gặp nhất?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-002": "51f7d6178401128c25d87d22d828dcd6d664f8624e06c2276ca248377b653bd6",
+        "T4-010": "586375979bcb6da19cfcc38e85118deeb2e3ffa41149e221922ec1d764a7e6be"
+      }
+    },
+    {
+      "candidate": 31,
+      "a": "T1-018",
+      "b": "T5-083",
+      "lexicalCandidateScore": 0.167,
+      "taskBeforeA": "Khi một người có cả polyp nội mạc và rối loạn phóng noãn, nguyên tắc ghi nhận theo FIGO là gì?",
+      "taskBeforeB": "Theo bài quản lý, người có AGC/AIS và yếu tố nguy cơ ung thư nội mạc như béo phì, rối loạn phóng noãn cần bổ sung đánh giá nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Khi một người có cả polyp nội mạc và rối loạn phóng noãn, nguyên tắc ghi nhận theo FIGO là gì? / Theo bài quản lý, người có AGC/AIS và yếu tố nguy cơ ung thư nội mạc như béo phì, rối loạn phóng noãn cần bổ sung đánh giá nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-018": "906c89ae20bf84291f7395b2f48d8b023bcc4e6dab2ca968ff9d8f0d1563aaab",
+        "T5-083": "dbd592ba73266e3f7b5ac050c5da0fad5ea81e54ac94c08293418e60e93a5f6b"
+      }
+    },
+    {
+      "candidate": 32,
+      "a": "T1-129",
+      "b": "T6-123",
+      "lexicalCandidateScore": 0.167,
+      "taskBeforeA": "Theo nguồn thai ngoài tử cung, quyết định nào phù hợp?",
+      "taskBeforeB": "Cặp nhận định nào phù hợp nguồn?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo nguồn thai ngoài tử cung, quyết định nào phù hợp? / Cặp nhận định nào phù hợp nguồn?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-129": "b9715e831d26d03a8a40d6e288155d156e8872338b7f97f9906eba4cbc797fed",
+        "T6-123": "f941bd48f0855fe5d738d6992114d33f4c77a534d03264e920f1a0af714f8963"
+      }
+    },
+    {
+      "candidate": 33,
+      "a": "T3-084",
+      "b": "T4-031",
+      "lexicalCandidateScore": 0.165,
+      "taskBeforeA": "Ưu tiên định hướng điều trị theo cơ sở nào?",
+      "taskBeforeB": "Câu hỏi ưu tiên để định hướng tiếp cận là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Ưu tiên định hướng điều trị theo cơ sở nào? / Câu hỏi ưu tiên để định hướng tiếp cận là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-084": "405ba32e15891cff8b2ba5f88ddedc2da9b01fb4d8714df79dc18a8f5a7f3f56",
+        "T4-031": "863b2aab00f45b5c91067a63c561cd9b595533c51de3fd80aa1b394c5bfa0621"
+      }
+    },
+    {
+      "candidate": 34,
+      "a": "T3-073",
+      "b": "T4-073",
+      "lexicalCandidateScore": 0.165,
+      "taskBeforeA": "Nhóm hậu quả nào cần thảo luận trước quyết định?",
+      "taskBeforeB": "Nguy cơ nào cần đặc biệt tư vấn?",
+      "screeningDecision": "level_quality_review",
+      "reason": "UAE và bóc endometrioma có cơ chế tổn hại khác; câu chỉ liệt kê hậu quả/nhớ nguy cơ cần sửa mức vận dụng.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T3-073 sửa nhầm tổng14,4% tái can thiệp với9,8% hyst lịch sử; T4-073 diễn giải AMH cùng assay không đồng nghĩa vô sinh tuyệt đối.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T3-073": "9d8150e0518adccdbe014592164eb719e484f4dbe0b17c43f3d23905692c68ea",
+        "T4-073": "61ef0b8bc75cfa0b388ceff79324afa2ad5d14e458044be5ae6ccd6a49d8c712"
+      }
+    },
+    {
+      "candidate": 35,
+      "a": "T3-024",
+      "b": "T4-101",
+      "lexicalCandidateScore": 0.164,
+      "taskBeforeA": "Theo bài nguyên lý, vì sao cần cân nhắc yếu tố nam khi định hướng can thiệp nhân xơ vì hiếm muộn?",
+      "taskBeforeB": "Vì sao không quyết định mổ chỉ theo đường kính nang?",
+      "screeningDecision": "generic_counselling_cluster",
+      "reason": "Danh sách yếu tố nam/tuổi/dự trữ không tạo mức vận dụng cao chỉ bằng đưa vào ca; viết quyết định có đánh đổi thật.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T3-024 giải thích vai trò yếu tố nam; T4-101 đã có chỉ định mổ vì đau, cần đánh giá ureter/hydronephrosis và dự trữ trước mổ.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T3-024": "244ad6b065eab180a490a14d1a24ede82d25d50675688c10fb1bcf0b32451834",
+        "T4-101": "cf289eb31e814adfadfd5192d50349e3408749280318c7ca111abfe39d47ffb6"
+      }
+    },
+    {
+      "candidate": 36,
+      "a": "T3-071",
+      "b": "T5-115",
+      "lexicalCandidateScore": 0.164,
+      "taskBeforeA": "Thông tin nào định hướng lựa chọn phù hợp mong muốn này?",
+      "taskBeforeB": "Cùng mong muốn có tạo cùng chỉ định đầu tay không?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Thông tin nào định hướng lựa chọn phù hợp mong muốn này? / Cùng mong muốn có tạo cùng chỉ định đầu tay không?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-071": "9b5e92cae5d9d7963c615787a472eb26d70e5b0ea8df76a98c60ed57bbc2c746",
+        "T5-115": "b3312e9347cd7fefdc5322f7529e31a117b82253eba8a6b71c29ae679e5fc377"
+      }
+    },
+    {
+      "candidate": 37,
+      "a": "T2-027",
+      "b": "T5-003",
+      "lexicalCandidateScore": 0.163,
+      "taskBeforeA": "Loại tế bào biểu mô nào là mục tiêu thường gặp của C. trachomatis trên đường sinh dục nữ?",
+      "taskBeforeB": "SCJ là ranh giới giữa hai loại biểu mô nào ở cổ tử cung?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Loại tế bào biểu mô nào là mục tiêu thường gặp của C. trachomatis trên đường sinh dục nữ? / SCJ là ranh giới giữa hai loại biểu mô nào ở cổ tử cung?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-027": "a3a7a1bf4d4f84d83e68f41b589c71dc89aae1cd375dbdcd40f0c91be4cafba6",
+        "T5-003": "44aedbbc6a06bd6aaf88f7c5554d69d5148ddf279d341fe8562cb9ac461a3406"
+      }
+    },
+    {
+      "candidate": 38,
+      "a": "T1-022",
+      "b": "T4-036",
+      "lexicalCandidateScore": 0.162,
+      "taskBeforeA": "Phối hợp nào đúng với mô hình “hai tế bào, hai hormone” trong sinh tổng hợp estrogen?",
+      "taskBeforeB": "Nhận định nào xác định đúng nút giới hạn trong mô hình?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Phối hợp nào đúng với mô hình “hai tế bào, hai hormone” trong sinh tổng hợp estrogen? / Nhận định nào xác định đúng nút giới hạn trong mô hình?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-022": "4619701a6b85c1cd57cb12e62a2df9e197e87b5acff29ccd90017555f45063af",
+        "T4-036": "57639501c24536e0e0732b0a90b7b9b2ca3ad40ab24f18880b83dc5ed3240bf4"
+      }
+    },
+    {
+      "candidate": 39,
+      "a": "T1-128",
+      "b": "T4-063",
+      "lexicalCandidateScore": 0.162,
+      "taskBeforeA": "Chọn cách sử dụng bệnh sử phù hợp.",
+      "taskBeforeB": "Hướng đánh giá nào phù hợp nguy cơ di truyền?",
+      "screeningDecision": "duplicate_cluster",
+      "reason": "Chùm tư vấn di truyền; thay T1-128/T4-063.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T1-128 điều trị EIN/tamoxifen với nhóm ung thư vú; T4-063 cascade BRCA2 cho người chưa mắc, hai quyết định khác.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T1-128": "56007d8599673a3c1a49b5fb34d16e75d9d14d43522a874a04ce13f005a8b736",
+        "T4-063": "ec4ef12c91017f1f29489564acb8748e689a2addd3d3ac03c582602b3cc2f61a"
+      }
+    },
+    {
+      "candidate": 40,
+      "a": "T3-005",
+      "b": "T4-050",
+      "lexicalCandidateScore": 0.159,
+      "taskBeforeA": "Dấu hiệu mô học định nghĩa adenomyosis là gì?",
+      "taskBeforeB": "Cách phân biệt nào phù hợp để không đồng nhất hai bản chất?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Dấu hiệu mô học định nghĩa adenomyosis là gì? / Cách phân biệt nào phù hợp để không đồng nhất hai bản chất?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-005": "cc3c49986f57ac70a875403c247c37ec81b07540a0dbdf3efb9d51b6f1880a6c",
+        "T4-050": "5b1253e8efee675acc3b3dee7e97ab8b4ba0dc372f0d66829f8c2a26253d696d"
+      }
+    },
+    {
+      "candidate": 41,
+      "a": "T1-142",
+      "b": "T2-155",
+      "lexicalCandidateScore": 0.159,
+      "taskBeforeA": "Theo công cụ sàng lọc ACOG 2019, áp dụng tiêu chí bệnh sử để chọn bước tiếp.",
+      "taskBeforeB": "Theo CDC 2021, chọn áp dụng tiêu chí sàng lọc theo nguy cơ trong nguồn.",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo công cụ sàng lọc ACOG 2019, áp dụng tiêu chí bệnh sử để chọn bước tiếp. / Theo CDC 2021, chọn áp dụng tiêu chí sàng lọc theo nguy cơ trong nguồn.. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-142": "b1f9c3c89c0d7924c32593d808f260f8c3841c9679240947aee35828e28ea0e3",
+        "T2-155": "b00352f17797e3c8541f32174b910ca0150123cc0c7a4091c8af55d09036e338"
+      }
+    },
+    {
+      "candidate": 42,
+      "a": "T1-030",
+      "b": "T3-002",
+      "lexicalCandidateScore": 0.159,
+      "taskBeforeA": "Điểm khác nhau về bản chất sinh học giữa tăng sinh không có tế bào không điển hình và EIN là gì?",
+      "taskBeforeB": "Bản chất tế bào học nào được mô tả cho u xơ-cơ tử cung?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Điểm khác nhau về bản chất sinh học giữa tăng sinh không có tế bào không điển hình và EIN là gì? / Bản chất tế bào học nào được mô tả cho u xơ-cơ tử cung?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-030": "9591cdaa7ad7b3254941e8dadcb64172734d6412173e90d6cddfc5cd4de5a805",
+        "T3-002": "51f7d6178401128c25d87d22d828dcd6d664f8624e06c2276ca248377b653bd6"
+      }
+    },
+    {
+      "candidate": 43,
+      "a": "T2-011",
+      "b": "T5-078",
+      "lexicalCandidateScore": 0.158,
+      "taskBeforeA": "Đặc tính sống nào của C. trachomatis được bài giảng nhấn mạnh?",
+      "taskBeforeB": "Ở người từ 25 tuổi, không mang thai, đủ điều kiện theo ASCCP 2019 và nguy cơ CIN 3+ hiện tại 40%, bài giảng nhấn mạnh lựa chọn nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Đặc tính sống nào của C. trachomatis được bài giảng nhấn mạnh? / Ở người từ 25 tuổi, không mang thai, đủ điều kiện theo ASCCP 2019 và nguy cơ CIN 3+ hiện tại 40%, bài giảng nhấn mạnh lựa chọn nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-011": "5bd85dfd6b66dd924a3c2d82e3a73c562019bc7c2eab611c1464b34d87dfa999",
+        "T5-078": "3d12d4b75680c2591798025f6e9bc843512e8420b902a5f8d6c4406798d405a0"
+      }
+    },
+    {
+      "candidate": 44,
+      "a": "T3-090",
+      "b": "T4-074",
+      "lexicalCandidateScore": 0.158,
+      "taskBeforeA": "Kế hoạch nào tích hợp đúng các yếu tố?",
+      "taskBeforeB": "Nhóm dữ kiện nào cần tích hợp trước quyết định phẫu thuật?",
+      "screeningDecision": "generic_counselling_cluster",
+      "reason": "Không chỉ hỏi danh sách phải xét kế hoạch cặp đôi; cần can thiệp và dữ kiện có tác động riêng.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T3-090 giải quyết bản đồ mâu thuẫn và yếu tố nam trước cam kết mổ; T4-074 nay tư vấn recurrence khi ART theo ESHRErec51.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T3-090": "f071b5f5b921e36d1c8bae234c96319173bbbd690e7b24af00585d322223222c",
+        "T4-074": "2b30ce5eeac8373845fe241494058ba1df17113374bc958b8a7a14609317d66c"
+      }
+    },
+    {
+      "candidate": 45,
+      "a": "T3-053",
+      "b": "T4-101",
+      "lexicalCandidateScore": 0.157,
+      "taskBeforeA": "Yếu tố tùy hành nào cần đưa vào quyết định can thiệp nhân xơ?",
+      "taskBeforeB": "Vì sao không quyết định mổ chỉ theo đường kính nang?",
+      "screeningDecision": "generic_counselling_cluster",
+      "reason": "Lặp đưa yếu tố nam vào quyết định; tách thao tác và chỉ định cụ thể.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T3-053 tránh mổ nhân không biến dạng khi chưa xử lý yếu tố nam; T4-101 chuẩn bị mổ endometrioma đã có chỉ định với đường niệu/dự trữ.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T3-053": "4829a802a92f771a0c488009aadf3aa294dd9045611223d7be20af74604c6168",
+        "T4-101": "cf289eb31e814adfadfd5192d50349e3408749280318c7ca111abfe39d47ffb6"
+      }
+    },
+    {
+      "candidate": 46,
+      "a": "T1-070",
+      "b": "T2-032",
+      "lexicalCandidateScore": 0.157,
+      "taskBeforeA": "Theo bài AUB-M cập nhật 2026–2027, chiến lược điều trị và theo dõi nào phù hợp?",
+      "taskBeforeB": "Mô tả nào phù hợp nhất với bệnh cảnh BV trong bài cập nhật 2026?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo bài AUB-M cập nhật 2026–2027, chiến lược điều trị và theo dõi nào phù hợp? / Mô tả nào phù hợp nhất với bệnh cảnh BV trong bài cập nhật 2026?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-070": "9b3f711e057f3bb35a94397b760357b6cfc7d11de2a0593dd302f1479e9373bf",
+        "T2-032": "488703ad702d936eb92dbb932be2b28cface5a9402e691e3a57b4219ab9cacb3"
+      }
+    },
+    {
+      "candidate": 47,
+      "a": "T3-116",
+      "b": "T4-104",
+      "lexicalCandidateScore": 0.156,
+      "taskBeforeA": "Thông tin nào quyết định chọn hướng bảo tồn?",
+      "taskBeforeB": "Bước nào xét cả nguyện vọng và thông tin mới trước hoàn tất kỹ thuật?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Thông tin nào quyết định chọn hướng bảo tồn? / Bước nào xét cả nguyện vọng và thông tin mới trước hoàn tất kỹ thuật?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-116": "f76b146ebf72fad4b369e58c73703a54fc73d2bf7011469c55d685c98ea40c12",
+        "T4-104": "9c5f365dbe756cc65886d21de070ab91ca4f847b596f832add15daeb91cb1ed1"
+      }
+    },
+    {
+      "candidate": 48,
+      "a": "T1-144",
+      "b": "T6-022",
+      "lexicalCandidateScore": 0.155,
+      "taskBeforeA": "Đọc hai ô A/B của Figure 4 và kết hợp khoảng thời gian để chọn kết luận về sự phát triển thai.",
+      "taskBeforeB": "HFI trong tránh thai nội tiết phối hợp là khoảng thời gian nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Đọc hai ô A/B của Figure 4 và kết hợp khoảng thời gian để chọn kết luận về sự phát triển thai. / HFI trong tránh thai nội tiết phối hợp là khoảng thời gian nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-144": "37731d4a4e6ba7f953b9d9f1b5cfa6fc708ef599905353b0663e40d57dc6e31e",
+        "T6-022": "215f4e7da329a2193bf9b213edc8c9affdb769069b81d9a784a1d55c986fbeba"
+      }
+    },
+    {
+      "candidate": 49,
+      "a": "T1-055",
+      "b": "T2-032",
+      "lexicalCandidateScore": 0.154,
+      "taskBeforeA": "Theo bài cập nhật 2026–2027, nguyên tắc theo dõi nào phù hợp hơn việc tiếp tục coi là thay đổi sinh lý tạm thời?",
+      "taskBeforeB": "Mô tả nào phù hợp nhất với bệnh cảnh BV trong bài cập nhật 2026?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo bài cập nhật 2026–2027, nguyên tắc theo dõi nào phù hợp hơn việc tiếp tục coi là thay đổi sinh lý tạm thời? / Mô tả nào phù hợp nhất với bệnh cảnh BV trong bài cập nhật 2026?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-055": "9a24664f2be9bf7c45bd42210e4cf46c050903ace57472590bd9a35048f377b6",
+        "T2-032": "488703ad702d936eb92dbb932be2b28cface5a9402e691e3a57b4219ab9cacb3"
+      }
+    },
+    {
+      "candidate": 50,
+      "a": "T1-028",
+      "b": "T4-058",
+      "lexicalCandidateScore": 0.154,
+      "taskBeforeA": "Tác động đặc trưng của progesterone lên nội mạc đã được estrogen chuẩn bị là gì?",
+      "taskBeforeB": "Vấn đề ở cơ quan khác nào cần được đưa vào đánh giá?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Tác động đặc trưng của progesterone lên nội mạc đã được estrogen chuẩn bị là gì? / Vấn đề ở cơ quan khác nào cần được đưa vào đánh giá?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-028": "f87d7e56e299a16b6d3be1feefafaa7c83ff5d45ff1bf52bac1e51926e6827a8",
+        "T4-058": "1ee1cdbf73ffc67314ee807fca6277542de56a4b5749f72b7496208aa59633e5"
+      }
+    },
+    {
+      "candidate": 51,
+      "a": "T3-094",
+      "b": "T5-090",
+      "lexicalCandidateScore": 0.153,
+      "taskBeforeA": "Sửa kế hoạch nào xét đúng nguyện vọng và hệ quả?",
+      "taskBeforeB": "Kế hoạch nào giữ mục tiêu sinh sản nhưng đáp ứng giới hạn khảo sát?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Sửa kế hoạch nào xét đúng nguyện vọng và hệ quả? / Kế hoạch nào giữ mục tiêu sinh sản nhưng đáp ứng giới hạn khảo sát?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-094": "91e5347c92fee1eb947a0da172bea18447d9e22c597e26225e45b5277ed83064",
+        "T5-090": "09f0a935ee60d3438c32b1f8664ca53f948bdb558ed00aec4c2175906402e791"
+      }
+    },
+    {
+      "candidate": 52,
+      "a": "T1-019",
+      "b": "T3-005",
+      "lexicalCandidateScore": 0.153,
+      "taskBeforeA": "Mô tả nào đúng với adenomyosis (AUB-A)?",
+      "taskBeforeB": "Dấu hiệu mô học định nghĩa adenomyosis là gì?",
+      "screeningDecision": "duplicate",
+      "reason": "Cùng định nghĩa adenomyosis bằng tuyến+mô đệm trong cơ; giữ nền T1-019, thay T3-005.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T1-019 định nghĩa tuyến+mô đệm trong cơ; T3-005 nhớ ranh giới không vỏ rõ của adenomyosis.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T1-019": "58838b38b88cc347ebeb06141b5331f609caebaee94a05c92ddc11cccc99c4fb",
+        "T3-005": "cc3c49986f57ac70a875403c247c37ec81b07540a0dbdf3efb9d51b6f1880a6c"
+      }
+    },
+    {
+      "candidate": 53,
+      "a": "T1-151",
+      "b": "T6-123",
+      "lexicalCandidateScore": 0.153,
+      "taskBeforeA": "Đọc phối hợp các ô và chọn chi tiết đủ xác định vị trí thai ngoài tử cung.",
+      "taskBeforeB": "Cặp nhận định nào phù hợp nguồn?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Đọc phối hợp các ô và chọn chi tiết đủ xác định vị trí thai ngoài tử cung. / Cặp nhận định nào phù hợp nguồn?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-151": "c66c599c0abe90ac2b27ff53e3f2086d51e1ee621048fb4222a9d98e7039ffa9",
+        "T6-123": "f941bd48f0855fe5d738d6992114d33f4c77a534d03264e920f1a0af714f8963"
+      }
+    },
+    {
+      "candidate": 54,
+      "a": "T1-010",
+      "b": "T2-015",
+      "lexicalCandidateScore": 0.152,
+      "taskBeforeA": "Nguồn sản xuất AMH ở buồng trứng trưởng thành chủ yếu là tế bào nào?",
+      "taskBeforeB": "HIV tấn công chủ yếu tế bào miễn dịch nào được bài giảng nêu?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Nguồn sản xuất AMH ở buồng trứng trưởng thành chủ yếu là tế bào nào? / HIV tấn công chủ yếu tế bào miễn dịch nào được bài giảng nêu?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-010": "7c1a9eda97c73d65b97de0746ed75f4afd756f7d2d5fe430c80121fe36e9ea2a",
+        "T2-015": "d7c982c20fe90698ac4027f9d02a5741f1d1ad78b9d2e2e28765e975746a28c4"
+      }
+    },
+    {
+      "candidate": 55,
+      "a": "T3-103",
+      "b": "T6-045",
+      "lexicalCandidateScore": 0.152,
+      "taskBeforeA": "Tư vấn nào hỗ trợ lựa chọn có hiểu biết?",
+      "taskBeforeB": "So sánh nào hỗ trợ lựa chọn theo điểm yếu sử dụng?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Tư vấn nào hỗ trợ lựa chọn có hiểu biết? / So sánh nào hỗ trợ lựa chọn theo điểm yếu sử dụng?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-103": "3280e8e4cd2a7a27b8cd00ee029d821a43f366d3098076c4fc73c958eaa657b8",
+        "T6-045": "d01514965e2356caa4ffac57f1e5c8de0c151ced2eac8ec0ecddf49e2a29b754"
+      }
+    },
+    {
+      "candidate": 56,
+      "a": "T1-114",
+      "b": "T6-013",
+      "lexicalCandidateScore": 0.151,
+      "taskBeforeA": "Chọn phân tầng hợp lý nhất.",
+      "taskBeforeB": "Xung GnRH từ hạ đồi kích thích tuyến yên chế tiết cặp hormone nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Chọn phân tầng hợp lý nhất. / Xung GnRH từ hạ đồi kích thích tuyến yên chế tiết cặp hormone nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-114": "14db04a3ff139d97a2779c295f0ca37a13a4da9e25149f578f14f051b0a45831",
+        "T6-013": "4c93a7b649ac5ffc7807bcb782aad473e1e11c0b765276746b50a95b9a88d5fe"
+      }
+    },
+    {
+      "candidate": 57,
+      "a": "T1-019",
+      "b": "T4-050",
+      "lexicalCandidateScore": 0.151,
+      "taskBeforeA": "Mô tả nào đúng với adenomyosis (AUB-A)?",
+      "taskBeforeB": "Cách phân biệt nào phù hợp để không đồng nhất hai bản chất?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Mô tả nào đúng với adenomyosis (AUB-A)? / Cách phân biệt nào phù hợp để không đồng nhất hai bản chất?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-019": "58838b38b88cc347ebeb06141b5331f609caebaee94a05c92ddc11cccc99c4fb",
+        "T4-050": "5b1253e8efee675acc3b3dee7e97ab8b4ba0dc372f0d66829f8c2a26253d696d"
+      }
+    },
+    {
+      "candidate": 58,
+      "a": "T2-021",
+      "b": "T6-028",
+      "lexicalCandidateScore": 0.15,
+      "taskBeforeA": "Nguồn đóng góp một lượng lớn vào dịch tiết âm đạo sinh lý là gì?",
+      "taskBeforeB": "Cơ chế tránh thai chủ yếu của POP cổ điển theo bài giảng là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Nguồn đóng góp một lượng lớn vào dịch tiết âm đạo sinh lý là gì? / Cơ chế tránh thai chủ yếu của POP cổ điển theo bài giảng là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-021": "956de1095c6e5e7ef3e43168f5bcffa1d0a5402e3c3de0324cb362a82990216a",
+        "T6-028": "c6eea040068c1522f12f5c1fddf81d93debea86323272bda7bb4cd35544de188"
+      }
+    },
+    {
+      "candidate": 59,
+      "a": "T1-070",
+      "b": "T2-047",
+      "lexicalCandidateScore": 0.15,
+      "taskBeforeA": "Theo bài AUB-M cập nhật 2026–2027, chiến lược điều trị và theo dõi nào phù hợp?",
+      "taskBeforeB": "Nhóm nào có giá trị chẩn đoán rõ nhất trong bài lậu cập nhật 2026?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo bài AUB-M cập nhật 2026–2027, chiến lược điều trị và theo dõi nào phù hợp? / Nhóm nào có giá trị chẩn đoán rõ nhất trong bài lậu cập nhật 2026?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-070": "9b3f711e057f3bb35a94397b760357b6cfc7d11de2a0593dd302f1479e9373bf",
+        "T2-047": "c8f0baa17c1f281e505ad54fa8bec27caa024a82db6be9276f3528b3d25181d3"
+      }
+    },
+    {
+      "candidate": 60,
+      "a": "T4-006",
+      "b": "T5-004",
+      "lexicalCandidateScore": 0.149,
+      "taskBeforeA": "Nang noãn nang được hình thành khi xảy ra hiện tượng nào?",
+      "taskBeforeB": "Hiện tượng nào định nghĩa lộ tuyến cổ tử cung?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Nang noãn nang được hình thành khi xảy ra hiện tượng nào? / Hiện tượng nào định nghĩa lộ tuyến cổ tử cung?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T4-006": "cf2cbe10938a252f9230ee9b88988ee0e05740e3d0574f556462fc3502fa171f",
+        "T5-004": "04e75723072e8777ae2f2a7393ec175faafd8d1b38fc647c2d00eba7fadd8a8a"
+      }
+    },
+    {
+      "candidate": 61,
+      "a": "T1-119",
+      "b": "T5-083",
+      "lexicalCandidateScore": 0.149,
+      "taskBeforeA": "Lập luận nào đúng?",
+      "taskBeforeB": "Theo bài quản lý, người có AGC/AIS và yếu tố nguy cơ ung thư nội mạc như béo phì, rối loạn phóng noãn cần bổ sung đánh giá nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Lập luận nào đúng? / Theo bài quản lý, người có AGC/AIS và yếu tố nguy cơ ung thư nội mạc như béo phì, rối loạn phóng noãn cần bổ sung đánh giá nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-119": "3639387ec468b38b027c3bafa0c41a897c9b87b555e7cdf534cd807f7e965d30",
+        "T5-083": "dbd592ba73266e3f7b5ac050c5da0fad5ea81e54ac94c08293418e60e93a5f6b"
+      }
+    },
+    {
+      "candidate": 62,
+      "a": "T1-104",
+      "b": "T6-048",
+      "lexicalCandidateScore": 0.149,
+      "taskBeforeA": "Lập luận nào tránh đóng chẩn đoán quá sớm?",
+      "taskBeforeB": "Lập luận nào tránh gán triệu chứng quá sớm?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Lập luận nào tránh đóng chẩn đoán quá sớm? / Lập luận nào tránh gán triệu chứng quá sớm?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-104": "6ad0ba634151f22e014f16ee6d94a3042feadbe7c091eaba734d8b344f869a74",
+        "T6-048": "ec879131f82f2abf7f84ac6ef2bd37621ce064a39c0dbf58b04b22d15515f91e"
+      }
+    },
+    {
+      "candidate": 63,
+      "a": "T3-053",
+      "b": "T4-074",
+      "lexicalCandidateScore": 0.148,
+      "taskBeforeA": "Yếu tố tùy hành nào cần đưa vào quyết định can thiệp nhân xơ?",
+      "taskBeforeB": "Nhóm dữ kiện nào cần tích hợp trước quyết định phẫu thuật?",
+      "screeningDecision": "generic_counselling_cluster",
+      "reason": "Cùng đáp án tích hợp yếu tố nam; T4-074 chỉ danh sách chung cần thay.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T4-074 đã đổi khỏi chùm yếu tố nam sang giới hạn bằng chứng recurrence của ART; T3-053 giữ chỉ định mổ myoma.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T3-053": "4829a802a92f771a0c488009aadf3aa294dd9045611223d7be20af74604c6168",
+        "T4-074": "2b30ce5eeac8373845fe241494058ba1df17113374bc958b8a7a14609317d66c"
+      }
+    },
+    {
+      "candidate": 64,
+      "a": "T1-121",
+      "b": "T5-036",
+      "lexicalCandidateScore": 0.148,
+      "taskBeforeA": "Chọn cách xử lý các thông tin nối tiếp này.",
+      "taskBeforeB": "Cách xử lý thông tin nào hợp lý?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Chọn cách xử lý các thông tin nối tiếp này. / Cách xử lý thông tin nào hợp lý?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-121": "0e325fcbff2efb88af516cadc2768f421a169ccac007cbb27963186412ba1b81",
+        "T5-036": "ef000c398390ba04a510be12f84307d99718aadb2a4332f85aae25872fa8f591"
+      }
+    },
+    {
+      "candidate": 65,
+      "a": "T1-154",
+      "b": "T6-086",
+      "lexicalCandidateScore": 0.147,
+      "taskBeforeA": "Đọc A/B rồi chọn cặp mốc giải phẫu phải xác định để phân biệt thai cổ tử cung với thai sẹo mổ.",
+      "taskBeforeB": "Vì sao kế hoạch cần đánh giá thêm trước thực hiện, theo bài Phá thai an toàn?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Đọc A/B rồi chọn cặp mốc giải phẫu phải xác định để phân biệt thai cổ tử cung với thai sẹo mổ. / Vì sao kế hoạch cần đánh giá thêm trước thực hiện, theo bài Phá thai an toàn?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-154": "7278587175e3e734b0a6286a3cd600bd3ae22cb40c2c72d1c1b7d2ea636eb8d2",
+        "T6-086": "31b8783523e8cc6fa229bdd06b2fa9411789722c32b746f95eb4197a43b5d7c4"
+      }
+    },
+    {
+      "candidate": 66,
+      "a": "T4-013",
+      "b": "T6-027",
+      "lexicalCandidateScore": 0.147,
+      "taskBeforeA": "Dấu hiệu mô học được nêu đặc trưng cho u tế bào hạt là gì?",
+      "taskBeforeB": "Thành phần hoạt chất đặc trưng của POP là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Dấu hiệu mô học được nêu đặc trưng cho u tế bào hạt là gì? / Thành phần hoạt chất đặc trưng của POP là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T4-013": "19687e09c98b44615440a1923cc40078915cd417d8113857976dcb4484aafdf4",
+        "T6-027": "5b8ced6bf5d2635877309ab111036926df9648ce8fa1f5a0ce2a5b9020a53c78"
+      }
+    },
+    {
+      "candidate": 67,
+      "a": "T3-037",
+      "b": "T4-127",
+      "lexicalCandidateScore": 0.147,
+      "taskBeforeA": "Chẩn đoán nào cần ưu tiên cân nhắc trong chẩn đoán phân biệt?",
+      "taskBeforeB": "Chẩn đoán ưu tiên?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Chẩn đoán nào cần ưu tiên cân nhắc trong chẩn đoán phân biệt? / Chẩn đoán ưu tiên?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-037": "a150bc22c243cf8f177eb0c74e95ab96c49e337b53e5fe031977f9f7c7d687fa",
+        "T4-127": "35c0031fa640aaee97bf8d3e16cc2cc1ffd498969b1bd477a8aec31b2dd8349d"
+      }
+    },
+    {
+      "candidate": 68,
+      "a": "T3-028",
+      "b": "T6-029",
+      "lexicalCandidateScore": 0.147,
+      "taskBeforeA": "Tác dụng bất lợi nổi bật khiến danazol không được ưu tiên trong bài 8/2018 là gì?",
+      "taskBeforeB": "So với POP cổ điển, cơ chế nổi bật của POP desogestrel được bài giảng gọi là “POP s mới” là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Tác dụng bất lợi nổi bật khiến danazol không được ưu tiên trong bài 8/2018 là gì? / So với POP cổ điển, cơ chế nổi bật của POP desogestrel được bài giảng gọi là “POP s mới” là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-028": "f445118a183fc14b4c6c1488fcda288899d4a78d56bd752b79d69a382765f168",
+        "T6-029": "f192e8b35686c4a274044315be094121ccb69a0d7465fd313b0c69f13341084f"
+      }
+    },
+    {
+      "candidate": 69,
+      "a": "T2-075",
+      "b": "T4-089",
+      "lexicalCandidateScore": 0.146,
+      "taskBeforeA": "Theo CDC 2021, chọn bước đánh giá cơ quan đích phù hợp trước điều trị.",
+      "taskBeforeB": "Kế hoạch phân định nào phù hợp trước điều trị?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo CDC 2021, chọn bước đánh giá cơ quan đích phù hợp trước điều trị. / Kế hoạch phân định nào phù hợp trước điều trị?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-075": "2e3b46322c3dde4e718a26af96610b6fb021aae18666c1f49beb98a2bd3f6316",
+        "T4-089": "98ece6eb5acaedaf593c00c85104c3e11009de9f53c2e741b01cd956b1784970"
+      }
+    },
+    {
+      "candidate": 70,
+      "a": "T5-017",
+      "b": "T6-008",
+      "lexicalCandidateScore": 0.145,
+      "taskBeforeA": "Thứ tự ba bước soi cổ tử cung được bài giảng mô tả là gì?",
+      "taskBeforeB": "Theo tiến trình tư vấn trong bài giảng, thứ tự ưu tiên đánh giá là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Thứ tự ba bước soi cổ tử cung được bài giảng mô tả là gì? / Theo tiến trình tư vấn trong bài giảng, thứ tự ưu tiên đánh giá là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T5-017": "95530f753d48dd37bb131cc879af810f952b61e2e598b173f1073a96eb54066e",
+        "T6-008": "37f8dd6f91920f05f82045e2fb662c0d7e03ae539b17917d440b9a72c5980be9"
+      }
+    },
+    {
+      "candidate": 71,
+      "a": "T1-010",
+      "b": "T4-059",
+      "lexicalCandidateScore": 0.145,
+      "taskBeforeA": "Nguồn sản xuất AMH ở buồng trứng trưởng thành chủ yếu là tế bào nào?",
+      "taskBeforeB": "Dòng u nào cần được đối chiếu với tổ hợp này?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Nguồn sản xuất AMH ở buồng trứng trưởng thành chủ yếu là tế bào nào? / Dòng u nào cần được đối chiếu với tổ hợp này?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-010": "7c1a9eda97c73d65b97de0746ed75f4afd756f7d2d5fe430c80121fe36e9ea2a",
+        "T4-059": "8af8ed41bae6c8bdbb202fd5b7b55b2efb7f65cc10204b8df0554af2d0635883"
+      }
+    },
+    {
+      "candidate": 72,
+      "a": "T1-006",
+      "b": "T3-002",
+      "lexicalCandidateScore": 0.144,
+      "taskBeforeA": "U xơ cơ tử cung FIGO type 0 có đặc điểm nào?",
+      "taskBeforeB": "Bản chất tế bào học nào được mô tả cho u xơ-cơ tử cung?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: U xơ cơ tử cung FIGO type 0 có đặc điểm nào? / Bản chất tế bào học nào được mô tả cho u xơ-cơ tử cung?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-006": "ab5de67b945bea7c078ffea18f959a4c186d3bf2888712d4e7ebd87cf664f65a",
+        "T3-002": "51f7d6178401128c25d87d22d828dcd6d664f8624e06c2276ca248377b653bd6"
+      }
+    },
+    {
+      "candidate": 73,
+      "a": "T1-120",
+      "b": "T3-088",
+      "lexicalCandidateScore": 0.144,
+      "taskBeforeA": "Chọn kế hoạch tránh bỏ sót theo tuổi và bệnh cảnh.",
+      "taskBeforeB": "Cách tiếp cận nào tránh bỏ sót biến chứng cấp?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Chọn kế hoạch tránh bỏ sót theo tuổi và bệnh cảnh. / Cách tiếp cận nào tránh bỏ sót biến chứng cấp?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-120": "1f82295a918033db214538dbb896093e77cc8e84c06714f61d375af0f64c4394",
+        "T3-088": "f739f0ac07b467a36f78ecc17a031905fec0dd43758eb94c72307661a4b98390"
+      }
+    },
+    {
+      "candidate": 74,
+      "a": "T3-128",
+      "b": "T5-069",
+      "lexicalCandidateScore": 0.144,
+      "taskBeforeA": "Tư vấn nào cân đúng lợi ích và giới hạn của can thiệp?",
+      "taskBeforeB": "Cách tư vấn nào tách đúng lợi ích và giới hạn vaccine?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Tư vấn nào cân đúng lợi ích và giới hạn của can thiệp? / Cách tư vấn nào tách đúng lợi ích và giới hạn vaccine?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-128": "89386497ea6610bfc8c2febf2e9e457228031ce0fa35ad83179461963dcffe06",
+        "T5-069": "d9e833e76556602cb4e2a238ab232743b414ad3a531fdd9a09bf0dc27e1d6995"
+      }
+    },
+    {
+      "candidate": 75,
+      "a": "T2-011",
+      "b": "T6-005",
+      "lexicalCandidateScore": 0.143,
+      "taskBeforeA": "Đặc tính sống nào của C. trachomatis được bài giảng nhấn mạnh?",
+      "taskBeforeB": "Theo WHO MEC 2015 trong bài giảng, loại 3 nhấn mạnh tương quan nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Đặc tính sống nào của C. trachomatis được bài giảng nhấn mạnh? / Theo WHO MEC 2015 trong bài giảng, loại 3 nhấn mạnh tương quan nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-011": "5bd85dfd6b66dd924a3c2d82e3a73c562019bc7c2eab611c1464b34d87dfa999",
+        "T6-005": "419321cde1cf6f4dafafc77758587782e1fea23a94c2f645b9c1753ff2a1095b"
+      }
+    },
+    {
+      "candidate": 76,
+      "a": "T3-143",
+      "b": "T4-121",
+      "lexicalCandidateScore": 0.142,
+      "taskBeforeA": "Chẩn đoán hình ảnh ưu tiên là gì?",
+      "taskBeforeB": "Kết hợp bệnh sử, tính tồn tại và mẫu hình bên dưới, chẩn đoán hình ảnh phù hợp nhất là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Chẩn đoán hình ảnh ưu tiên là gì? / Kết hợp bệnh sử, tính tồn tại và mẫu hình bên dưới, chẩn đoán hình ảnh phù hợp nhất là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-143": "28c539e4da021793a5a261428155be4b78c960bf44afcd9de572265a563d2ae8",
+        "T4-121": "a2028faeb99a1fc7acc1e1a115d4fc2cfb5d1681c226b37a558c92cdfe193929"
+      }
+    },
+    {
+      "candidate": 77,
+      "a": "T1-110",
+      "b": "T2-128",
+      "lexicalCandidateScore": 0.142,
+      "taskBeforeA": "Chọn kế hoạch nội tiết cấp và duy trì có xét chống chỉ định estrogen.",
+      "taskBeforeB": "Theo CDC 2021, chọn kế hoạch hai giai đoạn và tư vấn kỳ vọng phù hợp.",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Chọn kế hoạch nội tiết cấp và duy trì có xét chống chỉ định estrogen. / Theo CDC 2021, chọn kế hoạch hai giai đoạn và tư vấn kỳ vọng phù hợp.. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-110": "22aba244ca309aa999acee77d112d7aeedf5be2ec1f31baf1e9f9da5defda2b0",
+        "T2-128": "b3cc1b65000e1f001ac8fbe05f905eb87b2cf18ea4a83981d26c9cb1c0bdfc16"
+      }
+    },
+    {
+      "candidate": 78,
+      "a": "T1-020",
+      "b": "T3-032",
+      "lexicalCandidateScore": 0.141,
+      "taskBeforeA": "Điểm phân biệt chính giữa u xơ dưới niêm FIGO type 1 và type 2 là gì?",
+      "taskBeforeB": "Áp dụng FIGO, khối thuộc loại nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Điểm phân biệt chính giữa u xơ dưới niêm FIGO type 1 và type 2 là gì? / Áp dụng FIGO, khối thuộc loại nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-020": "fb1b99f411cf9e81321c63abf6b9c2053aa172a0a49f80ac2244abc8b113721e",
+        "T3-032": "571038aa3aacb3a7aa723ae4ea9e374b794576ba8e55dd2edfce445723e20e6d"
+      }
+    },
+    {
+      "candidate": 79,
+      "a": "T1-006",
+      "b": "T3-031",
+      "lexicalCandidateScore": 0.141,
+      "taskBeforeA": "U xơ cơ tử cung FIGO type 0 có đặc điểm nào?",
+      "taskBeforeB": "Ghi phân loại FIGO nào phù hợp cho hồ sơ phẫu thuật?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: U xơ cơ tử cung FIGO type 0 có đặc điểm nào? / Ghi phân loại FIGO nào phù hợp cho hồ sơ phẫu thuật?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-006": "ab5de67b945bea7c078ffea18f959a4c186d3bf2888712d4e7ebd87cf664f65a",
+        "T3-031": "2a340b94c021584f1aa66ed5dad5b7ae26079660d2fea5b826b485c52133fc99"
+      }
+    },
+    {
+      "candidate": 80,
+      "a": "T2-090",
+      "b": "T6-084",
+      "lexicalCandidateScore": 0.14,
+      "taskBeforeA": "Theo CDC 2021, chọn hành động liên kết chăm sóc và theo dõi referral.",
+      "taskBeforeB": "Cải thiện nào xử lý thiếu sót của dịch vụ thay vì chỉ đổi dụng cụ?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo CDC 2021, chọn hành động liên kết chăm sóc và theo dõi referral. / Cải thiện nào xử lý thiếu sót của dịch vụ thay vì chỉ đổi dụng cụ?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-090": "8150628549f8c2bc31eb59ecdaa07a14effaa1a203ba9d83537e4bcb58e0b237",
+        "T6-084": "6e60db8b6d5f08092ead5e042d30715a0e5848afdd11fa8e6b35c2ad763edb90"
+      }
+    },
+    {
+      "candidate": 81,
+      "a": "T1-129",
+      "b": "T6-050",
+      "lexicalCandidateScore": 0.14,
+      "taskBeforeA": "Theo nguồn thai ngoài tử cung, quyết định nào phù hợp?",
+      "taskBeforeB": "Ưu tiên nào dùng đúng hai thông tin?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo nguồn thai ngoài tử cung, quyết định nào phù hợp? / Ưu tiên nào dùng đúng hai thông tin?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-129": "b9715e831d26d03a8a40d6e288155d156e8872338b7f97f9906eba4cbc797fed",
+        "T6-050": "1d0025d1300c63f9b01a71191971aec1fe6dd61f8e329e307584bf242f90a86a"
+      }
+    },
+    {
+      "candidate": 82,
+      "a": "T1-009",
+      "b": "T4-018",
+      "lexicalCandidateScore": 0.14,
+      "taskBeforeA": "Giai đoạn chiêu mộ nang noãn nguyên thủy phụ thuộc chủ yếu vào yếu tố nào?",
+      "taskBeforeB": "Khi đánh giá bất thường giải phẫu buồng trứng, yếu tố nào phải được đặt song hành?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Giai đoạn chiêu mộ nang noãn nguyên thủy phụ thuộc chủ yếu vào yếu tố nào? / Khi đánh giá bất thường giải phẫu buồng trứng, yếu tố nào phải được đặt song hành?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-009": "509084159302df50c5e6f5a69349f3c0cc53cf720b86048a91141876692563cd",
+        "T4-018": "ccb5b76dc067bffea6fb20bb7f0a6fb2558a6422615720240c3ab66dc90a729d"
+      }
+    },
+    {
+      "candidate": 83,
+      "a": "T3-066",
+      "b": "T4-075",
+      "lexicalCandidateScore": 0.139,
+      "taskBeforeA": "Theo bài ngoại khoa trong thư mục, đường xử trí nào phù hợp?",
+      "taskBeforeB": "Ưu tiên nào cần theo nguyên lý điều trị trong thư mục?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo bài ngoại khoa trong thư mục, đường xử trí nào phù hợp? / Ưu tiên nào cần theo nguyên lý điều trị trong thư mục?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-066": "7c00cb89f0813ac97d765ea08e487e15ea62852febf065ddc770a9280054de90",
+        "T4-075": "fd8d7231bc9de32b9a0aac52fa1610c4abd22a7f282f95c4c6495cfddee95ec6"
+      }
+    },
+    {
+      "candidate": 84,
+      "a": "T3-071",
+      "b": "T5-128",
+      "lexicalCandidateScore": 0.139,
+      "taskBeforeA": "Thông tin nào định hướng lựa chọn phù hợp mong muốn này?",
+      "taskBeforeB": "Hướng nào được nguồn khuyến cáo?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Thông tin nào định hướng lựa chọn phù hợp mong muốn này? / Hướng nào được nguồn khuyến cáo?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-071": "9b5e92cae5d9d7963c615787a472eb26d70e5b0ea8df76a98c60ed57bbc2c746",
+        "T5-128": "8421d183ff635cf4950e9fb980116d314df20d82539933cc860a015ef4bf76f8"
+      }
+    },
+    {
+      "candidate": 85,
+      "a": "T3-016",
+      "b": "T6-018",
+      "lexicalCandidateScore": 0.139,
+      "taskBeforeA": "Trong cơ chế phát triển u xơ-cơ, estrogen qua ER-α có vai trò nào được nhấn mạnh?",
+      "taskBeforeB": "Trong mô hình cơ chế COC của bài giảng, EE duy trì phản hồi âm chủ yếu lên hormone nào để hạn chế phát triển nang?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Trong cơ chế phát triển u xơ-cơ, estrogen qua ER-α có vai trò nào được nhấn mạnh? / Trong mô hình cơ chế COC của bài giảng, EE duy trì phản hồi âm chủ yếu lên hormone nào để hạn chế phát triển nang?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-016": "8c3810d74bba16dd6fd1c24d10511bfd8193196aed17be8bf371eb97c5441317",
+        "T6-018": "93f1929c63714753f3c8c714c16a7ecafadf267e68c2302eccbfe475ff67392e"
+      }
+    },
+    {
+      "candidate": 86,
+      "a": "T1-013",
+      "b": "T6-016",
+      "lexicalCandidateScore": 0.139,
+      "taskBeforeA": "Hormone nào duy trì hoạt động chế tiết steroid của hoàng thể trong chu kỳ không có thai?",
+      "taskBeforeB": "Trong giai đoạn thai sớm, hCG giúp duy trì hoàng thể nhờ đặc tính nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Hormone nào duy trì hoạt động chế tiết steroid của hoàng thể trong chu kỳ không có thai? / Trong giai đoạn thai sớm, hCG giúp duy trì hoàng thể nhờ đặc tính nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-013": "556f164910612e4064e74b942fb764d94070401953fa2e1ef8b7c7172e1516f3",
+        "T6-016": "c01de48441415b984278accb0d35efc16f7f047d64f898e6755e08934c388694"
+      }
+    },
+    {
+      "candidate": 87,
+      "a": "T3-007",
+      "b": "T6-027",
+      "lexicalCandidateScore": 0.139,
+      "taskBeforeA": "Yếu tố nào được xem là đặc trưng và tạo vòng xoắn bệnh lý trong adenomyosis?",
+      "taskBeforeB": "Thành phần hoạt chất đặc trưng của POP là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Yếu tố nào được xem là đặc trưng và tạo vòng xoắn bệnh lý trong adenomyosis? / Thành phần hoạt chất đặc trưng của POP là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-007": "1292225b69ac240b60a0538ea0aebe18d45fdc17f0d6857d24ccc94a0cfc1b88",
+        "T6-027": "5b8ced6bf5d2635877309ab111036926df9648ce8fa1f5a0ce2a5b9020a53c78"
+      }
+    },
+    {
+      "candidate": 88,
+      "a": "T2-027",
+      "b": "T5-002",
+      "lexicalCandidateScore": 0.138,
+      "taskBeforeA": "Loại tế bào biểu mô nào là mục tiêu thường gặp của C. trachomatis trên đường sinh dục nữ?",
+      "taskBeforeB": "Hoạt động phân bào của biểu mô lát cổ tử cung chủ yếu xảy ra ở lớp nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Loại tế bào biểu mô nào là mục tiêu thường gặp của C. trachomatis trên đường sinh dục nữ? / Hoạt động phân bào của biểu mô lát cổ tử cung chủ yếu xảy ra ở lớp nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-027": "a3a7a1bf4d4f84d83e68f41b589c71dc89aae1cd375dbdcd40f0c91be4cafba6",
+        "T5-002": "0b3accb13a12d421330ad0530e56bf26517c697a6187d6053dbdcbb964b3e902"
+      }
+    },
+    {
+      "candidate": 89,
+      "a": "T3-144",
+      "b": "T4-142",
+      "lexicalCandidateScore": 0.137,
+      "taskBeforeA": "Dữ kiện T1 xóa mỡ bổ sung ý nghĩa nào?",
+      "taskBeforeB": "Kế hoạch đối chiếu nào giải quyết bất đồng bệnh sử và mẫu hình?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Dữ kiện T1 xóa mỡ bổ sung ý nghĩa nào? / Kế hoạch đối chiếu nào giải quyết bất đồng bệnh sử và mẫu hình?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-144": "7e592399fc59e7593f0d48600c5e720dfb23eaecf4b6b535f44de0af3b039563",
+        "T4-142": "15c489b5528280bb7fbb499fb1333c0563eec52cbe621647f17bb4c9159b2b61"
+      }
+    },
+    {
+      "candidate": 90,
+      "a": "T3-142",
+      "b": "T4-074",
+      "lexicalCandidateScore": 0.137,
+      "taskBeforeA": "Lập kế hoạch nào tích hợp đúng hình và hoàn cảnh sinh sản?",
+      "taskBeforeB": "Nhóm dữ kiện nào cần tích hợp trước quyết định phẫu thuật?",
+      "screeningDecision": "generic_counselling_cluster",
+      "reason": "Ca ảnh T3-142 và T4-074 đều kết thúc bằng đánh giá hiếm muộn toàn diện, nhiễu xa; viết lại quyết định riêng.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T3-142 thủng khi điện cực hoạt động+hai nhân còn lại, nguy cơ tạng và tái can thiệp; T4-074 recurrenceART không còn cùng kế hoạch infertility chung.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T3-142": "2130f32fb21a63da524218c3c05c345ae2c49e1106744f96dd26fa2d47b70611",
+        "T4-074": "2b30ce5eeac8373845fe241494058ba1df17113374bc958b8a7a14609317d66c"
+      }
+    },
+    {
+      "candidate": 91,
+      "a": "T1-066",
+      "b": "T5-015",
+      "lexicalCandidateScore": 0.137,
+      "taskBeforeA": "Theo WHO 2014/2020 trong bài, chuyển nhóm nào bảo toàn khác biệt bản chất giữa hai báo cáo?",
+      "taskBeforeB": "Điểm phân biệt về bản chất giữa chuyển sản sinh lý và dị sản được bài giảng nhấn mạnh là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo WHO 2014/2020 trong bài, chuyển nhóm nào bảo toàn khác biệt bản chất giữa hai báo cáo? / Điểm phân biệt về bản chất giữa chuyển sản sinh lý và dị sản được bài giảng nhấn mạnh là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-066": "92d0db1ad41d06531852c618b231fd93dd13b94ed9bd19c78fe3b5cfd731f443",
+        "T5-015": "1a72a13337918dcf10e8d399e04c1c7f8a212e3ff270d694e468ea314daba028"
+      }
+    },
+    {
+      "candidate": 92,
+      "a": "T1-013",
+      "b": "T4-061",
+      "lexicalCandidateScore": 0.136,
+      "taskBeforeA": "Hormone nào duy trì hoạt động chế tiết steroid của hoàng thể trong chu kỳ không có thai?",
+      "taskBeforeB": "Hoạt động nào giải thích hội chứng này?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Hormone nào duy trì hoạt động chế tiết steroid của hoàng thể trong chu kỳ không có thai? / Hoạt động nào giải thích hội chứng này?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-013": "556f164910612e4064e74b942fb764d94070401953fa2e1ef8b7c7172e1516f3",
+        "T4-061": "11baf91cc5dfe8fadc567ddb7b0926924e53e3bad46c2716137c0916e37cc218"
+      }
+    },
+    {
+      "candidate": 93,
+      "a": "T3-104",
+      "b": "T4-104",
+      "lexicalCandidateScore": 0.136,
+      "taskBeforeA": "Thông tin nào phải được hoàn tất trước đồng thuận?",
+      "taskBeforeB": "Bước nào xét cả nguyện vọng và thông tin mới trước hoàn tất kỹ thuật?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Thông tin nào phải được hoàn tất trước đồng thuận? / Bước nào xét cả nguyện vọng và thông tin mới trước hoàn tất kỹ thuật?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-104": "189749c0eb8229fe1b49a7ff1cc186260e24dad8fb332f524ce9bbbd904ae058",
+        "T4-104": "9c5f365dbe756cc65886d21de070ab91ca4f847b596f832add15daeb91cb1ed1"
+      }
+    },
+    {
+      "candidate": 94,
+      "a": "T3-145",
+      "b": "T4-142",
+      "lexicalCandidateScore": 0.136,
+      "taskBeforeA": "Diễn giải nào cần đưa vào kế hoạch kỹ thuật sau đọc cả hai chuỗi?",
+      "taskBeforeB": "Kế hoạch đối chiếu nào giải quyết bất đồng bệnh sử và mẫu hình?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Diễn giải nào cần đưa vào kế hoạch kỹ thuật sau đọc cả hai chuỗi? / Kế hoạch đối chiếu nào giải quyết bất đồng bệnh sử và mẫu hình?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-145": "76798f4d545b9df0ba9192e193775f465683aee595965665c6d88d621155f5ae",
+        "T4-142": "15c489b5528280bb7fbb499fb1333c0563eec52cbe621647f17bb4c9159b2b61"
+      }
+    },
+    {
+      "candidate": 95,
+      "a": "T1-027",
+      "b": "T6-097",
+      "lexicalCandidateScore": 0.134,
+      "taskBeforeA": "Vai trò chuẩn bị nội mạc của estrogen trước khi progesterone tác động là gì?",
+      "taskBeforeB": "Suy luận nào giữ đúng lợi ích phối hợp?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Vai trò chuẩn bị nội mạc của estrogen trước khi progesterone tác động là gì? / Suy luận nào giữ đúng lợi ích phối hợp?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-027": "1db163d3d40730ef1aa1a9928d8fb32a14ccc9dfa733175e7ea5fee5d7d81f3e",
+        "T6-097": "81cd39a9c73ddb115c72d9c12146fa44d73133ff8d881b40540c8143befae2df"
+      }
+    },
+    {
+      "candidate": 96,
+      "a": "T3-067",
+      "b": "T5-009",
+      "lexicalCandidateScore": 0.134,
+      "taskBeforeA": "Môi trường nào được nguồn mô tả?",
+      "taskBeforeB": "Yếu tố môi trường nào có vai trò kích thích quan trọng trong chuyển sản lát ở vùng lộ tuyến?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Môi trường nào được nguồn mô tả? / Yếu tố môi trường nào có vai trò kích thích quan trọng trong chuyển sản lát ở vùng lộ tuyến?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-067": "116ce7d5ed97cd4170302b0dca522a13d2ce77fce6ee04e23ac30fdf8287a93c",
+        "T5-009": "608d4c30a99da4c2b58578cc8f06e823b326126c9c5343b9f4f5ca8de99a65e1"
+      }
+    },
+    {
+      "candidate": 97,
+      "a": "T5-116",
+      "b": "T6-146",
+      "lexicalCandidateScore": 0.134,
+      "taskBeforeA": "Kế hoạch nào giữ quyền từ chối và đáp ứng tổn thương độ cao?",
+      "taskBeforeB": "Kế hoạch nào giữ quyền tự quyết mà không biến đồng thuận thành cách bỏ giới hạn y khoa?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Kế hoạch nào giữ quyền từ chối và đáp ứng tổn thương độ cao? / Kế hoạch nào giữ quyền tự quyết mà không biến đồng thuận thành cách bỏ giới hạn y khoa?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T5-116": "9cc398c3172d880581e0b31a2172d3ac0ca2a3b2ff17911d9e6e07a98800f9d9",
+        "T6-146": "e800571479416e908042806f1795b8a84282b14f920e2df1efbe455d8cced4aa"
+      }
+    },
+    {
+      "candidate": 98,
+      "a": "T1-058",
+      "b": "T6-018",
+      "lexicalCandidateScore": 0.133,
+      "taskBeforeA": "Theo bài sinh lý, giải thích nào tránh kết luận sai rằng dự trữ buồng trứng còn bình thường?",
+      "taskBeforeB": "Trong mô hình cơ chế COC của bài giảng, EE duy trì phản hồi âm chủ yếu lên hormone nào để hạn chế phát triển nang?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo bài sinh lý, giải thích nào tránh kết luận sai rằng dự trữ buồng trứng còn bình thường? / Trong mô hình cơ chế COC của bài giảng, EE duy trì phản hồi âm chủ yếu lên hormone nào để hạn chế phát triển nang?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-058": "b2751aba5deb0d96e5f29ab605018284df545be739320c06182014e9ac6ef14e",
+        "T6-018": "93f1929c63714753f3c8c714c16a7ecafadf267e68c2302eccbfe475ff67392e"
+      }
+    },
+    {
+      "candidate": 99,
+      "a": "T1-032",
+      "b": "T5-083",
+      "lexicalCandidateScore": 0.133,
+      "taskBeforeA": "Nhóm PALM–COEIN phù hợp nhất sau các bước loại trừ này là gì?",
+      "taskBeforeB": "Theo bài quản lý, người có AGC/AIS và yếu tố nguy cơ ung thư nội mạc như béo phì, rối loạn phóng noãn cần bổ sung đánh giá nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Nhóm PALM–COEIN phù hợp nhất sau các bước loại trừ này là gì? / Theo bài quản lý, người có AGC/AIS và yếu tố nguy cơ ung thư nội mạc như béo phì, rối loạn phóng noãn cần bổ sung đánh giá nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-032": "2565c048d073ab9e774b6a4eee484e6b4246471c279cd6eb001d40dbb2901616",
+        "T5-083": "dbd592ba73266e3f7b5ac050c5da0fad5ea81e54ac94c08293418e60e93a5f6b"
+      }
+    },
+    {
+      "candidate": 100,
+      "a": "T1-078",
+      "b": "T4-026",
+      "lexicalCandidateScore": 0.133,
+      "taskBeforeA": "Mục tiêu thích hợp của các mô hình Gail, Claus, BRCAPRO và Cuzick–Tyrer là gì?",
+      "taskBeforeB": "Theo bài dịch tễ trong folder, tiền sử gia đình nào gợi ý nguy cơ di truyền liên quan ung thư buồng trứng?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Mục tiêu thích hợp của các mô hình Gail, Claus, BRCAPRO và Cuzick–Tyrer là gì? / Theo bài dịch tễ trong folder, tiền sử gia đình nào gợi ý nguy cơ di truyền liên quan ung thư buồng trứng?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-078": "415d9331a52a2fddf697ec58cde548e698af8c8d6798cc17caba3f4ee1df5c35",
+        "T4-026": "93f7a9191dd31b05a2eeae2813aa36d6f38df2ad89cd0e9f3421265e8fbb817d"
+      }
+    },
+    {
+      "candidate": 101,
+      "a": "T1-085",
+      "b": "T6-050",
+      "lexicalCandidateScore": 0.133,
+      "taskBeforeA": "Chẩn đoán nào không được bỏ qua chỉ vì đã thấy thai trong tử cung?",
+      "taskBeforeB": "Ưu tiên nào dùng đúng hai thông tin?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Chẩn đoán nào không được bỏ qua chỉ vì đã thấy thai trong tử cung? / Ưu tiên nào dùng đúng hai thông tin?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-085": "57fb3d8100d9b45b06f3d9ee21d26ea2f3719a673c0b51c0d8ea4426ac6aaa65",
+        "T6-050": "1d0025d1300c63f9b01a71191971aec1fe6dd61f8e329e307584bf242f90a86a"
+      }
+    },
+    {
+      "candidate": 102,
+      "a": "T1-097",
+      "b": "T2-104",
+      "lexicalCandidateScore": 0.133,
+      "taskBeforeA": "Theo các nguồn được dẫn, chọn thứ tự ưu tiên có căn cứ.",
+      "taskBeforeB": "Theo CDC 2021, chọn thứ tự đánh giá phù hợp với hai nhánh bệnh lý đồng thời.",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo các nguồn được dẫn, chọn thứ tự ưu tiên có căn cứ. / Theo CDC 2021, chọn thứ tự đánh giá phù hợp với hai nhánh bệnh lý đồng thời.. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-097": "15a4d36cc0383631794fc65ae62aa2e7646a7d9614781a36ab75bda376426aa0",
+        "T2-104": "1ff046c41dec005b292feac31f2c9b34a3a1c335214e7751e3842cc8acf8ef6b"
+      }
+    },
+    {
+      "candidate": 103,
+      "a": "T5-078",
+      "b": "T6-005",
+      "lexicalCandidateScore": 0.132,
+      "taskBeforeA": "Ở người từ 25 tuổi, không mang thai, đủ điều kiện theo ASCCP 2019 và nguy cơ CIN 3+ hiện tại 40%, bài giảng nhấn mạnh lựa chọn nào?",
+      "taskBeforeB": "Theo WHO MEC 2015 trong bài giảng, loại 3 nhấn mạnh tương quan nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Ở người từ 25 tuổi, không mang thai, đủ điều kiện theo ASCCP 2019 và nguy cơ CIN 3+ hiện tại 40%, bài giảng nhấn mạnh lựa chọn nào? / Theo WHO MEC 2015 trong bài giảng, loại 3 nhấn mạnh tương quan nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T5-078": "3d12d4b75680c2591798025f6e9bc843512e8420b902a5f8d6c4406798d405a0",
+        "T6-005": "419321cde1cf6f4dafafc77758587782e1fea23a94c2f645b9c1753ff2a1095b"
+      }
+    },
+    {
+      "candidate": 104,
+      "a": "T2-064",
+      "b": "T5-001",
+      "lexicalCandidateScore": 0.132,
+      "taskBeforeA": "Vai trò bao phủ nào phù hợp?",
+      "taskBeforeB": "Loại biểu mô bình thường bao phủ cổ ngoài cổ tử cung là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Vai trò bao phủ nào phù hợp? / Loại biểu mô bình thường bao phủ cổ ngoài cổ tử cung là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-064": "b49e76e928cfb25518c142fcee67d3cd30481bbbe2bc2a38cbab0dd01e2684d7",
+        "T5-001": "fb1d9e85b0a72b27317a6ac0c87e15ea132e94bff1640bfc84f5be268a3562a7"
+      }
+    },
+    {
+      "candidate": 105,
+      "a": "T1-041",
+      "b": "T4-037",
+      "lexicalCandidateScore": 0.132,
+      "taskBeforeA": "Theo bài AUB-O 2026–2027, diễn giải phối hợp dữ kiện nào phù hợp trước phân loại căn nguyên?",
+      "taskBeforeB": "Dạng cấu trúc cơ năng nào được các dữ kiện hỗ trợ hơn hoàng thể tồn lưu?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo bài AUB-O 2026–2027, diễn giải phối hợp dữ kiện nào phù hợp trước phân loại căn nguyên? / Dạng cấu trúc cơ năng nào được các dữ kiện hỗ trợ hơn hoàng thể tồn lưu?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-041": "fb06d15b3659cb4ea0b1f5fe6e4fdc23146b0cc14d835fab624fd29192b270a2",
+        "T4-037": "96835a022452af33bd989e15868c61078f87a2627adf2a16a1ba3ef371700c05"
+      }
+    },
+    {
+      "candidate": 106,
+      "a": "T1-081",
+      "b": "T3-037",
+      "lexicalCandidateScore": 0.132,
+      "taskBeforeA": "Nhóm nguyên nhân nào phải được đưa vào chẩn đoán phân biệt ban đầu?",
+      "taskBeforeB": "Chẩn đoán nào cần ưu tiên cân nhắc trong chẩn đoán phân biệt?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Nhóm nguyên nhân nào phải được đưa vào chẩn đoán phân biệt ban đầu? / Chẩn đoán nào cần ưu tiên cân nhắc trong chẩn đoán phân biệt?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-081": "f56f6211268c019ddb539ec710fa62a27f993fe75914190f4f023e4379eb0567",
+        "T3-037": "a150bc22c243cf8f177eb0c74e95ab96c49e337b53e5fe031977f9f7c7d687fa"
+      }
+    },
+    {
+      "candidate": 107,
+      "a": "T1-081",
+      "b": "T2-062",
+      "lexicalCandidateScore": 0.131,
+      "taskBeforeA": "Nhóm nguyên nhân nào phải được đưa vào chẩn đoán phân biệt ban đầu?",
+      "taskBeforeB": "Theo CDC 2021, chọn đánh giá ngay để mở đúng nhánh thai kỳ/chẩn đoán phân biệt.",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Nhóm nguyên nhân nào phải được đưa vào chẩn đoán phân biệt ban đầu? / Theo CDC 2021, chọn đánh giá ngay để mở đúng nhánh thai kỳ/chẩn đoán phân biệt.. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-081": "f56f6211268c019ddb539ec710fa62a27f993fe75914190f4f023e4379eb0567",
+        "T2-062": "fefdc6b2c84e556b54c5ddb45c68a17662800de7dcaccf3fc5c6e5a776430bc5"
+      }
+    },
+    {
+      "candidate": 108,
+      "a": "T2-007",
+      "b": "T5-003",
+      "lexicalCandidateScore": 0.131,
+      "taskBeforeA": "Clue cells trong chẩn đoán BV là hình ảnh gì?",
+      "taskBeforeB": "SCJ là ranh giới giữa hai loại biểu mô nào ở cổ tử cung?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Clue cells trong chẩn đoán BV là hình ảnh gì? / SCJ là ranh giới giữa hai loại biểu mô nào ở cổ tử cung?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-007": "5d5a1ed13516fb93b9160552fadcdeb2bb53cd28d74cd163bc03d62e122b5b8f",
+        "T5-003": "44aedbbc6a06bd6aaf88f7c5554d69d5148ddf279d341fe8562cb9ac461a3406"
+      }
+    },
+    {
+      "candidate": 109,
+      "a": "T1-063",
+      "b": "T2-117",
+      "lexicalCandidateScore": 0.131,
+      "taskBeforeA": "Chọn bước khảo sát giúp giải quyết nguy cơ bỏ sót tổn thương khu trú.",
+      "taskBeforeB": "Theo CDC 2021, chọn đánh giá bổ sung phù hợp với vị trí tổn thương có thể bị nội soi bỏ sót.",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Chọn bước khảo sát giúp giải quyết nguy cơ bỏ sót tổn thương khu trú. / Theo CDC 2021, chọn đánh giá bổ sung phù hợp với vị trí tổn thương có thể bị nội soi bỏ sót.. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-063": "e8c9ce7388d14aad1740bb419400b2a3de0e190840d3aeed27c638980e7bd1f8",
+        "T2-117": "ae51a3def58cfddbc14ee35109be55f896d17e586ff3070db8c8da04ba2705f6"
+      }
+    },
+    {
+      "candidate": 110,
+      "a": "T3-085",
+      "b": "T4-079",
+      "lexicalCandidateScore": 0.131,
+      "taskBeforeA": "Hướng suy luận nào hợp lý nhất?",
+      "taskBeforeB": "Xét nghiệm và suy luận ưu tiên nào hợp lý?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Hướng suy luận nào hợp lý nhất? / Xét nghiệm và suy luận ưu tiên nào hợp lý?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-085": "94290f57d795880b105c79f70f94b1992b9bf1b8169905b5d3c330fb7ad2bccb",
+        "T4-079": "188025b754f9f2f3dfe351597209beede6089128f0d53cc0b850aff4df7ec3c2"
+      }
+    },
+    {
+      "candidate": 111,
+      "a": "T2-070",
+      "b": "T3-024",
+      "lexicalCandidateScore": 0.131,
+      "taskBeforeA": "Vì sao phải cân nhắc nguy cơ can thiệp cơ quan lân cận?",
+      "taskBeforeB": "Theo bài nguyên lý, vì sao cần cân nhắc yếu tố nam khi định hướng can thiệp nhân xơ vì hiếm muộn?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Vì sao phải cân nhắc nguy cơ can thiệp cơ quan lân cận? / Theo bài nguyên lý, vì sao cần cân nhắc yếu tố nam khi định hướng can thiệp nhân xơ vì hiếm muộn?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-070": "f7c290329da17e3519eca843779dc972c8740c66473d2ecb5c27c5d1828e4b8a",
+        "T3-024": "244ad6b065eab180a490a14d1a24ede82d25d50675688c10fb1bcf0b32451834"
+      }
+    },
+    {
+      "candidate": 112,
+      "a": "T1-128",
+      "b": "T4-091",
+      "lexicalCandidateScore": 0.131,
+      "taskBeforeA": "Chọn cách sử dụng bệnh sử phù hợp.",
+      "taskBeforeB": "Tư vấn nào tránh suy diễn loại đột biến?",
+      "screeningDecision": "duplicate_cluster",
+      "reason": "Cùng tránh suy gene và tư vấn; thuộc chùm phải thay.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T1-128 EIN khi tamoxifen điều trị vú; T4-091 dự phòng BRCA2, tuổi/family completion/trial.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T1-128": "56007d8599673a3c1a49b5fb34d16e75d9d14d43522a874a04ce13f005a8b736",
+        "T4-091": "52a9869d2a3e08d3b1ce3c9d70a8962a30d8d7cabff369c4b19b07acca28f4c2"
+      }
+    },
+    {
+      "candidate": 113,
+      "a": "T4-019",
+      "b": "T5-014",
+      "lexicalCandidateScore": 0.131,
+      "taskBeforeA": "Cặp tế bào và quá trình nào tạo estrogen trong nang noãn theo tài liệu?",
+      "taskBeforeB": "Nguồn tế bào được nhấn mạnh trong khởi đầu quá trình chuyển sản lát là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Cặp tế bào và quá trình nào tạo estrogen trong nang noãn theo tài liệu? / Nguồn tế bào được nhấn mạnh trong khởi đầu quá trình chuyển sản lát là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T4-019": "3742d5e4424c9a68c75cc5b0e8c2eacd393decba316d135e6bfce940612934a6",
+        "T5-014": "4f7bfef6f2d68dce714e593e7d7de6303fa16e8d304599f1d1ca32d9cb760e05"
+      }
+    },
+    {
+      "candidate": 114,
+      "a": "T3-026",
+      "b": "T6-013",
+      "lexicalCandidateScore": 0.131,
+      "taskBeforeA": "Cơ chế tuyến yên nào giải thích tác dụng GnRH đồng vận dùng liên tục trong bài 8/2018?",
+      "taskBeforeB": "Xung GnRH từ hạ đồi kích thích tuyến yên chế tiết cặp hormone nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Cơ chế tuyến yên nào giải thích tác dụng GnRH đồng vận dùng liên tục trong bài 8/2018? / Xung GnRH từ hạ đồi kích thích tuyến yên chế tiết cặp hormone nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-026": "252a7412996c69fb8531275d013d00eca8dfaf08fd2370a1d1046cc4dda3c255",
+        "T6-013": "4c93a7b649ac5ffc7807bcb782aad473e1e11c0b765276746b50a95b9a88d5fe"
+      }
+    },
+    {
+      "candidate": 115,
+      "a": "T1-151",
+      "b": "T6-086",
+      "lexicalCandidateScore": 0.131,
+      "taskBeforeA": "Đọc phối hợp các ô và chọn chi tiết đủ xác định vị trí thai ngoài tử cung.",
+      "taskBeforeB": "Vì sao kế hoạch cần đánh giá thêm trước thực hiện, theo bài Phá thai an toàn?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Đọc phối hợp các ô và chọn chi tiết đủ xác định vị trí thai ngoài tử cung. / Vì sao kế hoạch cần đánh giá thêm trước thực hiện, theo bài Phá thai an toàn?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-151": "c66c599c0abe90ac2b27ff53e3f2086d51e1ee621048fb4222a9d98e7039ffa9",
+        "T6-086": "31b8783523e8cc6fa229bdd06b2fa9411789722c32b746f95eb4197a43b5d7c4"
+      }
+    },
+    {
+      "candidate": 116,
+      "a": "T4-014",
+      "b": "T5-035",
+      "lexicalCandidateScore": 0.13,
+      "taskBeforeA": "Đặc điểm tế bào học kinh điển của u Krukenberg là gì?",
+      "taskBeforeB": "CIN 3 theo mô tả mô học cổ điển có đặc điểm nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Đặc điểm tế bào học kinh điển của u Krukenberg là gì? / CIN 3 theo mô tả mô học cổ điển có đặc điểm nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T4-014": "04aeb7c1d1bcbd1b416d9b5fd8de43dc3bae8077c6cdd1696775a6c255e3775b",
+        "T5-035": "75af75ae841198dd9378ca491deccded11bcc0a55557454cd240448a689117ba"
+      }
+    },
+    {
+      "candidate": 117,
+      "a": "T1-023",
+      "b": "T6-027",
+      "lexicalCandidateScore": 0.13,
+      "taskBeforeA": "Vai trò phản hồi đặc trưng của inhibin B trên tuyến yên là gì?",
+      "taskBeforeB": "Thành phần hoạt chất đặc trưng của POP là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Vai trò phản hồi đặc trưng của inhibin B trên tuyến yên là gì? / Thành phần hoạt chất đặc trưng của POP là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-023": "67714f6779531eba2b72da0a75fa47e464c345f45a357d2c67e8df2085a4732c",
+        "T6-027": "5b8ced6bf5d2635877309ab111036926df9648ce8fa1f5a0ce2a5b9020a53c78"
+      }
+    },
+    {
+      "candidate": 118,
+      "a": "T4-013",
+      "b": "T5-038",
+      "lexicalCandidateScore": 0.13,
+      "taskBeforeA": "Dấu hiệu mô học được nêu đặc trưng cho u tế bào hạt là gì?",
+      "taskBeforeB": "LSIL được đặc trưng chủ yếu bởi biến đổi của những lớp tế bào nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Dấu hiệu mô học được nêu đặc trưng cho u tế bào hạt là gì? / LSIL được đặc trưng chủ yếu bởi biến đổi của những lớp tế bào nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T4-013": "19687e09c98b44615440a1923cc40078915cd417d8113857976dcb4484aafdf4",
+        "T5-038": "a66fc3445f7e209013bc75354e23dc58a0112dd391ee0a6a284a423aa3832da2"
+      }
+    },
+    {
+      "candidate": 119,
+      "a": "T2-113",
+      "b": "T3-131",
+      "lexicalCandidateScore": 0.13,
+      "taskBeforeA": "Theo CDC 2021, chọn kế hoạch cân thời điểm đặt, đáp ứng và mong muốn tránh thai.",
+      "taskBeforeB": "Kế hoạch nào cân điều trị triệu chứng với chẩn đoán?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo CDC 2021, chọn kế hoạch cân thời điểm đặt, đáp ứng và mong muốn tránh thai. / Kế hoạch nào cân điều trị triệu chứng với chẩn đoán?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-113": "fd6bd3caf3874baa18ece9e2b18a116c5ce3ada7b015ea5cf579e6c1f5e0110a",
+        "T3-131": "32a92354bad122991aad36d477ddf0914b1bf083f64264852df5fe2f540b682b"
+      }
+    },
+    {
+      "candidate": 120,
+      "a": "T1-027",
+      "b": "T6-096",
+      "lexicalCandidateScore": 0.128,
+      "taskBeforeA": "Vai trò chuẩn bị nội mạc của estrogen trước khi progesterone tác động là gì?",
+      "taskBeforeB": "Lập luận nào dùng đúng vai trò misoprostol?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Vai trò chuẩn bị nội mạc của estrogen trước khi progesterone tác động là gì? / Lập luận nào dùng đúng vai trò misoprostol?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-027": "1db163d3d40730ef1aa1a9928d8fb32a14ccc9dfa733175e7ea5fee5d7d81f3e",
+        "T6-096": "d22dea817f18b672a0ed39a530c8835e736d29018d4f71637cb9b93f29bc0b35"
+      }
+    },
+    {
+      "candidate": 121,
+      "a": "T2-011",
+      "b": "T5-014",
+      "lexicalCandidateScore": 0.128,
+      "taskBeforeA": "Đặc tính sống nào của C. trachomatis được bài giảng nhấn mạnh?",
+      "taskBeforeB": "Nguồn tế bào được nhấn mạnh trong khởi đầu quá trình chuyển sản lát là gì?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Đặc tính sống nào của C. trachomatis được bài giảng nhấn mạnh? / Nguồn tế bào được nhấn mạnh trong khởi đầu quá trình chuyển sản lát là gì?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-011": "5bd85dfd6b66dd924a3c2d82e3a73c562019bc7c2eab611c1464b34d87dfa999",
+        "T5-014": "4f7bfef6f2d68dce714e593e7d7de6303fa16e8d304599f1d1ca32d9cb760e05"
+      }
+    },
+    {
+      "candidate": 122,
+      "a": "T4-011",
+      "b": "T5-039",
+      "lexicalCandidateScore": 0.128,
+      "taskBeforeA": "Nguồn gốc của nhóm u tế bào mầm là gì?",
+      "taskBeforeB": "Tế bào học dị sản mức độ cao thường gắn với biến đổi của nhóm tế bào nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Nguồn gốc của nhóm u tế bào mầm là gì? / Tế bào học dị sản mức độ cao thường gắn với biến đổi của nhóm tế bào nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T4-011": "6d986e4708485201cf3eb831fbee76237977f3bb923f4c9c13ee283617da06dc",
+        "T5-039": "51d59fd884c809b9675d2a7a17ab734236b2aaf0fc548b48a78da68ea9d7b2dc"
+      }
+    },
+    {
+      "candidate": 123,
+      "a": "T3-090",
+      "b": "T6-092",
+      "lexicalCandidateScore": 0.128,
+      "taskBeforeA": "Kế hoạch nào tích hợp đúng các yếu tố?",
+      "taskBeforeB": "Kế hoạch nào tích hợp mô và triệu chứng?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Kế hoạch nào tích hợp đúng các yếu tố? / Kế hoạch nào tích hợp mô và triệu chứng?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-090": "f071b5f5b921e36d1c8bae234c96319173bbbd690e7b24af00585d322223222c",
+        "T6-092": "77379ee647b9143cfb68f16b437588b48cbd510774081c9c3b5fb2842e0f2ddf"
+      }
+    },
+    {
+      "candidate": 124,
+      "a": "T3-074",
+      "b": "T4-009",
+      "lexicalCandidateScore": 0.128,
+      "taskBeforeA": "Điều trị cần dựa trên cơ sở nào?",
+      "taskBeforeB": "Phân loại khối u buồng trứng WHO 2014 được bài giảng xây dựng dựa trên cơ sở nào?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Điều trị cần dựa trên cơ sở nào? / Phân loại khối u buồng trứng WHO 2014 được bài giảng xây dựng dựa trên cơ sở nào?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-074": "4f4cb887e1c4f8b9532987bf46e96a14feb12412408d67482eb8beb23bb6da8a",
+        "T4-009": "e585acacfc7801876fafae4a20ff1f99acab5f0759cddf023e3a57fe409d4db1"
+      }
+    },
+    {
+      "candidate": 125,
+      "a": "T1-002",
+      "b": "T2-032",
+      "lexicalCandidateScore": 0.128,
+      "taskBeforeA": "Theo bảng FIGO trong bài Quản lý AUB cập nhật 2026–2027, khoảng cách giữa hai ngày đầu kỳ kinh bình thường là bao nhiêu?",
+      "taskBeforeB": "Mô tả nào phù hợp nhất với bệnh cảnh BV trong bài cập nhật 2026?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo bảng FIGO trong bài Quản lý AUB cập nhật 2026–2027, khoảng cách giữa hai ngày đầu kỳ kinh bình thường là bao nhiêu? / Mô tả nào phù hợp nhất với bệnh cảnh BV trong bài cập nhật 2026?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-002": "398f83b4f4ad67a4655504bf2de620fcb12c696d8875f4c177c4050011ae1c07",
+        "T2-032": "488703ad702d936eb92dbb932be2b28cface5a9402e691e3a57b4219ab9cacb3"
+      }
+    },
+    {
+      "candidate": 126,
+      "a": "T3-099",
+      "b": "T6-045",
+      "lexicalCandidateScore": 0.128,
+      "taskBeforeA": "Điểm quyết định nào cần thêm để so sánh lựa chọn?",
+      "taskBeforeB": "So sánh nào hỗ trợ lựa chọn theo điểm yếu sử dụng?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Điểm quyết định nào cần thêm để so sánh lựa chọn? / So sánh nào hỗ trợ lựa chọn theo điểm yếu sử dụng?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-099": "7470fc7e47d6efb6484657ed46d19afebb554ece4e1716a4449927de06b494ae",
+        "T6-045": "d01514965e2356caa4ffac57f1e5c8de0c151ced2eac8ec0ecddf49e2a29b754"
+      }
+    },
+    {
+      "candidate": 127,
+      "a": "T1-056",
+      "b": "T4-059",
+      "lexicalCandidateScore": 0.128,
+      "taskBeforeA": "Biến đổi nào giải thích chuỗi phản hồi nội tiết này?",
+      "taskBeforeB": "Dòng u nào cần được đối chiếu với tổ hợp này?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Biến đổi nào giải thích chuỗi phản hồi nội tiết này? / Dòng u nào cần được đối chiếu với tổ hợp này?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-056": "63e0b42c711df35b36f1cb3cd5c0ad1b1904d3851d69df747cb7e2fcdd137c80",
+        "T4-059": "8af8ed41bae6c8bdbb202fd5b7b55b2efb7f65cc10204b8df0554af2d0635883"
+      }
+    },
+    {
+      "candidate": 128,
+      "a": "T3-142",
+      "b": "T4-101",
+      "lexicalCandidateScore": 0.127,
+      "taskBeforeA": "Lập kế hoạch nào tích hợp đúng hình và hoàn cảnh sinh sản?",
+      "taskBeforeB": "Vì sao không quyết định mổ chỉ theo đường kính nang?",
+      "screeningDecision": "generic_counselling_cluster",
+      "reason": "T3-142/T4-101 chỉ đổi cơ quan nhưng cùng kế hoạch chung; tách quyết định có điều kiện nguồn.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T3-142 cấp cứu tổn thương do điện cực và kỳ vọng dài hạn sau lấy nhân; T4-101 lập bản đồ niệu quản/dự trữ trước mổ nang.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T3-142": "2130f32fb21a63da524218c3c05c345ae2c49e1106744f96dd26fa2d47b70611",
+        "T4-101": "cf289eb31e814adfadfd5192d50349e3408749280318c7ca111abfe39d47ffb6"
+      }
+    },
+    {
+      "candidate": 129,
+      "a": "T1-015",
+      "b": "T4-052",
+      "lexicalCandidateScore": 0.127,
+      "taskBeforeA": "Tiêu chí mô học nền tảng của tăng sinh nội mạc tử cung là gì?",
+      "taskBeforeB": "Diễn giải nào phù hợp đặc điểm Brenner trong bài phân loại?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Tiêu chí mô học nền tảng của tăng sinh nội mạc tử cung là gì? / Diễn giải nào phù hợp đặc điểm Brenner trong bài phân loại?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-015": "1f66107b45732649bf3fe4f150ef65c2bfb07e37930ec94ef1a454a9ea989676",
+        "T4-052": "0ecdbd16856abdeadf8290a9661fb5f3240d68463648869b28325e26e00250a4"
+      }
+    },
+    {
+      "candidate": 130,
+      "a": "T1-081",
+      "b": "T6-050",
+      "lexicalCandidateScore": 0.127,
+      "taskBeforeA": "Nhóm nguyên nhân nào phải được đưa vào chẩn đoán phân biệt ban đầu?",
+      "taskBeforeB": "Ưu tiên nào dùng đúng hai thông tin?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Nhóm nguyên nhân nào phải được đưa vào chẩn đoán phân biệt ban đầu? / Ưu tiên nào dùng đúng hai thông tin?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-081": "f56f6211268c019ddb539ec710fa62a27f993fe75914190f4f023e4379eb0567",
+        "T6-050": "1d0025d1300c63f9b01a71191971aec1fe6dd61f8e329e307584bf242f90a86a"
+      }
+    },
+    {
+      "candidate": 131,
+      "a": "T3-138",
+      "b": "T4-120",
+      "lexicalCandidateScore": 0.127,
+      "taskBeforeA": "Kế hoạch khảo sát và báo cáo nào phù hợp nhất với bất định này?",
+      "taskBeforeB": "Trước khi gọi đây là nang đa thùy, thao tác nào có giá trị trực tiếp nhất?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Kế hoạch khảo sát và báo cáo nào phù hợp nhất với bất định này? / Trước khi gọi đây là nang đa thùy, thao tác nào có giá trị trực tiếp nhất?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-138": "2cb73aeb264543eb85e610f243dc59bb7807892d7c90b0aaaf61dca8fbff7cd1",
+        "T4-120": "92a2d1cfdaebe3034ef3432628441ba1ea8c59204b419c9fab505906bcdd72af"
+      }
+    },
+    {
+      "candidate": 132,
+      "a": "T2-036",
+      "b": "T3-037",
+      "lexicalCandidateScore": 0.127,
+      "taskBeforeA": "Theo CDC 2021, chọn chẩn đoán ưu tiên giải thích đồng thời triệu chứng, pH và soi.",
+      "taskBeforeB": "Chẩn đoán nào cần ưu tiên cân nhắc trong chẩn đoán phân biệt?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo CDC 2021, chọn chẩn đoán ưu tiên giải thích đồng thời triệu chứng, pH và soi. / Chẩn đoán nào cần ưu tiên cân nhắc trong chẩn đoán phân biệt?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-036": "d17805eaffe2b457f9641b2353aca9f1b986743b280c0b628275ce460cc1f8c8",
+        "T3-037": "a150bc22c243cf8f177eb0c74e95ab96c49e337b53e5fe031977f9f7c7d687fa"
+      }
+    },
+    {
+      "candidate": 133,
+      "a": "T1-128",
+      "b": "T4-026",
+      "lexicalCandidateScore": 0.127,
+      "taskBeforeA": "Chọn cách sử dụng bệnh sử phù hợp.",
+      "taskBeforeB": "Theo bài dịch tễ trong folder, tiền sử gia đình nào gợi ý nguy cơ di truyền liên quan ung thư buồng trứng?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Chọn cách sử dụng bệnh sử phù hợp. / Theo bài dịch tễ trong folder, tiền sử gia đình nào gợi ý nguy cơ di truyền liên quan ung thư buồng trứng?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-128": "56007d8599673a3c1a49b5fb34d16e75d9d14d43522a874a04ce13f005a8b736",
+        "T4-026": "93f7a9191dd31b05a2eeae2813aa36d6f38df2ad89cd0e9f3421265e8fbb817d"
+      }
+    },
+    {
+      "candidate": 134,
+      "a": "T3-057",
+      "b": "T4-010",
+      "lexicalCandidateScore": 0.126,
+      "taskBeforeA": "Diễn biến thường gặp nào cần tư vấn?",
+      "taskBeforeB": "Nhóm tân sinh buồng trứng nào được bài phân loại mô tả thường gặp nhất?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Diễn biến thường gặp nào cần tư vấn? / Nhóm tân sinh buồng trứng nào được bài phân loại mô tả thường gặp nhất?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-057": "e14304d99bf829756c1e6f76c8a8bf8a20d30b7906dbf52f72c16669c4171b35",
+        "T4-010": "586375979bcb6da19cfcc38e85118deeb2e3ffa41149e221922ec1d764a7e6be"
+      }
+    },
+    {
+      "candidate": 135,
+      "a": "T1-069",
+      "b": "T5-004",
+      "lexicalCandidateScore": 0.126,
+      "taskBeforeA": "Hai vị trí nào phải được lấy và nhận diện riêng?",
+      "taskBeforeB": "Hiện tượng nào định nghĩa lộ tuyến cổ tử cung?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Hai vị trí nào phải được lấy và nhận diện riêng? / Hiện tượng nào định nghĩa lộ tuyến cổ tử cung?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-069": "94a1e822ae2e9027dc8007bc911fa91e475de247436ab81955b6ef6481bd7da0",
+        "T5-004": "04e75723072e8777ae2f2a7393ec175faafd8d1b38fc647c2d00eba7fadd8a8a"
+      }
+    },
+    {
+      "candidate": 136,
+      "a": "T1-058",
+      "b": "T4-073",
+      "lexicalCandidateScore": 0.126,
+      "taskBeforeA": "Theo bài sinh lý, giải thích nào tránh kết luận sai rằng dự trữ buồng trứng còn bình thường?",
+      "taskBeforeB": "Nguy cơ nào cần đặc biệt tư vấn?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Theo bài sinh lý, giải thích nào tránh kết luận sai rằng dự trữ buồng trứng còn bình thường? / Nguy cơ nào cần đặc biệt tư vấn?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-058": "b2751aba5deb0d96e5f29ab605018284df545be739320c06182014e9ac6ef14e",
+        "T4-073": "61ef0b8bc75cfa0b388ceff79324afa2ad5d14e458044be5ae6ccd6a49d8c712"
+      }
+    },
+    {
+      "candidate": 137,
+      "a": "T3-113",
+      "b": "T4-116",
+      "lexicalCandidateScore": 0.126,
+      "taskBeforeA": "Tư vấn nào xét đồng thời chỉ định, rủi ro và lựa chọn?",
+      "taskBeforeB": "Kế hoạch nào hoàn thiện đồng thuận và mục tiêu kỹ thuật?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Tư vấn nào xét đồng thời chỉ định, rủi ro và lựa chọn? / Kế hoạch nào hoàn thiện đồng thuận và mục tiêu kỹ thuật?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T3-113": "6e116d96cd2cc9638f67615d94e6ab928a56aede397f4c8b0cdf74ee6dedd326",
+        "T4-116": "de844fc5b5633dce1af3fda46b3d4850fb0c439eb805d6b9b434e2bb0b388cc2"
+      }
+    },
+    {
+      "candidate": 138,
+      "a": "T1-085",
+      "b": "T6-099",
+      "lexicalCandidateScore": 0.126,
+      "taskBeforeA": "Chẩn đoán nào không được bỏ qua chỉ vì đã thấy thai trong tử cung?",
+      "taskBeforeB": "Ưu tiên đánh giá nào xét đồng thời diễn tiến và thiếu chẩn đoán ban đầu?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Chẩn đoán nào không được bỏ qua chỉ vì đã thấy thai trong tử cung? / Ưu tiên đánh giá nào xét đồng thời diễn tiến và thiếu chẩn đoán ban đầu?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T1-085": "57fb3d8100d9b45b06f3d9ee21d26ea2f3719a673c0b51c0d8ea4426ac6aaa65",
+        "T6-099": "542eecd3a8d30fcfb8729074fbe663d5ab579fead3317216484234f965fd8ca2"
+      }
+    },
+    {
+      "candidate": 139,
+      "a": "T2-027",
+      "b": "T4-010",
+      "lexicalCandidateScore": 0.126,
+      "taskBeforeA": "Loại tế bào biểu mô nào là mục tiêu thường gặp của C. trachomatis trên đường sinh dục nữ?",
+      "taskBeforeB": "Nhóm tân sinh buồng trứng nào được bài phân loại mô tả thường gặp nhất?",
+      "screeningDecision": "distinct_objectives",
+      "reason": "Nhiệm vụ và đối tượng quyết định khác nhau: Loại tế bào biểu mô nào là mục tiêu thường gặp của C. trachomatis trên đường sinh dục nữ? / Nhóm tân sinh buồng trứng nào được bài phân loại mô tả thường gặp nhất?. Từ vựng hoặc nguyên lý nền chung không đủ kết luận trùng thao tác. Việc đạt mức độ vẫn phải kiểm tra từng câu.",
+      "focusedFullRecordRead": false,
+      "finalStatus": "screened_distinct",
+      "finalQuestionHashes": {
+        "T2-027": "a3a7a1bf4d4f84d83e68f41b589c71dc89aae1cd375dbdcd40f0c91be4cafba6",
+        "T4-010": "586375979bcb6da19cfcc38e85118deeb2e3ffa41149e221922ec1d764a7e6be"
+      }
+    },
+    {
+      "candidate": 140,
+      "a": "T3-088",
+      "b": "T4-082",
+      "lexicalCandidateScore": 0.126,
+      "taskBeforeA": "Cách tiếp cận nào tránh bỏ sót biến chứng cấp?",
+      "taskBeforeB": "Kế hoạch nào cân đúng cơ chế thoái triển và biến chứng?",
+      "screeningDecision": "level_quality_review",
+      "reason": "Chung nguyên tắc dấu cấp ưu tiên hơn bệnh mạn. Không gộp xoắn nhân có cuống với biến chứng phần phụ; nhiệm vụ L4 ban đầu chỉ một quyết định nên phải sửa.",
+      "focusedFullRecordRead": true,
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T3-088 ngưỡng fluidalert750/stop1000 hypotonic+staging; T4-082 proximalocclusion hydrosalpinx khi dính và không bóc endometrioma chỉ để tăng IVF.",
+      "finalCaseTaskAnswerRead": true,
+      "finalQuestionHashes": {
+        "T3-088": "f739f0ac07b467a36f78ecc17a031905fec0dd43758eb94c72307661a4b98390",
+        "T4-082": "a2f1d0ca6a08d71039088ed779db849d94b3c0e3f60a43760775d1002dbe0abb"
+      }
+    },
+    {
+      "candidate": 141,
+      "a": "T3-005",
+      "b": "T3-006",
+      "discoveryPass": "Fresh final-bank task+correct-option TF-IDF or focused peer cluster",
+      "focusedFullRecordRead": true,
+      "screeningDecision": "reviewed",
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T3-005 đã thay từ ranh giới không rõ sang vị trí thường ưu thế thành sau theo trang1 bài bệnh học; T3-006 giữ ranh giới tổn thương. Hai mục tiêu cơ sở khác nhau. Đã đọc lại toàn bản ghi005 sau sửa.",
+      "finalQuestionHashes": {
+        "T3-005": "cc3c49986f57ac70a875403c247c37ec81b07540a0dbdf3efb9d51b6f1880a6c",
+        "T3-006": "886a797e00dd49cde1b66b9dd69351f136ab62b9bb1121ca56622c0f8e874f7d"
+      }
+    },
+    {
+      "candidate": 142,
+      "a": "T4-134",
+      "b": "T4-131",
+      "discoveryPass": "Fresh final-bank task+correct-option TF-IDF or focused peer cluster",
+      "focusedFullRecordRead": true,
+      "screeningDecision": "reviewed",
+      "finalStatus": "closed_distinct",
+      "finalReason": "Khối đặc nhẵn cóbóngCS2→3 vsunilocularnhú<4→4; khác dấu quyết định không chỉ đổi tuổi.",
+      "finalQuestionHashes": {
+        "T4-134": "6193d6ea9a29d12257e029a96513ded867d5588871f3ace650cc2981fd2a64c0",
+        "T4-131": "88b9f36cee91bb1fe54856ee6e94f994dfad13c63b97a81782b922599146a32c"
+      }
+    },
+    {
+      "candidate": 143,
+      "a": "T3-033",
+      "b": "T3-032",
+      "discoveryPass": "Fresh final-bank task+correct-option TF-IDF or focused peer cluster",
+      "focusedFullRecordRead": true,
+      "screeningDecision": "reviewed",
+      "finalStatus": "closed_distinct",
+      "finalReason": "100%intramural contactendo→FIGO3 vsngoàiserosacuống→7; quan hệ giải phẫu khác.",
+      "finalQuestionHashes": {
+        "T3-033": "1c9c8d2b5065161e3f3cfb8ef5d8229446de505793443849087eeb0cbd545299",
+        "T3-032": "571038aa3aacb3a7aa723ae4ea9e374b794576ba8e55dd2edfce445723e20e6d"
+      }
+    },
+    {
+      "candidate": 144,
+      "a": "T4-131",
+      "b": "T4-122",
+      "discoveryPass": "Fresh final-bank task+correct-option TF-IDF or focused peer cluster",
+      "focusedFullRecordRead": true,
+      "screeningDecision": "reviewed",
+      "finalStatus": "closed_distinct",
+      "finalReason": "Nhú<4→4 vsmẫuendometriomađiểnhình≥10cm→3, dấu và threshold khác.",
+      "finalQuestionHashes": {
+        "T4-131": "88b9f36cee91bb1fe54856ee6e94f994dfad13c63b97a81782b922599146a32c",
+        "T4-122": "b81a94cf6a0689a60c64356655a097a0a48fdf45055e7afe23df6020e21b66ce"
+      }
+    },
+    {
+      "candidate": 145,
+      "a": "T5-127",
+      "b": "T5-102",
+      "discoveryPass": "Fresh final-bank task+correct-option TF-IDF or focused peer cluster",
+      "focusedFullRecordRead": true,
+      "screeningDecision": "reviewed",
+      "finalStatus": "closed_distinct",
+      "finalReason": "127 phân concernfuturepregnancy trongHSILmarginpreferredvsacceptable;102 phânAISmargin vẫnre-excision evenhyst vsHSILfuturepregnancy. Cùng ruleB làm nền nhưng nhiệm vụ đối chiếu mô học ở102 khác mục tiêu preferenceở127.",
+      "finalQuestionHashes": {
+        "T5-127": "0a77c5450b8095e6ddcce9fc8b8ae881cd09b4c4ca9477b7cb5bf9a254a1b716",
+        "T5-102": "9260486f535a96a2e333ed747e831a7666cec667deb90064bc8d8a17e54bfbb9"
+      }
+    },
+    {
+      "candidate": 146,
+      "a": "T2-111",
+      "b": "T2-091",
+      "discoveryPass": "Fresh final-bank task+correct-option TF-IDF or focused peer cluster",
+      "focusedFullRecordRead": true,
+      "screeningDecision": "reviewed",
+      "finalStatus": "closed_distinct",
+      "finalReason": "PID≥150kg+GC cần14d/doxy+metro vsGCkhôngPID≥150kgCTchưaloại cần7ddoxy; syndrome upper tract quyết định thành phần/thời gian.",
+      "finalQuestionHashes": {
+        "T2-111": "e4c05bd480bc7a6fa8bbf8cd12a4b461625963cceda92759a67ac5469d40e811",
+        "T2-091": "277cb29ee43b0664a10fba8d5c631f274d6181c3fe792b51328107a4a746eb85"
+      }
+    },
+    {
+      "candidate": 147,
+      "a": "T4-134",
+      "b": "T4-122",
+      "discoveryPass": "Fresh final-bank task+correct-option TF-IDF or focused peer cluster",
+      "focusedFullRecordRead": true,
+      "screeningDecision": "reviewed",
+      "finalStatus": "closed_distinct",
+      "finalReason": "SmoothsolidshadowCS2→3 vscystclassicbenignmax≥10→3, cùng điểm nhưng khác rule và dấu ảnh.",
+      "finalQuestionHashes": {
+        "T4-134": "6193d6ea9a29d12257e029a96513ded867d5588871f3ace650cc2981fd2a64c0",
+        "T4-122": "b81a94cf6a0689a60c64356655a097a0a48fdf45055e7afe23df6020e21b66ce"
+      }
+    },
+    {
+      "candidate": 148,
+      "a": "T6-104",
+      "b": "T6-040",
+      "discoveryPass": "Fresh final-bank task+correct-option TF-IDF or focused peer cluster",
+      "focusedFullRecordRead": true,
+      "screeningDecision": "reviewed",
+      "finalStatus": "closed_distinct",
+      "finalReason": "040 áp CHC4auraring;104phânmalabsorptiveRoux-en-Y oral3vsring1 cộngaura4, hai ràng buộc đườngdùng/nguycơ độc lập.",
+      "finalQuestionHashes": {
+        "T6-104": "6e300ee1c3805a482a969cfbeefb28e6d8495369f422c0707649baf9690f7010",
+        "T6-040": "8e28dd0aa3541597354cbdf360499cf3479b9c36285195d25e090e244b5dd0e3"
+      }
+    },
+    {
+      "candidate": 149,
+      "a": "T3-033",
+      "b": "T3-031",
+      "discoveryPass": "Fresh final-bank task+correct-option TF-IDF or focused peer cluster",
+      "focusedFullRecordRead": true,
+      "screeningDecision": "reviewed",
+      "finalStatus": "closed_distinct",
+      "finalReason": "AllintramuralcontactendoFIGO3 vsallintracavitarypedunculated0; cầnquan hệgiảiphẫu khác.",
+      "finalQuestionHashes": {
+        "T3-033": "1c9c8d2b5065161e3f3cfb8ef5d8229446de505793443849087eeb0cbd545299",
+        "T3-031": "2a340b94c021584f1aa66ed5dad5b7ae26079660d2fea5b826b485c52133fc99"
+      }
+    },
+    {
+      "candidate": 150,
+      "a": "T5-053",
+      "b": "T5-063",
+      "discoveryPass": "Fresh final-bank task+correct-option TF-IDF or focused peer cluster",
+      "focusedFullRecordRead": true,
+      "screeningDecision": "reviewed",
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T5-063 đã thay quyết định về kitHPV bằng NILM đủ mẫu nhưng thiếu thành phần vùng chuyển tiếp ở tuổi≥30/HPV chưa rõ: ưu tiênHPV theo ASCCP. T5-053 giữ giới hạn kitHPV6/11. Đã đọc lại toàn063 và bốn lý do.",
+      "finalQuestionHashes": {
+        "T5-053": "2cccc50f31177c79d89bc596c5c01bce9133ef9d27b743b6e9e01632bb0c3e96",
+        "T5-063": "43319817f6a23127149d845ad197a39a19678e3081d934e4a18176c0fd1f16c6"
+      }
+    },
+    {
+      "candidate": 151,
+      "a": "T6-073",
+      "b": "T6-140",
+      "discoveryPass": "Fresh final-bank task+correct-option TF-IDF or focused peer cluster",
+      "focusedFullRecordRead": true,
+      "screeningDecision": "reviewed",
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T6-073 đã thay tư vấn tránh thai còn muốn có con bằng đánh giá độ thông vòi sau nối7tháng chưa cóthai (ASRM gợi ý6tháng). T6-140 giữ tự chủ/tránh ép triệt sản. Đã đọc lại toàn073 và bốn lý do.",
+      "finalQuestionHashes": {
+        "T6-073": "88611f32acb109d2730efb63fadfbaf2a98f8ab8f1a2bb70389d36f010a8d0fe",
+        "T6-140": "2eba59ea9868358fec23f9d979c80074a83ee508055fc6594a0bd34ad26f1fd0"
+      }
+    },
+    {
+      "candidate": 152,
+      "a": "T1-103",
+      "b": "T1-034",
+      "discoveryPass": "Fresh task+correct-answer TF-IDF on final103recast",
+      "focusedFullRecordRead": true,
+      "screeningDecision": "reviewed",
+      "finalStatus": "closed_after_revision",
+      "finalReason": "T1-034 đã đổi hoàn toàn thành khám định vị vết rách âm đạo chảy máu sau giao hợp, không máu từ lỗ cổ: ưu tiên nguồn ngoài tử cung trướcPALM–COEIN/điều trịAUB. T1-103 giữ quyết định mô sauAUB-Iđãxácđịnhnhưng diễn tiến/nguy cơ nội mạc chưa giải quyết. Đã đọc đủ hai bản, bốn phương án và lý do; nguồnACOGp3hỗ trợ cả hai nhiệm vụ riêng.",
+      "finalQuestionHashes": {
+        "T1-103": "714ec84ba9b02c7e85022cc40359a64f84b7dadccc20731cd59adee20e70e7b9",
+        "T1-034": "6387d07d64c7056a61c2cef1a8104d9053f7f2f52edc63472904c4ff13cc3d74"
+      }
+    }
+  ],
+  "clinicalSourceChecks": [
+    {
+      "url": "https://www.cdc.gov/contraception/hcp/usspr/intrauterine-contraception.html",
+      "version": "U.S. SPR 2024",
+      "conditions": "PID: if continued contraception desired no immediate removal; reassess48–72h; if discontinued remove after starting antibiotics and consider EC/alternative. Evidence Cu/nonhormonal, no LNG studies."
+    },
+    {
+      "url": "https://www.cdc.gov/std/treatment-guidelines/pid.htm",
+      "version": "CDC STI2021",
+      "conditions": "PID risk predominantly first3weeks after insertion; no routine removal; consider with48–72h nonresponse."
+    }
+  ],
+  "finalReadDate": "2026-10-11",
+  "scopeNote": "All recorded152candidates closed after case/task/key reading; focused candidates read in full as marked. Every926record separately read in its topic ledger; similarity screening alone is not a proof of universal semantic uniqueness.",
+  "finalBankSha256": "cbb5eadfe4e070a5914094f7f0f0b512aacc6d213da668a820882214f7cf4aff",
+  "finalBankVersion": "2026.10-cbb5eadfe4e0"
+}

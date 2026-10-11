@@ -1,0 +1,979 @@
+{
+  "date": "2026-10-11",
+  "status": "complete",
+  "method": "Root independently read the full case/task/options/all option explanations and source references for these records after topic rewrites. This is an additional editorial peer pass. Primary-source validation remains in each topic ledger; root separately read CDC PID/gonorrhoea/M.genitalium primary pages and source context for its own authored records. Flags are reported to the topic author and require final reread.",
+  "items": [
+    {
+      "id": "T3-083",
+      "questionSha256AtPeerRead": "c45b02ae1388bfda52493b7010a879802de70562e7aaa0dc37c9db7263bc381e",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T3-108",
+      "questionSha256AtPeerRead": "89c5275eb7db7571cb0ab7cde180ec2dd1a481d62f8e0c0386717d2249b86d82",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted_after_revision",
+      "finding": "Replaced distant options with paired drug/fertility plans; TXA vs NSAID intolerance and future-pregnancy restriction on ablation now each determine a step.",
+      "revisionReadDate": "2026-10-11"
+    },
+    {
+      "id": "T3-109",
+      "questionSha256AtPeerRead": "b2309afde75182f35d3d8b141ba7df07f3a476b3d003d9924f94dfb118179c36",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted_after_revision",
+      "finding": "Replaced implausible hormone choices with BMS November2024 low-risk stop/restart branches, four-week cessation and three-month adjustment/safety-net.",
+      "revisionReadDate": "2026-10-11"
+    },
+    {
+      "id": "T3-115",
+      "questionSha256AtPeerRead": "5b5d800bee8c339a8def9eb96af5d13af357d5e33e6f2460782dad3c593bf2e8",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted_after_revision",
+      "finding": "Replaced CA125 distraction with mapping and hysteroscopy/biopsy alternatives; both imaging completeness and endometrial assessment determine a step.",
+      "revisionReadDate": "2026-10-11"
+    },
+    {
+      "id": "T3-122",
+      "questionSha256AtPeerRead": "fc18f4fb6f5309d78885134426d15f5ee2cba952dcfb9c285d73e7a4b26aa074",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T3-123",
+      "questionSha256AtPeerRead": "e19701b38d56651cebabf1bcdc62fb62a7cb4e43bd52fdf8bb755da26fbe3353",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T2-094",
+      "questionSha256AtPeerRead": "2e6bfe7e353461a1074b3f01a3b69d212fb4f64d4340f1b23884a1a971f66293",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T2-102",
+      "questionSha256AtPeerRead": "7020f120f700135218a0bed4085c8c16f8d5aa45ce94311ee623dd4cf356cfb1",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T2-105",
+      "questionSha256AtPeerRead": "96ab26e317a25829b4689b6c422fda501c8b9ab223d1ca5fc96e221c398e4dd0",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T2-106",
+      "questionSha256AtPeerRead": "1541e4c12dec05ed47a4d549f13710eefff78b7be4b1f38505ea9eccebacc59d",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T2-109",
+      "questionSha256AtPeerRead": "e03a97e50203cf1fc09accf778a00ea72a9ac9a71b2baec3a5f359fecb3c3456",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T2-113",
+      "questionSha256AtPeerRead": "cd3831590bb5f6aa7810ff62630d72da07a97a5a7610ad286d73831cbb0c382e",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T2-115",
+      "questionSha256AtPeerRead": "b6c4269de8daf0d2f264cba7032ad757160b29a300029f4d82842688e5ffdc56",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T2-116",
+      "questionSha256AtPeerRead": "52810acf6e8b20605b571ddc0f1794c62de60c5811492278df05f26cc1c458e0",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T2-117",
+      "questionSha256AtPeerRead": "77cb43773a67affcb581b8e3a2dd31142317ecf7107b3e08a1eebd78fb2c6cd6",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T2-118",
+      "questionSha256AtPeerRead": "e086fd63bf267d0c3e8506878de6cbbee3163b606b6a9e27f53c71a052d294a4",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T2-119",
+      "questionSha256AtPeerRead": "3f7d886901bdb676f8fa9a51d415f763e03b0620b344b956d78c6f3d0a50877a",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-091",
+      "questionSha256AtPeerRead": "e0813f21b0f790160a94832f05a650804f70e643449ffe603b43a734d9f9a445",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-092",
+      "questionSha256AtPeerRead": "252bb79e3794f53e0e2e24e04591253b736b96614a25951b02d9910de4b969ef",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-093",
+      "questionSha256AtPeerRead": "2549732afc67380f33c45283c9c38fa7dcfaec558c69ad74b6c3574b6f6671c0",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-094",
+      "questionSha256AtPeerRead": "1349b4adb301e90b1f2929d20eafac0bac2b794e42f7f41fc343380b888584d8",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-095",
+      "questionSha256AtPeerRead": "7046cff481d2c241e84cc57b622909dd8c75c26b899845789ae212f600a3c5bf",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-096",
+      "questionSha256AtPeerRead": "1fc66443f094b92ce5e2eb47874a3ecd551f227b6fa4996ae591cba19b78d8b3",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-097",
+      "questionSha256AtPeerRead": "36b0db485086f4c4af3f8c2bd83fe8d32467cac1dd7b17372f3b568bb7d2a10b",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-098",
+      "questionSha256AtPeerRead": "96c2aa4ac924700d4d83b829418eb47253e432efdec5a8eaf08f58e98c0f5239",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-099",
+      "questionSha256AtPeerRead": "46d94c910d82fd65a5591a7a1bdf5e8ced6ef7138844d7ecfefffe5754e725a4",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-100",
+      "questionSha256AtPeerRead": "9d17a3167f017816b71ddda5ddb30cf6afdc17e18da9e5626019c9d3870e88a7",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-101",
+      "questionSha256AtPeerRead": "2a2bd61d7cb7d601912ec027282b85272a0d317380b63819e4231509a1d7683f",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-102",
+      "questionSha256AtPeerRead": "a4f065f9e2b7396c9ef4ccbef71545fbb24a9fcab4ee8bab8a384c5410da4de5",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-103",
+      "questionSha256AtPeerRead": "80eaa89abedf6487aaf6c6409c14240b975be9e046cf8a8a83a622fbfcb7f2c1",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-104",
+      "questionSha256AtPeerRead": "451887c12eeb26e8f44097c9227a06fe9d0c7f574fc5fd801c4144e7e0e5d658",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-105",
+      "questionSha256AtPeerRead": "de8a031cfe52871fa08639f25e06f85247291cf20be5420f6390029f52dc862c",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-106",
+      "questionSha256AtPeerRead": "5a32f320eb3b2442bac9d1eeaac53ca2defdf024e787bbfc512e3d3c6745c3fb",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-107",
+      "questionSha256AtPeerRead": "a47cef3c8228977e72c5f98a5e060572ab6ba29d1462de7f251c5c14ede0a83f",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-108",
+      "questionSha256AtPeerRead": "e99c5db8e1c9ed911324cb7601e9b927ef1a2ab97fcdc80646536a8e6252b3b4",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-109",
+      "questionSha256AtPeerRead": "c69241aca06b6f0d40197a8c9cfc3bf0ca5809b92d2d9d9ff138be3ff256fcb8",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-110",
+      "questionSha256AtPeerRead": "fd05d0e54e9e40d7611b23b5f12c1ea2e50ae79a2ff2301c0fb115b3ea9e72c3",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-111",
+      "questionSha256AtPeerRead": "9e26e800b1613c83d4830f148b7848eaaa00c0adfb91bb0b1d60528d5ee7142c",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-112",
+      "questionSha256AtPeerRead": "aff4046709d4871c8185980619f9415729c68ed498a1d20ec927e70cf92ca471",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-113",
+      "questionSha256AtPeerRead": "ae6f189ddb30217977ae07714287a9d89f0181251dffab88a9650d7b596e6b22",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-114",
+      "questionSha256AtPeerRead": "9f2eb892fd48855ce87ca1add923caebdf021cfc5bb4bb6263aa3dc7d8b02c43",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-115",
+      "questionSha256AtPeerRead": "8161112a2b05ca2ccc5804be3f91ce41ce11f291e237d9d87cad0bee30f80dda",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-116",
+      "questionSha256AtPeerRead": "55a7ae7b01d3d22605eb254a6edea6f53d9e1d654e308b749831cf85938a4e11",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-117",
+      "questionSha256AtPeerRead": "b66aee89f43ecee555b528f86ccb62a3e29668ff24e19e8a168531492f34b350",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-118",
+      "questionSha256AtPeerRead": "027b2961af8bf761e14c963ce7cae390ce663b5771abd2637be112372100dfe4",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-119",
+      "questionSha256AtPeerRead": "31cae950e3392d3280200bc80df3eb95169e75e7de63ce2c7c6890eca29a7fea",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-120",
+      "questionSha256AtPeerRead": "2353134b9f580f1671354f31056095133281127aecba4c45a741a55321be399e",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-121",
+      "questionSha256AtPeerRead": "178c5d9559522eeba732b40a2cd1d5c13e2736906f378295d9b9af58c12f2276",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-122",
+      "questionSha256AtPeerRead": "ddaaca6b6ae9142ce065ea6730e479fa237d24e54e0ed6e64fcd9dc036abb098",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted_after_revision",
+      "finding": "Recast into persistent HSIL at one year versus ASC-H at one year; excision and two-year observation threshold distinguished.",
+      "revisionReadDate": "2026-10-11"
+    },
+    {
+      "id": "T5-123",
+      "questionSha256AtPeerRead": "eb9e1ebb4f6a488fa550d40ee049e578db4e36858677f9b45bca4b67eb699678",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted_after_revision",
+      "finding": "Replaced post-treatment single-rule repeat with missed colposcopy high-grade versus non-high-grade history and repeat negative cotest under 2023 update.",
+      "revisionReadDate": "2026-10-11"
+    },
+    {
+      "id": "T5-124",
+      "questionSha256AtPeerRead": "307072138a74cbb7dfeece74759d638fe0f7636a2d2e661a9456e4702ab58fba",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-125",
+      "questionSha256AtPeerRead": "709ce477c8f4f8295bcf9d21e5e13e736e753d3c8eea842ec33d0e9978e9653a",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-126",
+      "questionSha256AtPeerRead": "28f9cdf445629f5bbe55891b9b559a45322e1c67f3b1dd31751627b5117f4df3",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-127",
+      "questionSha256AtPeerRead": "4fc2802d043641c89cb6ae664778bbfa38008dc12170786b30b45349ce81aecc",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-128",
+      "questionSha256AtPeerRead": "cffd84203a74b1892061c2c53272a7c7d78e202d2a70113f2df9cb5bb30ed32e",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-129",
+      "questionSha256AtPeerRead": "f500efb8858eec7d17637a238d996ad951b7727a8b1427f54d472003994fd508",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-130",
+      "questionSha256AtPeerRead": "ea8e4b8d6ebbd2b818a31d6ba7ee232bbee767877622e686787ec7bff3eb71ba",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted_after_revision",
+      "finding": "Added ESRD-related LSIL threshold plus pregnancy prohibition of ECC; general-risk HPV-negative LSIL branch independently compared.",
+      "revisionReadDate": "2026-10-11"
+    },
+    {
+      "id": "T5-131",
+      "questionSha256AtPeerRead": "ca5b68acefe2c481666f1769c32ef7a7c0c08955199a2ec8fd582ad468d1ae97",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted_after_revision",
+      "finding": "Recast into CIN2 observation cotest versus HPV-alone surveillance reduction criteria under 2023 clarification.",
+      "revisionReadDate": "2026-10-11"
+    },
+    {
+      "id": "T5-132",
+      "questionSha256AtPeerRead": "393adb02b6f96c7ea2436acabc42fca361a7217d7ac795de9a89e691928e46e0",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-133",
+      "questionSha256AtPeerRead": "5cac54d839b15bd8bc047bcb2d40046cd4fe9de529409cda891602fabcaf6705",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-134",
+      "questionSha256AtPeerRead": "45c08f06dd07b40b35fd97a77e3b6ddcc2cbf281d05ae2516c8c5e2a8bc5320d",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-135",
+      "questionSha256AtPeerRead": "56415246074aaddcc774163bd8877a9ad67d88c6f20e0826e03155a5b719cbe8",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-136",
+      "questionSha256AtPeerRead": "1c0e040abddfcf79521ebe21e34d585f241d8961199b1d268a8c0928d7ba3612",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-137",
+      "questionSha256AtPeerRead": "19ff394972a49ce82fbfdfe32465d63739248ee46f34ad20c688ce36f8e9f3bd",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-138",
+      "questionSha256AtPeerRead": "c38e12ca69817b7d490fbb8162c065ce0ff3bab5ccb3f35ae2f3b9002eb7f89d",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-139",
+      "questionSha256AtPeerRead": "5fa9b82f6fc88ed7900830c079d58596be9d1ea7b6e2b2e1f22536632b75a3e4",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-140",
+      "questionSha256AtPeerRead": "dfa48b9e6b6094341d61a5de7961d55c80e63879b2875ce0109537236df8b5da",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-141",
+      "questionSha256AtPeerRead": "b697b50a64b52796d53761765e019bcef6bf0f6dfa6aa5ab3938bd37fc82d382",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-142",
+      "questionSha256AtPeerRead": "edb7ce5d99521309bc610c7f128159783476340f77d161608163fd72604ef830",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-143",
+      "questionSha256AtPeerRead": "7ffa0d80ab70a4e5e035bfd436855ea5943a3d3f27089475892c08328640d034",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-144",
+      "questionSha256AtPeerRead": "8bfb617715af54eace6f3e70e08d18d8dd682c1780186943761eb01fa6f22bf9",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-145",
+      "questionSha256AtPeerRead": "26c6fc9fc85dabfc5d67b916d36d82c22d0403375d83fd6a69cf43b8efd51a5d",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-146",
+      "questionSha256AtPeerRead": "2138a270a9586db0d5a6097fb9c92bd900aa4118f94e06653d31572f5ead9b29",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-147",
+      "questionSha256AtPeerRead": "57b29ff3e775b881f699dcd92aec5f2509234834cea266cce3796f4c60a50fe8",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-148",
+      "questionSha256AtPeerRead": "6a38d4b5cd6f28648fbced4aa124a44a0c8a0ff79e126b013edb9a346ead7942",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-149",
+      "questionSha256AtPeerRead": "711ba959817b3b1a05dbc36f6253ffe752c4dca4d42de5cef1fd12b46d772ccd",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T5-150",
+      "questionSha256AtPeerRead": "68af2cc2da4f358f86f5046245a046b6c57d99d100ffe86228191ecb972f46a6",
+      "scope": "case, task, all four options, correct key, main explanation, all four option reasons, source references and quoted conditions",
+      "status": "peer_accepted",
+      "finding": "Distinct target and answer supported by the conditions documented in the topic source ledger; no additional content issue at this peer read."
+    },
+    {
+      "id": "T2-128",
+      "questionSha256AtPeerRead": "b3cc1b65000e1f001ac8fbe05f905eb87b2cf18ea4a83981d26c9cb1c0bdfc16",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T2-129",
+      "questionSha256AtPeerRead": "b4f711606113d2b1e1602ae913413c40aeecccc9c20b7538cd021abce28239bb",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T2-130",
+      "questionSha256AtPeerRead": "dfd94d2541da0939edb4b115cf7d507d52960afe88deca76bc176862ce1e6dec",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T2-132",
+      "questionSha256AtPeerRead": "fd7ecc012aa8f2d91eb56681a45f781d9711511080260145a2e9a8610be4b175",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T2-133",
+      "questionSha256AtPeerRead": "bffafd2520887ee0052bbea946f06e84d00592e9342cfa960af0935a3f64c941",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T2-134",
+      "questionSha256AtPeerRead": "a5a5063129fda586a2b5d989d1d7d3bc38c1da64f4ed7e36c18778492198e095",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T2-135",
+      "questionSha256AtPeerRead": "5020753b569a5d91dea66d86b8f667aa3304cf8ac4dc5e5ee8405014fe5f366b",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T2-136",
+      "questionSha256AtPeerRead": "13cc192e35658f53755bdbf06592a0fdeefa54e3648c13f88cb5982878cac89e",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T2-139",
+      "questionSha256AtPeerRead": "0af4a9d688693e081be6d72a48f7d0690e5f3f0dff1e7460a8b82c7e898b8db0",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T2-140",
+      "questionSha256AtPeerRead": "50ab783926eeb34360480d69a254c1cbe8101dd09c97cdf5fd0c320d8d6432ad",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T2-141",
+      "questionSha256AtPeerRead": "122013d53007e453960b100fde824a7d9f786b82b8ac4db89947e56a0d280dce",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T2-147",
+      "questionSha256AtPeerRead": "3dc4789f556c263ba95f8237212b1a8d0998600aa416e469f2897f490e0ae1ce",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-120",
+      "questionSha256AtPeerRead": "92a2d1cfdaebe3034ef3432628441ba1ea8c59204b419c9fab505906bcdd72af",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-124",
+      "questionSha256AtPeerRead": "d6ca56dbfdf32b4ca15467061647995e0c8dc490cc612de13a7fab1604898605",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-126",
+      "questionSha256AtPeerRead": "6947290c032941f1cd50c3ade116d03ae0de44030b655eed83ed7817ee9d7fe5",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-129",
+      "questionSha256AtPeerRead": "c84805c8e144749daea69de99f65958e83ece7dbc8afe57f72fa8069e84b0afd",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-132",
+      "questionSha256AtPeerRead": "f9732257db81ee503a51af37e7b5567523da9ea413960e86ea41df1f74386e92",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-135",
+      "questionSha256AtPeerRead": "9cc8429afe424bb15418be015a8fcdfaa77563317c6e815bc29c93b5fde9537a",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-137",
+      "questionSha256AtPeerRead": "21fd5c795313e62fd3856d7750727c39e27e7b5d4ab81cfed87139f943b2c625",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-138",
+      "questionSha256AtPeerRead": "c27e0a7c83f4048222b47b4367846184d2d5147e3be556e76f6890a4086dc131",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-140",
+      "questionSha256AtPeerRead": "05c61a0ab15986b6123f87e79bee678c44f6fc775e1c67772e9736eac2f0a763",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-145",
+      "questionSha256AtPeerRead": "c8136fecdaa38016aa12a0b662882451a54ec5dfce22e6967c626ee942968da9",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-146",
+      "questionSha256AtPeerRead": "c93331b037586c2861f017847b6d3f6d0013b27944b3776350613f368dc6ed54",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-147",
+      "questionSha256AtPeerRead": "b509c2f73634107a69cded31315941019d7ea45852376778ddb3ac000adf8824",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-148",
+      "questionSha256AtPeerRead": "211e2073d16833b10767942f92bc6f8faca2eac5ed5c88b4d05e0d6d0c7fafe2",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-150",
+      "questionSha256AtPeerRead": "43a4587a8613a51225a3a3ed9f4a8dbb6a2b9d6f17b566d81da97834cbdf08e9",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-074",
+      "questionSha256AtPeerRead": "2b30ce5eeac8373845fe241494058ba1df17113374bc958b8a7a14609317d66c",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-077",
+      "questionSha256AtPeerRead": "acaa0da8b0035b6f97faee6af33e0eb1f2b288b85d990d888ef7c6f792263356",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-085",
+      "questionSha256AtPeerRead": "6b13758dd4fbaaeed0db751ae0870e1391ca8cf0123a3bf577ebf9111294a843",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-086",
+      "questionSha256AtPeerRead": "0427f35d3c85b991af5e8c8404aa72d3f955cd3078d6d41a025fb8d3731848b8",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-090",
+      "questionSha256AtPeerRead": "bdbd51cb100842c9f1f64cb21e6e06d11aaa84f468f5fbeff86278d18f097f3b",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-111",
+      "questionSha256AtPeerRead": "4a59525112c3120b96c1d2077d6f590a7cbc4ea444714b01aba20f4718b170cf",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-113",
+      "questionSha256AtPeerRead": "11319128ae7ad5b8a9c83ac803685b2797a45fe70033674f7fb0ac6673e166f5",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T1-130",
+      "questionSha256AtPeerRead": "1e11d28a0d18ea5c7e366bfa2c382cd895cbd23edd0c1455b5df5987d9c486e5",
+      "scope": "Full case, task, all four options/reasons, correct key and source conditions; for listed T4 imaging cases the actual local asset was also viewed.",
+      "status": "peer_accepted",
+      "finding": "Distinct decision and cognitive operation; documented source conditions support the key. NICE2026 thresholds/specimen rules were separately checked against indexed primary recommendations for T4-077/113.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T1-100",
+      "questionSha256AtPeerRead": "741dc91c6da8a2868c28ad2ea792f3a7136d5b279c1ab517661d6403ae890aca",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Distinct final decision and cognitive operation; applicable source conditions retained.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T1-120",
+      "questionSha256AtPeerRead": "1f82295a918033db214538dbb896093e77cc8e84c06714f61d375af0f64c4394",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Distinct final decision and cognitive operation; applicable source conditions retained.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T1-141",
+      "questionSha256AtPeerRead": "f4ddae1710ac050ba55a72787f4d7d724a5fd122d6cb2ec11d973488ad93f565",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Distinct final decision and cognitive operation; applicable source conditions retained.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T1-142",
+      "questionSha256AtPeerRead": "b1f9c3c89c0d7924c32593d808f260f8c3841c9679240947aee35828e28ea0e3",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Distinct final decision and cognitive operation; applicable source conditions retained.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T1-143",
+      "questionSha256AtPeerRead": "a03730775d2f87a63073876f29f4ff9c7328aacf1ad6c9c13c9639bfab5a2dc3",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Distinct final decision and cognitive operation; applicable source conditions retained.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T3-005",
+      "questionSha256AtPeerRead": "cc3c49986f57ac70a875403c247c37ec81b07540a0dbdf3efb9d51b6f1880a6c",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Distinct final decision and cognitive operation; applicable source conditions retained.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T3-055",
+      "questionSha256AtPeerRead": "ea020cc1146431326afbd6b4098bd8bc5d5e88d86f7deb8fc4b3b6fbf97f5bd1",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Distinct final decision and cognitive operation; applicable source conditions retained.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T3-075",
+      "questionSha256AtPeerRead": "409fd3dbb16fff0be8fa59e34b1c0b479cd0ff3af049ec8f8b42ffff1a9d8893",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Distinct final decision and cognitive operation; applicable source conditions retained.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T3-077",
+      "questionSha256AtPeerRead": "182bd7d433d2390cb7d934bbc7ca3e3606d21c141509e371dc4081782c2836b3",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Distinct final decision and cognitive operation; applicable source conditions retained.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-043",
+      "questionSha256AtPeerRead": "fb887306eb103ba459b5a9009b9205c184cd95e12fa71f92b1fa6a1cbbe9ca2b",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Timeline corrected to days after confirmed ovulation; hormone series is explicitly hypothetical.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T4-114",
+      "questionSha256AtPeerRead": "3fff52752c70326d9760161aa3a834c18a3e376817086cab11973aa80b2c3146",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Both five-group vectors sum to100; total28/44 and conditional18/28≈64%,18/44≈41% correct; probabilities do not confirm histology.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T5-034",
+      "questionSha256AtPeerRead": "8f761f4c4f0a02e2f61eb22872b21f6bdb1c49fd7663491659e1c66160559dd9",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Distinct final decision and cognitive operation; applicable source conditions retained.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T5-035",
+      "questionSha256AtPeerRead": "75af75ae841198dd9378ca491deccded11bcc0a55557454cd240448a689117ba",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Distinct final decision and cognitive operation; applicable source conditions retained.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T5-058",
+      "questionSha256AtPeerRead": "d45bcec74ec7ebb5da2e0d909a54f9c3ee80dbdae3b11ce2fc03997bd8652aac",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Distinct final decision and cognitive operation; applicable source conditions retained.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T5-063",
+      "questionSha256AtPeerRead": "43319817f6a23127149d845ad197a39a19678e3081d934e4a18176c0fd1f16c6",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Distinct final decision and cognitive operation; applicable source conditions retained.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T6-073",
+      "questionSha256AtPeerRead": "88611f32acb109d2730efb63fadfbaf2a98f8ab8f1a2bb70389d36f010a8d0fe",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Distinct final decision and cognitive operation; applicable source conditions retained.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T6-076",
+      "questionSha256AtPeerRead": "919179f92a4f12589f15dd2c4a924f60acc0aab53b50fdfa299a67d31b7a6f4a",
+      "scope": "Full case, task, all four options and reasons, key and source conditions after final semantic revision.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Distinct final decision and cognitive operation; applicable source conditions retained.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T1-103",
+      "questionSha256AtPeerRead": "714ec84ba9b02c7e85022cc40359a64f84b7dadccc20731cd59adee20e70e7b9",
+      "scope": "Full case, task, four options/key, all four reasons and source conditions after final L4 recast.",
+      "status": "peer_accepted_after_revision",
+      "finding": "AUB-I does not close endometrial assessment; persistentAUB+failedprogestin+BMI37 at34years meets ACOG2013p3 context despite normalizedprolactin/no focalUSmass. Clinical progression, priorcause and newtissue decision integrated.",
+      "readDate": "2026-10-11"
+    },
+    {
+      "id": "T1-034",
+      "questionSha256AtPeerRead": "6387d07d64c7056a61c2cef1a8104d9053f7f2f52edc63472904c4ff13cc3d74",
+      "scope": "Full case,task,four options/key,four reasons and source context after semantic recast.",
+      "status": "peer_accepted_after_revision",
+      "finding": "Vaginal tear directly bleeding with no blood from cervicalos changes initialsourceassessment; ACOG2013p3supports locating source before AUB framework. Distinct from103endometrial sampling.",
+      "readDate": "2026-10-11"
+    }
+  ],
+  "completedAt": "2026-10-11T09:02:04.653Z",
+  "scopeNote": "Additional root peer review complements full 926-record topic-owner source reviews. Hashes record the peer-read snapshot; subsequent display copyediting is tracked by the final index. This is Codex editorial review, not independent clinical-board approval."
+}
