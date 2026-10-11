@@ -3,7 +3,7 @@
   "status": "passed",
   "bankVersion": "2026.10-cbb5eadfe4e0",
   "bankSha256": "cbb5eadfe4e070a5914094f7f0f0b512aacc6d213da668a820882214f7cf4aff",
-  "scope": "Technical integrity of final reviewer ledgers and consolidated index. Review hashes and full-read assertions are supplied by the human review process; this script does not perform clinical or psychometric review.",
+  "scope": "Technical integrity of final reviewer ledgers and consolidated index. Review hashes and full-read assertions are supplied by the Codex topic-review process; this script does not perform clinical or psychometric review.",
   "checks": {
     "exactCoverage": true,
     "topicJsonMatchesCompiledBank": true,
